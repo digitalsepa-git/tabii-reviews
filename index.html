@@ -14,6 +14,54 @@
 </head>
 <body class="bg-slate-50 text-slate-900">
 
+<!-- Şifre Ekranı -->
+<div id="loginGate" class="fixed inset-0 bg-slate-900 z-50 flex items-center justify-center">
+  <div class="bg-white rounded-2xl shadow-2xl p-8 max-w-sm w-full mx-4">
+    <h1 class="text-2xl font-bold text-slate-900 mb-2">tabii — Yorumlar</h1>
+    <p class="text-sm text-slate-500 mb-6">Devam etmek için şifre girin</p>
+    <form id="loginForm">
+      <input type="password" id="loginPassword" autofocus
+             class="w-full border border-slate-300 rounded-lg px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-blue-500 mb-3"
+             placeholder="Şifre">
+      <button type="submit"
+              class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 rounded-lg transition">
+        Giriş
+      </button>
+      <div id="loginError" class="text-red-600 text-sm mt-3 hidden">Yanlış şifre</div>
+    </form>
+  </div>
+</div>
+
+<script>
+const PWD_HASH = "39b7f5899d00145cb1023d58b0c5937fbc83e620d4cdec2f886054e5683552bc";
+
+async function sha256(text) {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+function unlock() {
+  document.getElementById("loginGate").style.display = "none";
+}
+
+if (sessionStorage.getItem("tabii_auth") === PWD_HASH) {
+  unlock();
+}
+
+document.getElementById("loginForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const pwd = document.getElementById("loginPassword").value;
+  const hash = await sha256(pwd);
+  if (hash === PWD_HASH) {
+    sessionStorage.setItem("tabii_auth", PWD_HASH);
+    unlock();
+  } else {
+    document.getElementById("loginError").classList.remove("hidden");
+    document.getElementById("loginPassword").value = "";
+  }
+});
+</script>
+
 <div class="max-w-7xl mx-auto p-6">
 
   <!-- Başlık -->
