@@ -1,0 +1,31 @@
+name: Slack Backfill (Manuel)
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Kaç günlük yorumu Slack'e at?"
+        required: true
+        default: "7"
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Backfill çalıştır
+        env:
+          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+          ASC_PRIVATE_KEY: ${{ secrets.ASC_PRIVATE_KEY }}
+          ASC_APP_ID: ${{ secrets.ASC_APP_ID }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          BACKFILL_DAYS: ${{ inputs.days }}
+        run: python backfill_slack.py
