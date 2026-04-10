@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tabii — App Store Yorumları</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .scrollbar::-webkit-scrollbar { width: 8px; height: 8px; }
+  .scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+<div class="max-w-7xl mx-auto p-6">
+
+  <!-- Başlık -->
+  <header class="mb-6 flex items-end justify-between flex-wrap gap-4">
+    <div>
+      <h1 class="text-3xl font-bold text-slate-900">Tabii — App Store Yorumları</h1>
+      <p class="text-sm text-slate-500 mt-1" id="lastUpdate">Yükleniyor...</p>
+    </div>
+    <div class="text-xs text-slate-400">Kaynak: App Store Connect API</div>
+  </header>
+
+  <!-- Özet kartları -->
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6" id="summaryCards"></div>
+
+  <!-- Yıldız dağılımı -->
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5 mb-6">
+    <h2 class="font-semibold text-slate-800 mb-4">Puan Dağılımı</h2>
+    <div id="ratingBars" class="space-y-2"></div>
+  </div>
+
+  <!-- Grafikler -->
+  <div class="grid md:grid-cols-2 gap-4 mb-6">
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
+      <h2 class="font-semibold text-slate-800 mb-4">Aylık Trend (Ortalama Puan)</h2>
+      <canvas id="trendChart" height="180"></canvas>
+    </div>
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
+      <h2 class="font-semibold text-slate-800 mb-4">Ülke Dağılımı (Top 10)</h2>
+      <canvas id="countryChart" height="180"></canvas>
+    </div>
+  </div>
+
+  <!-- Filtreler -->
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5 mb-4">
+    <div class="grid md:grid-cols-4 gap-3">
+      <input type="text" id="search" placeholder="Yorumda ara..."
+             class="border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+      <select id="ratingFilter" class="border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
+        <option value="">Tüm puanlar</option>
+        <option value="5">⭐⭐⭐⭐⭐</option>
+        <option value="4">⭐⭐⭐⭐</option>
+        <option value="3">⭐⭐⭐</option>
+        <option value="2">⭐⭐</option>
+        <option value="1">⭐</option>
+      </select>
+      <select id="countryFilter" class="border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
+        <option value="">Tüm ülkeler</option>
+      </select>
+      <select id="sortBy" class="border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
+        <option value="date_desc">En yeni</option>
+        <option value="date_asc">En eski</option>
+        <option value="rating_desc">Yüksek puan</option>
+        <option value="rating_asc">Düşük puan</option>
+      </select>
+    </div>
+    <div class="mt-3 text-xs text-slate-500" id="filterInfo"></div>
+  </div>
+
+  <!-- Tablo -->
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+    <div class="overflow-x-auto scrollbar max-h-[700px] overflow-y-auto">
+      <table class="w-full text-sm">
+        <thead class="bg-slate-100 sticky top-0 z-10">
+          <tr>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Tarih</th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Puan</th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Ülke</th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Kullanıcı</th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Yorum</th>
+          </tr>
+        </thead>
+        <tbody id="reviewsTable"></tbody>
+      </table>
+    </div>
+    <div class="px-4 py-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
+      <span id="paginationInfo"></span>
+      <div class="flex gap-2">
+        <button id="prevPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">‹ Önceki</button>
+        <button id="nextPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">Sonraki ›</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const COUNTRIES = {
+  TUR:"🇹🇷 Türkiye",DEU:"🇩🇪 Almanya",USA:"🇺🇸 ABD",GBR:"🇬🇧 İngiltere",
+  NLD:"🇳🇱 Hollanda",FRA:"🇫🇷 Fransa",AUT:"🇦🇹 Avusturya",BEL:"🇧🇪 Belçika",
+  ARE:"🇦🇪 BAE",SAU:"🇸🇦 S.Arabistan",QAT:"🇶🇦 Katar",DNK:"🇩🇰 Danimarka",
+  SWE:"🇸🇪 İsveç",NOR:"🇳🇴 Norveç",CHE:"🇨🇭 İsviçre",AZE:"🇦🇿 Azerbaycan",
+  CAN:"🇨🇦 Kanada",ITA:"🇮🇹 İtalya",ESP:"🇪🇸 İspanya",POL:"🇵🇱 Polonya",
+  ROU:"🇷🇴 Romanya",BGR:"🇧🇬 Bulgaristan",HUN:"🇭🇺 Macaristan",CZE:"🇨🇿 Çekya",
+  GRC:"🇬🇷 Yunanistan",EGY:"🇪🇬 Mısır",RUS:"🇷🇺 Rusya",UKR:"🇺🇦 Ukrayna",
+  KAZ:"🇰🇿 Kazakistan",UZB:"🇺🇿 Özbekistan",MKD:"🇲🇰 K.Makedonya",
+  ALB:"🇦🇱 Arnavutluk",XKX:"🇽🇰 Kosova",IRQ:"🇮🇶 Irak",ISR:"🇮🇱 İsrail",
+  JOR:"🇯🇴 Ürdün",KWT:"🇰🇼 Kuveyt",LBN:"🇱🇧 Lübnan",MAR:"🇲🇦 Fas",
+  DZA:"🇩🇿 Cezayir",AUS:"🇦🇺 Avustralya",
+};
+
+let allReviews = [];
+let filtered = [];
+let currentPage = 1;
+const pageSize = 50;
+
+async function load() {
+  const r = await fetch("reviews.json?t=" + Date.now());
+  const data = await r.json();
+  allReviews = data.reviews || [];
+  document.getElementById("lastUpdate").textContent =
+    `${allReviews.length.toLocaleString("tr-TR")} yorum • Son güncelleme: ${new Date(data.updated_at).toLocaleString("tr-TR")}`;
+  populateFilters();
+  renderSummary();
+  renderRatingBars();
+  renderCharts();
+  applyFilters();
+}
+
+function populateFilters() {
+  const countries = [...new Set(allReviews.map(r => r.territory))]
+    .sort((a,b) => allReviews.filter(r => r.territory===b).length - allReviews.filter(r => r.territory===a).length);
+  const sel = document.getElementById("countryFilter");
+  countries.forEach(c => {
+    const opt = document.createElement("option");
+    opt.value = c;
+    opt.textContent = COUNTRIES[c] || c;
+    sel.appendChild(opt);
+  });
+}
+
+function renderSummary() {
+  const total = allReviews.length;
+  const avg = (allReviews.reduce((s,r) => s + r.rating, 0) / total).toFixed(2);
+  const now = new Date();
+  const dayAgo = new Date(now - 24*60*60*1000);
+  const weekAgo = new Date(now - 7*24*60*60*1000);
+  const today = allReviews.filter(r => new Date(r.date) >= dayAgo).length;
+  const week = allReviews.filter(r => new Date(r.date) >= weekAgo).length;
+
+  const cards = [
+    { label: "Toplam Yorum", value: total.toLocaleString("tr-TR"), color: "blue" },
+    { label: "Ortalama Puan", value: avg + " / 5", color: avg >= 4 ? "green" : (avg >= 3 ? "amber" : "red") },
+    { label: "Son 24 Saat", value: today, color: "slate" },
+    { label: "Son 7 Gün", value: week, color: "slate" },
+  ];
+  const colorMap = {
+    blue: "bg-blue-50 text-blue-700 border-blue-200",
+    green: "bg-emerald-50 text-emerald-700 border-emerald-200",
+    amber: "bg-amber-50 text-amber-700 border-amber-200",
+    red: "bg-red-50 text-red-700 border-red-200",
+    slate: "bg-slate-50 text-slate-700 border-slate-200",
+  };
+  document.getElementById("summaryCards").innerHTML = cards.map(c => `
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
+      <div class="text-xs text-slate-500 uppercase tracking-wide">${c.label}</div>
+      <div class="text-3xl font-bold mt-2 ${colorMap[c.color].split(' ')[1]}">${c.value}</div>
+    </div>
+  `).join("");
+}
+
+function renderRatingBars() {
+  const total = allReviews.length;
+  const counts = {1:0,2:0,3:0,4:0,5:0};
+  allReviews.forEach(r => counts[r.rating]++);
+  const colors = {5:"bg-emerald-500",4:"bg-emerald-400",3:"bg-amber-400",2:"bg-red-400",1:"bg-red-500"};
+  document.getElementById("ratingBars").innerHTML = [5,4,3,2,1].map(s => {
+    const pct = (counts[s] / total * 100).toFixed(1);
+    return `
+      <div class="flex items-center gap-3">
+        <div class="w-16 text-sm font-medium text-slate-700">${"★".repeat(s)}</div>
+        <div class="flex-1 bg-slate-100 rounded-full h-6 overflow-hidden">
+          <div class="${colors[s]} h-full rounded-full flex items-center justify-end px-2 text-xs text-white font-medium" style="width: ${pct}%">
+            ${pct >= 5 ? pct + "%" : ""}
+          </div>
+        </div>
+        <div class="w-20 text-right text-sm text-slate-600">${counts[s].toLocaleString("tr-TR")}</div>
+      </div>
+    `;
+  }).join("");
+}
+
+function renderCharts() {
+  // Aylık trend
+  const monthly = {};
+  allReviews.forEach(r => {
+    const m = r.date.substring(0,7);
+    if (!monthly[m]) monthly[m] = { sum: 0, count: 0 };
+    monthly[m].sum += r.rating;
+    monthly[m].count++;
+  });
+  const months = Object.keys(monthly).sort();
+  const avgs = months.map(m => (monthly[m].sum / monthly[m].count).toFixed(2));
+
+  new Chart(document.getElementById("trendChart"), {
+    type: "line",
+    data: {
+      labels: months,
+      datasets: [{
+        label: "Ortalama Puan",
+        data: avgs,
+        borderColor: "#3b82f6",
+        backgroundColor: "rgba(59,130,246,0.1)",
+        fill: true,
+        tension: 0.3,
+      }]
+    },
+    options: {
+      scales: { y: { min: 0, max: 5 } },
+      plugins: { legend: { display: false } },
+    }
+  });
+
+  // Ülke top 10
+  const countries = {};
+  allReviews.forEach(r => countries[r.territory] = (countries[r.territory] || 0) + 1);
+  const top = Object.entries(countries).sort((a,b) => b[1]-a[1]).slice(0,10);
+
+  new Chart(document.getElementById("countryChart"), {
+    type: "bar",
+    data: {
+      labels: top.map(([c]) => (COUNTRIES[c] || c).replace(/^[^\s]+\s/, "")),
+      datasets: [{
+        label: "Yorum",
+        data: top.map(([,n]) => n),
+        backgroundColor: "#3b82f6",
+      }]
+    },
+    options: {
+      indexAxis: "y",
+      plugins: { legend: { display: false } },
+    }
+  });
+}
+
+function applyFilters() {
+  const search = document.getElementById("search").value.toLowerCase();
+  const rating = document.getElementById("ratingFilter").value;
+  const country = document.getElementById("countryFilter").value;
+  const sortBy = document.getElementById("sortBy").value;
+
+  filtered = allReviews.filter(r => {
+    if (rating && r.rating != rating) return false;
+    if (country && r.territory != country) return false;
+    if (search && !((r.title + " " + r.body + " " + r.nickname).toLowerCase().includes(search))) return false;
+    return true;
+  });
+
+  filtered.sort((a,b) => {
+    if (sortBy === "date_desc") return b.date.localeCompare(a.date);
+    if (sortBy === "date_asc") return a.date.localeCompare(b.date);
+    if (sortBy === "rating_desc") return b.rating - a.rating;
+    if (sortBy === "rating_asc") return a.rating - b.rating;
+  });
+
+  currentPage = 1;
+  document.getElementById("filterInfo").textContent =
+    `${filtered.length.toLocaleString("tr-TR")} yorum gösteriliyor (${allReviews.length.toLocaleString("tr-TR")} toplam)`;
+  renderTable();
+}
+
+function renderTable() {
+  const start = (currentPage - 1) * pageSize;
+  const end = start + pageSize;
+  const slice = filtered.slice(start, end);
+
+  document.getElementById("reviewsTable").innerHTML = slice.map(r => {
+    const stars = "★".repeat(r.rating) + "☆".repeat(5 - r.rating);
+    const starColor = r.rating >= 4 ? "text-emerald-600" : (r.rating === 3 ? "text-amber-600" : "text-red-600");
+    const rowBg = r.rating <= 2 ? "bg-red-50/40" : (r.rating === 5 ? "bg-emerald-50/30" : "");
+    const date = new Date(r.date).toLocaleDateString("tr-TR");
+    return `
+      <tr class="border-t border-slate-100 hover:bg-slate-50 ${rowBg}">
+        <td class="px-4 py-3 align-top text-slate-600 whitespace-nowrap">${date}</td>
+        <td class="px-4 py-3 align-top whitespace-nowrap"><span class="${starColor} font-medium">${stars}</span></td>
+        <td class="px-4 py-3 align-top text-slate-700 whitespace-nowrap">${COUNTRIES[r.territory] || r.territory}</td>
+        <td class="px-4 py-3 align-top text-slate-600 whitespace-nowrap">${escapeHtml(r.nickname)}</td>
+        <td class="px-4 py-3 align-top text-slate-700">
+          ${r.title ? `<div class="font-medium mb-1">${escapeHtml(r.title)}</div>` : ""}
+          <div class="text-slate-600">${escapeHtml(r.body)}</div>
+        </td>
+      </tr>
+    `;
+  }).join("");
+
+  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  document.getElementById("paginationInfo").textContent = `Sayfa ${currentPage} / ${totalPages}`;
+  document.getElementById("prevPage").disabled = currentPage <= 1;
+  document.getElementById("nextPage").disabled = currentPage >= totalPages;
+}
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+
+document.getElementById("search").addEventListener("input", applyFilters);
+document.getElementById("ratingFilter").addEventListener("change", applyFilters);
+document.getElementById("countryFilter").addEventListener("change", applyFilters);
+document.getElementById("sortBy").addEventListener("change", applyFilters);
+document.getElementById("prevPage").addEventListener("click", () => { currentPage--; renderTable(); });
+document.getElementById("nextPage").addEventListener("click", () => { currentPage++; renderTable(); });
+
+load().catch(e => {
+  document.getElementById("lastUpdate").innerHTML = `<span class="text-red-600">Hata: reviews.json yüklenemedi (${e.message})</span>`;
+});
+</script>
+
+</body>
+</html>
