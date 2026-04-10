@@ -10,53 +10,105 @@
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
   .scrollbar::-webkit-scrollbar { width: 8px; height: 8px; }
   .scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+  .sort-header { cursor: pointer; user-select: none; }
+  .sort-header:hover { background-color: #e2e8f0; }
+  .sort-arrow { display: inline-block; width: 12px; opacity: 0.4; }
+  .sort-arrow.active { opacity: 1; color: #2563eb; }
 </style>
 </head>
 <body class="bg-slate-50 text-slate-900">
 
-<!-- Şifre Ekranı -->
+<!-- Login Ekranı -->
 <div id="loginGate" class="fixed inset-0 bg-slate-900 z-50 flex items-center justify-center">
   <div class="bg-white rounded-2xl shadow-2xl p-8 max-w-sm w-full mx-4">
     <h1 class="text-2xl font-bold text-slate-900 mb-2">tabii — Yorumlar</h1>
-    <p class="text-sm text-slate-500 mb-6">Devam etmek için şifre girin</p>
+    <p class="text-sm text-slate-500 mb-6">Devam etmek için giriş yapın</p>
     <form id="loginForm">
-      <input type="password" id="loginPassword" autofocus
+      <input type="text" id="loginUser" autocomplete="username"
+             class="w-full border border-slate-300 rounded-lg px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-blue-500 mb-3"
+             placeholder="Kullanıcı adı">
+      <input type="password" id="loginPassword" autocomplete="current-password"
              class="w-full border border-slate-300 rounded-lg px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-blue-500 mb-3"
              placeholder="Şifre">
-      <button type="submit"
-              class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 rounded-lg transition">
+      <label class="flex items-center gap-2 text-sm text-slate-600 mb-4 cursor-pointer">
+        <input type="checkbox" id="rememberMe" class="rounded">
+        Beni hatırla
+      </label>
+      <button type="submit" id="loginButton"
+              class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 rounded-lg transition disabled:bg-slate-400 disabled:cursor-not-allowed">
         Giriş
       </button>
-      <div id="loginError" class="text-red-600 text-sm mt-3 hidden">Yanlış şifre</div>
+      <div id="loginError" class="text-red-600 text-sm mt-3 hidden"></div>
     </form>
   </div>
 </div>
 
 <script>
-const PWD_HASH = "39b7f5899d00145cb1023d58b0c5937fbc83e620d4cdec2f886054e5683552bc";
+// SHA-256("ProductTeam:112233Tt*")
+const AUTH_HASH = "8736cb3c34ed7302e449897249f6f084b1cdd2212e5d5484f835a4c84de45c19";
+const MAX_ATTEMPTS = 5;
+const LOCKOUT_MS = 60 * 60 * 1000; // 1 saat
 
 async function sha256(text) {
   const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
-  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,"0")).join("");
 }
 
 function unlock() {
   document.getElementById("loginGate").style.display = "none";
+  if (typeof load === "function") load();
 }
 
-if (sessionStorage.getItem("tabii_auth") === PWD_HASH) {
+function checkLockout() {
+  const until = parseInt(localStorage.getItem("tabii_lockout") || "0");
+  if (until > Date.now()) {
+    const minLeft = Math.ceil((until - Date.now()) / 60000);
+    document.getElementById("loginButton").disabled = true;
+    document.getElementById("loginError").textContent = `Çok fazla hatalı giriş. ${minLeft} dakika sonra tekrar deneyin.`;
+    document.getElementById("loginError").classList.remove("hidden");
+    setTimeout(checkLockout, 30000);
+    return true;
+  }
+  document.getElementById("loginButton").disabled = false;
+  return false;
+}
+
+if (localStorage.getItem("tabii_auth") === "ok" || sessionStorage.getItem("tabii_auth") === "ok") {
   unlock();
+} else {
+  checkLockout();
 }
 
 document.getElementById("loginForm").addEventListener("submit", async (e) => {
   e.preventDefault();
+  if (checkLockout()) return;
+
+  const user = document.getElementById("loginUser").value.trim();
   const pwd = document.getElementById("loginPassword").value;
-  const hash = await sha256(pwd);
-  if (hash === PWD_HASH) {
-    sessionStorage.setItem("tabii_auth", PWD_HASH);
+  const remember = document.getElementById("rememberMe").checked;
+  const hash = await sha256(user + ":" + pwd);
+
+  if (hash === AUTH_HASH) {
+    localStorage.removeItem("tabii_attempts");
+    if (remember) {
+      localStorage.setItem("tabii_auth", "ok");
+    } else {
+      sessionStorage.setItem("tabii_auth", "ok");
+    }
     unlock();
   } else {
-    document.getElementById("loginError").classList.remove("hidden");
+    let attempts = parseInt(localStorage.getItem("tabii_attempts") || "0") + 1;
+    localStorage.setItem("tabii_attempts", attempts);
+    const remaining = MAX_ATTEMPTS - attempts;
+
+    if (remaining <= 0) {
+      localStorage.setItem("tabii_lockout", Date.now() + LOCKOUT_MS);
+      localStorage.removeItem("tabii_attempts");
+      checkLockout();
+    } else {
+      document.getElementById("loginError").textContent = `Yanlış giriş. ${remaining} hak kaldı.`;
+      document.getElementById("loginError").classList.remove("hidden");
+    }
     document.getElementById("loginPassword").value = "";
   }
 });
@@ -64,25 +116,29 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
 
 <div class="max-w-7xl mx-auto p-6">
 
-  <!-- Başlık -->
   <header class="mb-6 flex items-end justify-between flex-wrap gap-4">
     <div>
       <h1 class="text-3xl font-bold text-slate-900">tabii — App Store Yorumları</h1>
       <p class="text-sm text-slate-500 mt-1" id="lastUpdate">Yükleniyor...</p>
     </div>
-    <div class="text-xs text-slate-400">Kaynak: App Store Connect API</div>
+    <div class="flex items-center gap-3">
+      <button id="refreshBtn" class="flex items-center gap-2 bg-white border border-slate-300 hover:bg-slate-50 text-slate-700 font-medium px-4 py-2 rounded-lg transition text-sm">
+        <svg id="refreshIcon" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+        </svg>
+        Yenile
+      </button>
+      <button id="logoutBtn" class="text-xs text-slate-400 hover:text-slate-600">Çıkış</button>
+    </div>
   </header>
 
-  <!-- Özet kartları -->
   <div class="grid grid-cols-2 md:grid-cols-5 gap-4 mb-6" id="summaryCards"></div>
 
-  <!-- Yıldız dağılımı -->
   <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5 mb-6">
     <h2 class="font-semibold text-slate-800 mb-4">Puan Dağılımı</h2>
     <div id="ratingBars" class="space-y-2"></div>
   </div>
 
-  <!-- Grafikler -->
   <div class="grid md:grid-cols-2 gap-4 mb-6">
     <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
       <h2 class="font-semibold text-slate-800 mb-4">Aylık Trend (Yorum Ortalaması)</h2>
@@ -94,55 +150,86 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
     </div>
   </div>
 
-  <!-- Filtreler -->
-  <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5 mb-4">
-    <div class="grid md:grid-cols-4 gap-3">
-      <input type="text" id="search" placeholder="Yorumda ara..."
-             class="border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
-      <select id="ratingFilter" class="border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
-        <option value="">Tüm puanlar</option>
-        <option value="5">⭐⭐⭐⭐⭐</option>
-        <option value="4">⭐⭐⭐⭐</option>
-        <option value="3">⭐⭐⭐</option>
-        <option value="2">⭐⭐</option>
-        <option value="1">⭐</option>
-      </select>
-      <select id="countryFilter" class="border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
-        <option value="">Tüm ülkeler</option>
-      </select>
-      <select id="sortBy" class="border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
-        <option value="date_desc">En yeni</option>
-        <option value="date_asc">En eski</option>
-        <option value="rating_desc">Yüksek puan</option>
-        <option value="rating_asc">Düşük puan</option>
-      </select>
-    </div>
-    <div class="mt-3 text-xs text-slate-500" id="filterInfo"></div>
-  </div>
+  <div class="grid md:grid-cols-4 gap-4">
 
-  <!-- Tablo -->
-  <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
-    <div class="overflow-x-auto scrollbar max-h-[700px] overflow-y-auto">
-      <table class="w-full text-sm">
-        <thead class="bg-slate-100 sticky top-0 z-10">
-          <tr>
-            <th class="px-4 py-3 text-left font-semibold text-slate-700">Tarih</th>
-            <th class="px-4 py-3 text-left font-semibold text-slate-700">Puan</th>
-            <th class="px-4 py-3 text-left font-semibold text-slate-700">Ülke</th>
-            <th class="px-4 py-3 text-left font-semibold text-slate-700">Kullanıcı</th>
-            <th class="px-4 py-3 text-left font-semibold text-slate-700">Yorum</th>
-          </tr>
-        </thead>
-        <tbody id="reviewsTable"></tbody>
-      </table>
-    </div>
-    <div class="px-4 py-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
-      <span id="paginationInfo"></span>
-      <div class="flex gap-2">
-        <button id="prevPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">‹ Önceki</button>
-        <button id="nextPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">Sonraki ›</button>
+    <aside class="md:col-span-1 bg-white rounded-xl shadow-sm border border-slate-200 p-5 h-fit md:sticky md:top-4">
+      <div class="flex items-center justify-between mb-4">
+        <h3 class="font-semibold text-slate-800">Filtreler</h3>
+        <button id="clearFilters" class="text-xs text-blue-600 hover:text-blue-800">Temizle</button>
+      </div>
+
+      <div class="space-y-4">
+        <div>
+          <label class="block text-xs font-medium text-slate-600 mb-1">Arama</label>
+          <input type="text" id="search" placeholder="Yorumda ara..."
+                 class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+
+        <div>
+          <label class="block text-xs font-medium text-slate-600 mb-1">Puan</label>
+          <select id="ratingFilter" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
+            <option value="">Tüm puanlar</option>
+            <option value="5">⭐⭐⭐⭐⭐ (5)</option>
+            <option value="4">⭐⭐⭐⭐ (4)</option>
+            <option value="3">⭐⭐⭐ (3)</option>
+            <option value="2">⭐⭐ (2)</option>
+            <option value="1">⭐ (1)</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="block text-xs font-medium text-slate-600 mb-1">Ülke</label>
+          <select id="countryFilter" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
+            <option value="">Tüm ülkeler</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="block text-xs font-medium text-slate-600 mb-1">Tarih (başlangıç)</label>
+          <input type="date" id="dateFrom" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm">
+        </div>
+
+        <div>
+          <label class="block text-xs font-medium text-slate-600 mb-1">Tarih (bitiş)</label>
+          <input type="date" id="dateTo" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm">
+        </div>
+
+        <div class="pt-2 border-t border-slate-100">
+          <div class="text-xs text-slate-500" id="filterInfo"></div>
+        </div>
+      </div>
+    </aside>
+
+    <div class="md:col-span-3 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+      <div class="overflow-x-auto scrollbar max-h-[700px] overflow-y-auto">
+        <table class="w-full text-sm">
+          <thead class="bg-slate-100 sticky top-0 z-10">
+            <tr>
+              <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="date">
+                Tarih <span class="sort-arrow active" data-arrow="date">↓</span>
+              </th>
+              <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="rating">
+                Puan <span class="sort-arrow" data-arrow="rating">↕</span>
+              </th>
+              <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="territory">
+                Ülke <span class="sort-arrow" data-arrow="territory">↕</span>
+              </th>
+              <th class="px-4 py-3 text-left font-semibold text-slate-700">Kullanıcı</th>
+              <th class="px-4 py-3 text-left font-semibold text-slate-700">Yorum</th>
+            </tr>
+          </thead>
+          <tbody id="reviewsTable"></tbody>
+        </table>
+      </div>
+      <div class="px-4 py-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
+        <span id="paginationInfo"></span>
+        <div class="flex gap-2">
+          <button id="prevPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">‹ Önceki</button>
+          <button id="nextPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">Sonraki ›</button>
+        </div>
       </div>
     </div>
+
   </div>
 
 </div>
@@ -167,9 +254,13 @@ let filtered = [];
 let appStoreData = null;
 let currentPage = 1;
 const pageSize = 50;
+let sortKey = "date";
+let sortDir = "desc";
+let trendChartInstance = null;
+let countryChartInstance = null;
 
 async function load() {
-  const r = await fetch("reviews.json?t=" + Date.now());
+  const r = await fetch("reviews.json?t=" + Date.now(), { cache: "no-store" });
   const data = await r.json();
   allReviews = data.reviews || [];
   appStoreData = data.appstore || null;
@@ -184,9 +275,11 @@ async function load() {
 }
 
 function populateFilters() {
+  const sel = document.getElementById("countryFilter");
+  if (sel.options.length > 1) return;
+
   const countries = [...new Set(allReviews.map(r => r.territory))]
     .sort((a,b) => allReviews.filter(r => r.territory===b).length - allReviews.filter(r => r.territory===a).length);
-  const sel = document.getElementById("countryFilter");
   countries.forEach(c => {
     const opt = document.createElement("option");
     opt.value = c;
@@ -252,7 +345,9 @@ function renderRatingBars() {
 }
 
 function renderCharts() {
-  // Aylık trend
+  if (trendChartInstance) trendChartInstance.destroy();
+  if (countryChartInstance) countryChartInstance.destroy();
+
   const monthly = {};
   allReviews.forEach(r => {
     const m = r.date.substring(0,7);
@@ -263,7 +358,7 @@ function renderCharts() {
   const months = Object.keys(monthly).sort();
   const avgs = months.map(m => (monthly[m].sum / monthly[m].count).toFixed(2));
 
-  new Chart(document.getElementById("trendChart"), {
+  trendChartInstance = new Chart(document.getElementById("trendChart"), {
     type: "line",
     data: {
       labels: months,
@@ -282,12 +377,11 @@ function renderCharts() {
     }
   });
 
-  // Ülke top 10
   const countries = {};
   allReviews.forEach(r => countries[r.territory] = (countries[r.territory] || 0) + 1);
   const top = Object.entries(countries).sort((a,b) => b[1]-a[1]).slice(0,10);
 
-  new Chart(document.getElementById("countryChart"), {
+  countryChartInstance = new Chart(document.getElementById("countryChart"), {
     type: "bar",
     data: {
       labels: top.map(([c]) => (COUNTRIES[c] || c).replace(/^[^\s]+\s/, "")),
@@ -308,26 +402,43 @@ function applyFilters() {
   const search = document.getElementById("search").value.toLowerCase();
   const rating = document.getElementById("ratingFilter").value;
   const country = document.getElementById("countryFilter").value;
-  const sortBy = document.getElementById("sortBy").value;
+  const dateFrom = document.getElementById("dateFrom").value;
+  const dateTo = document.getElementById("dateTo").value;
 
   filtered = allReviews.filter(r => {
     if (rating && r.rating != rating) return false;
     if (country && r.territory != country) return false;
     if (search && !((r.title + " " + r.body + " " + r.nickname).toLowerCase().includes(search))) return false;
+    if (dateFrom && r.date < dateFrom) return false;
+    if (dateTo && r.date > dateTo + "T23:59:59") return false;
     return true;
   });
 
-  filtered.sort((a,b) => {
-    if (sortBy === "date_desc") return b.date.localeCompare(a.date);
-    if (sortBy === "date_asc") return a.date.localeCompare(b.date);
-    if (sortBy === "rating_desc") return b.rating - a.rating;
-    if (sortBy === "rating_asc") return a.rating - b.rating;
-  });
-
+  applySort();
   currentPage = 1;
   document.getElementById("filterInfo").textContent =
     `${filtered.length.toLocaleString("tr-TR")} yorum gösteriliyor (${allReviews.length.toLocaleString("tr-TR")} toplam)`;
   renderTable();
+}
+
+function applySort() {
+  filtered.sort((a, b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (typeof av === "string") {
+      const r = av.localeCompare(bv);
+      return sortDir === "asc" ? r : -r;
+    }
+    return sortDir === "asc" ? av - bv : bv - av;
+  });
+  document.querySelectorAll("[data-arrow]").forEach(el => {
+    el.classList.remove("active");
+    el.textContent = "↕";
+  });
+  const arrow = document.querySelector(`[data-arrow="${sortKey}"]`);
+  if (arrow) {
+    arrow.classList.add("active");
+    arrow.textContent = sortDir === "asc" ? "↑" : "↓";
+  }
 }
 
 function renderTable() {
@@ -367,12 +478,50 @@ function escapeHtml(s) {
 document.getElementById("search").addEventListener("input", applyFilters);
 document.getElementById("ratingFilter").addEventListener("change", applyFilters);
 document.getElementById("countryFilter").addEventListener("change", applyFilters);
-document.getElementById("sortBy").addEventListener("change", applyFilters);
+document.getElementById("dateFrom").addEventListener("change", applyFilters);
+document.getElementById("dateTo").addEventListener("change", applyFilters);
 document.getElementById("prevPage").addEventListener("click", () => { currentPage--; renderTable(); });
 document.getElementById("nextPage").addEventListener("click", () => { currentPage++; renderTable(); });
 
-load().catch(e => {
-  document.getElementById("lastUpdate").innerHTML = `<span class="text-red-600">Hata: reviews.json yüklenemedi (${e.message})</span>`;
+document.getElementById("clearFilters").addEventListener("click", () => {
+  document.getElementById("search").value = "";
+  document.getElementById("ratingFilter").value = "";
+  document.getElementById("countryFilter").value = "";
+  document.getElementById("dateFrom").value = "";
+  document.getElementById("dateTo").value = "";
+  applyFilters();
+});
+
+document.querySelectorAll(".sort-header").forEach(th => {
+  th.addEventListener("click", () => {
+    const key = th.getAttribute("data-sort");
+    if (sortKey === key) {
+      sortDir = sortDir === "asc" ? "desc" : "asc";
+    } else {
+      sortKey = key;
+      sortDir = key === "date" ? "desc" : "asc";
+    }
+    applySort();
+    renderTable();
+  });
+});
+
+document.getElementById("refreshBtn").addEventListener("click", async () => {
+  const icon = document.getElementById("refreshIcon");
+  icon.classList.add("animate-spin");
+  try {
+    await load();
+  } catch (e) {
+    alert("Yenileme hatası: " + e.message);
+  } finally {
+    setTimeout(() => icon.classList.remove("animate-spin"), 500);
+  }
+});
+
+document.getElementById("logoutBtn").addEventListener("click", () => {
+  localStorage.removeItem("tabii_auth");
+  sessionStorage.removeItem("tabii_auth");
+  location.reload();
 });
 </script>
 
