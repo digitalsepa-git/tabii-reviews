@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tabii — App Store Yorumları</title>
+<title>tabii — App Store Yorumları</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
@@ -19,14 +19,14 @@
   <!-- Başlık -->
   <header class="mb-6 flex items-end justify-between flex-wrap gap-4">
     <div>
-      <h1 class="text-3xl font-bold text-slate-900">Tabii — App Store Yorumları</h1>
+      <h1 class="text-3xl font-bold text-slate-900">tabii — App Store Yorumları</h1>
       <p class="text-sm text-slate-500 mt-1" id="lastUpdate">Yükleniyor...</p>
     </div>
     <div class="text-xs text-slate-400">Kaynak: App Store Connect API</div>
   </header>
 
   <!-- Özet kartları -->
-  <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6" id="summaryCards"></div>
+  <div class="grid grid-cols-2 md:grid-cols-5 gap-4 mb-6" id="summaryCards"></div>
 
   <!-- Yıldız dağılımı -->
   <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5 mb-6">
@@ -37,7 +37,7 @@
   <!-- Grafikler -->
   <div class="grid md:grid-cols-2 gap-4 mb-6">
     <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
-      <h2 class="font-semibold text-slate-800 mb-4">Aylık Trend (Ortalama Puan)</h2>
+      <h2 class="font-semibold text-slate-800 mb-4">Aylık Trend (Yorum Ortalaması)</h2>
       <canvas id="trendChart" height="180"></canvas>
     </div>
     <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
@@ -116,6 +116,7 @@ const COUNTRIES = {
 
 let allReviews = [];
 let filtered = [];
+let appStoreData = null;
 let currentPage = 1;
 const pageSize = 50;
 
@@ -123,8 +124,10 @@ async function load() {
   const r = await fetch("reviews.json?t=" + Date.now());
   const data = await r.json();
   allReviews = data.reviews || [];
+  appStoreData = data.appstore || null;
   document.getElementById("lastUpdate").textContent =
     `${allReviews.length.toLocaleString("tr-TR")} yorum • Son güncelleme: ${new Date(data.updated_at).toLocaleString("tr-TR")}`;
+
   populateFilters();
   renderSummary();
   renderRatingBars();
@@ -153,23 +156,28 @@ function renderSummary() {
   const today = allReviews.filter(r => new Date(r.date) >= dayAgo).length;
   const week = allReviews.filter(r => new Date(r.date) >= weekAgo).length;
 
+  const genelPuan = appStoreData && appStoreData.average ? appStoreData.average.toFixed(2) : "—";
+  const genelCount = appStoreData && appStoreData.count ? appStoreData.count.toLocaleString("tr-TR") : "";
+
   const cards = [
-    { label: "Toplam Yorum", value: total.toLocaleString("tr-TR"), color: "blue" },
-    { label: "Ortalama Puan", value: avg + " / 5", color: avg >= 4 ? "green" : (avg >= 3 ? "amber" : "red") },
-    { label: "Son 24 Saat", value: today, color: "slate" },
-    { label: "Son 7 Gün", value: week, color: "slate" },
+    { label: "Toplam Yorum", value: total.toLocaleString("tr-TR"), sub: "", color: "blue" },
+    { label: "Genel Puan (App Store)", value: genelPuan + " / 5", sub: genelCount ? genelCount + " puanlama" : "", color: "green" },
+    { label: "Yorum Ortalaması", value: avg + " / 5", sub: "", color: avg >= 4 ? "green" : (avg >= 3 ? "amber" : "red") },
+    { label: "Son 24 Saat", value: today, sub: "", color: "slate" },
+    { label: "Son 7 Gün", value: week, sub: "", color: "slate" },
   ];
   const colorMap = {
-    blue: "bg-blue-50 text-blue-700 border-blue-200",
-    green: "bg-emerald-50 text-emerald-700 border-emerald-200",
-    amber: "bg-amber-50 text-amber-700 border-amber-200",
-    red: "bg-red-50 text-red-700 border-red-200",
-    slate: "bg-slate-50 text-slate-700 border-slate-200",
+    blue: "text-blue-700",
+    green: "text-emerald-700",
+    amber: "text-amber-700",
+    red: "text-red-700",
+    slate: "text-slate-700",
   };
   document.getElementById("summaryCards").innerHTML = cards.map(c => `
     <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-5">
       <div class="text-xs text-slate-500 uppercase tracking-wide">${c.label}</div>
-      <div class="text-3xl font-bold mt-2 ${colorMap[c.color].split(' ')[1]}">${c.value}</div>
+      <div class="text-3xl font-bold mt-2 ${colorMap[c.color]}">${c.value}</div>
+      ${c.sub ? `<div class="text-xs text-slate-400 mt-1">${c.sub}</div>` : ""}
     </div>
   `).join("");
 }

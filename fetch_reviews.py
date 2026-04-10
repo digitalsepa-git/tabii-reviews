@@ -138,10 +138,38 @@ def load_existing():
     return {r["id"] for r in existing}, existing
 
 
+def fetch_appstore_summary():
+    """iTunes Lookup'tan App Store genel puanını çeker (TR storefront)."""
+    try:
+        url = f"https://itunes.apple.com/lookup?id={APP_ID}&country=tr"
+        r = requests.get(url, timeout=15)
+        if r.status_code != 200:
+            return None
+        d = r.json()
+        if not d.get("results"):
+            return None
+        item = d["results"][0]
+        return {
+            "average": item.get("averageUserRating"),
+            "count": item.get("userRatingCount"),
+            "current_version_average": item.get("averageUserRatingForCurrentVersion"),
+            "current_version_count": item.get("userRatingCountForCurrentVersion"),
+            "version": item.get("version"),
+        }
+    except Exception as e:
+        print(f"iTunes Lookup hatası: {e}")
+        return None
+
+
 def main():
     print("Yorumlar çekiliyor...")
     all_reviews = fetch_all_reviews()
     print(f"Toplam {len(all_reviews)} yorum API'den geldi.")
+
+    print("App Store özeti çekiliyor...")
+    appstore = fetch_appstore_summary()
+    if appstore:
+        print(f"Genel puan: {appstore['average']} ({appstore['count']:,} puanlama)")
 
     existing_ids, existing_list = load_existing()
     print(f"Önceki kayıtta {len(existing_ids)} yorum var.")
@@ -164,6 +192,7 @@ def main():
     output = {
         "updated_at": datetime.utcnow().isoformat() + "Z",
         "total": len(all_reviews),
+        "appstore": appstore,
         "reviews": all_reviews,
     }
     with open(REVIEWS_FILE, "w", encoding="utf-8") as f:
