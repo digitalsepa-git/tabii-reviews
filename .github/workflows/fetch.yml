@@ -1,0 +1,39 @@
+name: Yorumları Çek
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları yükle
+        run: pip install -r requirements.txt
+
+      - name: Yorumları çek
+        env:
+          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+          ASC_PRIVATE_KEY: ${{ secrets.ASC_PRIVATE_KEY }}
+          ASC_APP_ID: ${{ secrets.ASC_APP_ID }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python fetch_reviews.py
+
+      - name: reviews.json'ı commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reviews.json
+          git diff --quiet --cached || git commit -m "Yorumları güncelle: $(date -u +%Y-%m-%d)"
+          git push
