@@ -150,21 +150,33 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
     </div>
   </div>
 
-  <div class="grid md:grid-cols-4 gap-4">
-
-    <aside class="md:col-span-1 bg-white rounded-xl shadow-sm border border-slate-200 p-5 h-fit md:sticky md:top-4">
-      <div class="flex items-center justify-between mb-4">
-        <h3 class="font-semibold text-slate-800">Filtreler</h3>
-        <button id="clearFilters" class="text-xs text-blue-600 hover:text-blue-800">Temizle</button>
+  <!-- Filter Bar -->
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 mb-4">
+    <div class="px-5 py-3 flex items-center justify-between flex-wrap gap-3">
+      <div class="flex items-center gap-3 flex-wrap">
+        <button id="toggleFilters" class="flex items-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium px-4 py-2 rounded-lg text-sm transition">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"/>
+          </svg>
+          Filtreler
+          <span id="activeCount" class="hidden bg-blue-600 text-white text-xs px-2 py-0.5 rounded-full"></span>
+          <svg id="filterArrow" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+          </svg>
+        </button>
+        <div id="activeBadges" class="flex items-center gap-2 flex-wrap"></div>
       </div>
+      <div class="text-xs text-slate-500" id="filterInfo"></div>
+    </div>
 
-      <div class="space-y-4">
+    <!-- Dropdown Panel -->
+    <div id="filterPanel" class="hidden border-t border-slate-200 px-5 py-4 bg-slate-50">
+      <div class="grid md:grid-cols-5 gap-3">
         <div>
           <label class="block text-xs font-medium text-slate-600 mb-1">Arama</label>
           <input type="text" id="search" placeholder="Yorumda ara..."
                  class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
-
         <div>
           <label class="block text-xs font-medium text-slate-600 mb-1">Puan</label>
           <select id="ratingFilter" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
@@ -176,60 +188,53 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
             <option value="1">⭐ (1)</option>
           </select>
         </div>
-
         <div>
           <label class="block text-xs font-medium text-slate-600 mb-1">Ülke</label>
           <select id="countryFilter" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm bg-white">
             <option value="">Tüm ülkeler</option>
           </select>
         </div>
-
         <div>
           <label class="block text-xs font-medium text-slate-600 mb-1">Tarih (başlangıç)</label>
           <input type="date" id="dateFrom" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm">
         </div>
-
         <div>
           <label class="block text-xs font-medium text-slate-600 mb-1">Tarih (bitiş)</label>
           <input type="date" id="dateTo" class="w-full border border-slate-300 rounded-lg px-3 py-2 text-sm">
         </div>
-
-        <div class="pt-2 border-t border-slate-100">
-          <div class="text-xs text-slate-500" id="filterInfo"></div>
-        </div>
-      </div>
-    </aside>
-
-    <div class="md:col-span-3 bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
-      <div class="overflow-x-auto scrollbar max-h-[700px] overflow-y-auto">
-        <table class="w-full text-sm">
-          <thead class="bg-slate-100 sticky top-0 z-10">
-            <tr>
-              <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="date">
-                Tarih <span class="sort-arrow active" data-arrow="date">↓</span>
-              </th>
-              <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="rating">
-                Puan <span class="sort-arrow" data-arrow="rating">↕</span>
-              </th>
-              <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="territory">
-                Ülke <span class="sort-arrow" data-arrow="territory">↕</span>
-              </th>
-              <th class="px-4 py-3 text-left font-semibold text-slate-700">Kullanıcı</th>
-              <th class="px-4 py-3 text-left font-semibold text-slate-700">Yorum</th>
-            </tr>
-          </thead>
-          <tbody id="reviewsTable"></tbody>
-        </table>
-      </div>
-      <div class="px-4 py-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
-        <span id="paginationInfo"></span>
-        <div class="flex gap-2">
-          <button id="prevPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">‹ Önceki</button>
-          <button id="nextPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">Sonraki ›</button>
-        </div>
       </div>
     </div>
+  </div>
 
+  <!-- Tablo -->
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+    <div class="overflow-x-auto scrollbar max-h-[700px] overflow-y-auto">
+      <table class="w-full text-sm">
+        <thead class="bg-slate-100 sticky top-0 z-10">
+          <tr>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="date">
+              Tarih <span class="sort-arrow active" data-arrow="date">↓</span>
+            </th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="rating">
+              Puan <span class="sort-arrow" data-arrow="rating">↕</span>
+            </th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700 sort-header" data-sort="territory">
+              Ülke <span class="sort-arrow" data-arrow="territory">↕</span>
+            </th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Kullanıcı</th>
+            <th class="px-4 py-3 text-left font-semibold text-slate-700">Yorum</th>
+          </tr>
+        </thead>
+        <tbody id="reviewsTable"></tbody>
+      </table>
+    </div>
+    <div class="px-4 py-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
+      <span id="paginationInfo"></span>
+      <div class="flex gap-2">
+        <button id="prevPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">‹ Önceki</button>
+        <button id="nextPage" class="px-3 py-1 border border-slate-300 rounded hover:bg-slate-50 disabled:opacity-40">Sonraki ›</button>
+      </div>
+    </div>
   </div>
 
 </div>
@@ -264,8 +269,10 @@ async function load() {
   const data = await r.json();
   allReviews = data.reviews || [];
   appStoreData = data.appstore || null;
-  document.getElementById("lastUpdate").textContent =
-    `${allReviews.length.toLocaleString("tr-TR")} yorum • Son güncelleme: ${new Date(data.updated_at).toLocaleString("tr-TR")}`;
+  const dataDate = new Date(data.updated_at).toLocaleString("tr-TR");
+  const refreshedAt = new Date().toLocaleString("tr-TR");
+  document.getElementById("lastUpdate").innerHTML =
+    `${allReviews.length.toLocaleString("tr-TR")} yorum • <strong>Son yenileme:</strong> ${refreshedAt} • <span class="text-slate-400">Veri tarihi: ${dataDate}</span>`;
 
   populateFilters();
   renderSummary();
@@ -418,7 +425,70 @@ function applyFilters() {
   currentPage = 1;
   document.getElementById("filterInfo").textContent =
     `${filtered.length.toLocaleString("tr-TR")} yorum gösteriliyor (${allReviews.length.toLocaleString("tr-TR")} toplam)`;
+  renderActiveBadges();
   renderTable();
+}
+
+function renderActiveBadges() {
+  const search = document.getElementById("search").value;
+  const rating = document.getElementById("ratingFilter").value;
+  const country = document.getElementById("countryFilter").value;
+  const dateFrom = document.getElementById("dateFrom").value;
+  const dateTo = document.getElementById("dateTo").value;
+
+  const badges = [];
+  if (search) badges.push({ key: "search", label: `Arama: "${search}"` });
+  if (rating) badges.push({ key: "ratingFilter", label: `Puan: ${"⭐".repeat(parseInt(rating))}` });
+  if (country) badges.push({ key: "countryFilter", label: `Ülke: ${COUNTRIES[country] || country}` });
+  if (dateFrom || dateTo) {
+    const fmt = d => d ? new Date(d).toLocaleDateString("tr-TR") : "…";
+    badges.push({ key: "dateRange", label: `Tarih: ${fmt(dateFrom)} — ${fmt(dateTo)}` });
+  }
+
+  const badgesEl = document.getElementById("activeBadges");
+  const countEl = document.getElementById("activeCount");
+
+  if (badges.length === 0) {
+    badgesEl.innerHTML = "";
+    countEl.classList.add("hidden");
+    return;
+  }
+
+  countEl.textContent = badges.length;
+  countEl.classList.remove("hidden");
+
+  badgesEl.innerHTML = badges.map(b => `
+    <span class="inline-flex items-center gap-1.5 bg-blue-50 border border-blue-200 text-blue-700 text-xs px-3 py-1 rounded-full">
+      ${escapeHtml(b.label)}
+      <button class="badge-remove hover:bg-blue-200 rounded-full w-4 h-4 flex items-center justify-center" data-key="${b.key}">×</button>
+    </span>
+  `).join("") + `
+    <button id="clearAllBtn" class="text-xs text-slate-500 hover:text-red-600 underline ml-1">Hepsini temizle</button>
+  `;
+
+  document.querySelectorAll(".badge-remove").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const key = btn.getAttribute("data-key");
+      if (key === "dateRange") {
+        document.getElementById("dateFrom").value = "";
+        document.getElementById("dateTo").value = "";
+      } else {
+        document.getElementById(key).value = "";
+      }
+      applyFilters();
+    });
+  });
+
+  document.getElementById("clearAllBtn").addEventListener("click", clearAllFilters);
+}
+
+function clearAllFilters() {
+  document.getElementById("search").value = "";
+  document.getElementById("ratingFilter").value = "";
+  document.getElementById("countryFilter").value = "";
+  document.getElementById("dateFrom").value = "";
+  document.getElementById("dateTo").value = "";
+  applyFilters();
 }
 
 function applySort() {
@@ -483,13 +553,11 @@ document.getElementById("dateTo").addEventListener("change", applyFilters);
 document.getElementById("prevPage").addEventListener("click", () => { currentPage--; renderTable(); });
 document.getElementById("nextPage").addEventListener("click", () => { currentPage++; renderTable(); });
 
-document.getElementById("clearFilters").addEventListener("click", () => {
-  document.getElementById("search").value = "";
-  document.getElementById("ratingFilter").value = "";
-  document.getElementById("countryFilter").value = "";
-  document.getElementById("dateFrom").value = "";
-  document.getElementById("dateTo").value = "";
-  applyFilters();
+document.getElementById("toggleFilters").addEventListener("click", () => {
+  const panel = document.getElementById("filterPanel");
+  const arrow = document.getElementById("filterArrow");
+  panel.classList.toggle("hidden");
+  arrow.classList.toggle("rotate-180");
 });
 
 document.querySelectorAll(".sort-header").forEach(th => {
