@@ -1,0 +1,25 @@
+name: Slack Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test mesajı gönder
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data '{
+              "attachments": [{
+                "color": "#28a745",
+                "blocks": [
+                  {"type": "header", "text": {"type": "plain_text", "text": "✅ Tabii Reviews bağlantısı çalışıyor"}},
+                  {"type": "section", "text": {"type": "mrkdwn", "text": "Bu bir test mesajıdır. Yeni yorumlar her sabah 09:00 İstanbul saatinde otomatik olarak buraya düşecek."}},
+                  {"type": "context", "elements": [{"type": "mrkdwn", "text": "GitHub Actions • İlk kurulum testi"}]}
+                ]
+              }]
+            }' \
+            "$SLACK_WEBHOOK_URL"
