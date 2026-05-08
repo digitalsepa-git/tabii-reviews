@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-05-07T08:33:53.033512Z",
+  "updated_at": "2026-05-08T07:42:42.439688Z",
   "total": 4193,
   "appstore": {
-    "average": 4.50896,
-    "count": 67923,
-    "current_version_average": 4.50896,
-    "current_version_count": 67923,
+    "average": 4.5088,
+    "count": 67929,
+    "current_version_average": 4.5088,
+    "current_version_count": 67929,
     "version": "1.3.8"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-4494-6f2900000000",
+      "date": "2026-05-06T12:02:59",
+      "rating": 1,
+      "title": "Süper kalite",
+      "body": "Çözünürlük ayarlama bile yok…",
+      "nickname": "Semoba19",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-4462-156400000000",
       "date": "2026-05-05T13:44:48",
@@ -224,15 +233,6 @@
       "body": "…nicht brauchbar außerhalb von Türkei. Viele LiveStreams werden mit dem Vermerk „Dieser Kanal sendet derzeit Inhalte, die nicht für die internationale Ausstrahlung geeignet sind.“ nicht ausgestrahlt. Zum Beispiel wenn Fußball auf TRT1 läuft. Also wer‘s nur für Serien nutzen möchte wird sein Spaß damit haben aber mehr auch nicht. Leider :(",
       "nickname": "Yüki 36",
       "territory": "DEU"
-    },
-    {
-      "id": "00000063-7266-3903-405d-b4dc00000000",
-      "date": "2026-04-16T11:36:13",
-      "rating": 2,
-      "title": "Devam et",
-      "body": "Uygulama kapanıp geri açıldığında dizi ve filmlerdeki devam et sekmesi görünmüyor dizide nerede kaldığımı bulamıyorum birkaç saat sonra tekrar açtığımda ekranıma düşüyor memnun kalmadım",
-      "nickname": "Leylekkardeş",
-      "territory": "TUR"
     },
     {
       "id": "00000063-7266-3903-402c-32e000000000",
@@ -20638,21 +20638,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -20854,21 +20854,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
@@ -21043,21 +21043,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2cd00000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Rezillik ötesiiiii!!!",
-      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
-      "nickname": "Abdulkerim şalış",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2e900000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Spor",
       "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
       "nickname": "Championcl",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2cd00000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Rezillik ötesiiiii!!!",
+      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
+      "nickname": "Abdulkerim şalış",
       "territory": "TUR"
     },
     {
