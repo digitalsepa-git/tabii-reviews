@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T08:49:10.304885Z",
-  "total": 4204,
+  "updated_at": "2026-05-16T08:04:51.642652Z",
+  "total": 4203,
   "appstore": {
     "average": 4.50854,
     "count": 67938,
@@ -14194,15 +14194,6 @@
       "territory": "GBR"
     },
     {
-      "id": "00000063-7266-3902-d2d5-d7cc00000000",
-      "date": "2024-12-31T03:59:28",
-      "rating": 2,
-      "title": "Türkçe altyazı desteği",
-      "body": "Sayın Tabi Uygulaması Ekibi,\n\nÖncelikle, yerli bir platform olarak uygulamanızın kullanıma sunulmasından dolayı sizi tebrik ederim. Dün uygulamanızı indirerek abone oldum ve büyük bir keyifle kullanmaya başladım. Ancak, film izlerken fark ettiğim bir durum hakkında geri bildirimde bulunmak istiyorum.\n\nFilmleri genelde altyazı ile izlemek durumundayım, çünkü maalesef işitme duyumda bazı sorunlar var. Ne yazık ki, uygulamanızda pek çok yabancı dilde (İngilizce, Arapça, İspanyolca vb.) altyazı seçenekleri sunulurken Türkçe altyazı desteğinin olmaması beni oldukça üzdü. Bu durum, benim gibi işitme engelli bireyler için büyük bir engel oluşturuyor.\n\nTürkiye Cumhuriyeti’nin üretmiş olduğu bir platformda Türkçe altyazı seçeneğinin olmaması, kullanıcıların büyük bir bölümünü dışarıda bırakıyor ve bu durumun geliştirilmesi gerektiğini düşünüyorum. Sizden ricam, Türkçe altyazı desteğinin platformunuza eklenmesi ve daha kapsayıcı bir deneyim sunmanız yönünde gerekli çalışmaları başlatmanızdır.\nGöstereceğiniz anlayış ve desteğiniz için şimdiden teşekkür ederim. Çalışmalarınızda başarılar dilerim.\n\nSaygılarımla,\nŞenol Demirel",
-      "nickname": "s.demirel28",
-      "territory": "DEU"
-    },
-    {
       "id": "00000063-7266-3902-d2d5-a7b500000000",
       "date": "2024-12-31T03:55:06",
       "rating": 1,
@@ -20593,21 +20584,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -20737,21 +20728,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -20917,21 +20908,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -21025,21 +21016,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
@@ -21142,21 +21133,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Rezillik ötesiiiii!!!",
       "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
       "nickname": "Abdulkerim şalış",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
