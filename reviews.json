@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-05-19T09:42:47.308085Z",
-  "total": 4206,
+  "updated_at": "2026-05-20T09:34:38.959183Z",
+  "total": 4208,
   "appstore": {
-    "average": 4.50837,
-    "count": 67944,
-    "current_version_average": 4.50837,
-    "current_version_count": 67944,
+    "average": 4.50826,
+    "count": 67945,
+    "current_version_average": 4.50826,
+    "current_version_count": 67945,
     "version": "1.3.8"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-471d-589400000000",
+      "date": "2026-05-18T04:02:24",
+      "rating": 1,
+      "title": "Berbat! / Vreselijk!",
+      "body": "Abone oldum ve ödemesini yapmama rağmen abonelik yok diyor! Paramı geri ödeyin!!!!!\n\nOndanks dat ik een abonnement heb afgesloten en betaald heb, krijg ik nog steeds de melding dat ik geen abonnement heb!!!",
+      "nickname": "Faaatjj",
+      "territory": "NLD"
+    },
+    {
+      "id": "00000063-7266-3903-4718-800500000000",
+      "date": "2026-05-18T01:38:06",
+      "rating": 1,
+      "title": "iptali yapılamıyor",
+      "body": "Üyelik iptali yapamiyorsuz. Destek ekibi tanıt vermiyor ve para çekilmeye devam ediyor .",
+      "nickname": "Enesusanmaz",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-46b6-ef1e00000000",
       "date": "2026-05-16T08:03:36",
@@ -20611,21 +20629,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -20755,21 +20773,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d7800000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
-      "nickname": "BabyVandal",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d6000000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Donuyor",
       "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
       "nickname": "Nişw",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d7800000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
+      "nickname": "BabyVandal",
       "territory": "TUR"
     },
     {
