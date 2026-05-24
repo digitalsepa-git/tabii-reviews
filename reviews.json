@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-23T08:20:24.525204Z",
+  "updated_at": "2026-05-24T08:29:07.214918Z",
   "total": 4208,
   "appstore": {
-    "average": 4.50828,
-    "count": 67947,
-    "current_version_average": 4.50828,
-    "current_version_count": 67947,
+    "average": 4.5083,
+    "count": 67948,
+    "current_version_average": 4.5083,
+    "current_version_count": 67948,
     "version": "1.3.8"
   },
   "reviews": [
@@ -20638,21 +20638,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -20962,21 +20962,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-003600000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "Çöktü. Rezalet",
-      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
-      "nickname": "Babapro.31",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-001300000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "REZİLLER",
       "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
       "nickname": "chevfb1907₺",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-003600000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "Çöktü. Rezalet",
+      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
+      "nickname": "Babapro.31",
       "territory": "TUR"
     },
     {
@@ -21070,21 +21070,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
@@ -33846,7 +33846,7 @@
       "rating": 3,
       "title": "Tabii yatay uyumsuzluğu",
       "body": "Tabletimde tabii ARAYÜZ yatay ekran özelliğini bulamadım lütfen bu özelliği ekleyin\n\nCihaz Bilgileri\n\nTÜR:İPAD AİR\n\nMODEL:2022\n\nİŞLEMCİ M1                           ——————\n                                               |                    |\n                                               |       M1        |\n                                               |                    |\n                                               ——————\n\n                                                —————————\n                                               |                              |\n                                               |    2022 Model     |\n                                               |                              |\n                                               —————————",
-      "nickname": "RockEymen45",
+      "nickname": "eymndev",
       "territory": "TUR"
     },
     {
