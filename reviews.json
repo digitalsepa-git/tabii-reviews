@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-05-27T09:50:09.883854Z",
-  "total": 4212,
+  "updated_at": "2026-05-28T10:01:36.719019Z",
+  "total": 4214,
   "appstore": {
-    "average": 4.50802,
+    "average": 4.50789,
     "count": 67962,
-    "current_version_average": 4.50802,
+    "current_version_average": 4.50789,
     "current_version_count": 67962,
     "version": "1.3.9"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-48fe-3a4d00000000",
+      "date": "2026-05-26T14:07:55",
+      "rating": 1,
+      "title": "Katastrophal",
+      "body": "Abonnement Geld abgezogen und kein Zugriff auf die App möglich.",
+      "nickname": "Efe AyTu",
+      "territory": "DEU"
+    },
+    {
+      "id": "00000063-7266-3903-48dc-04a100000000",
+      "date": "2026-05-26T01:02:48",
+      "rating": 4,
+      "title": "İzlerken neden donuyor",
+      "body": "Uygulama başarılı fakat çok takılıyor çözüm bulunmalı",
+      "nickname": "arslnn123",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-48ab-f3b000000000",
       "date": "2026-05-25T05:17:38",
@@ -20674,21 +20692,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -21106,21 +21124,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
