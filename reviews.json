@@ -1,14 +1,68 @@
 {
-  "updated_at": "2026-05-31T08:45:02.978846Z",
-  "total": 4213,
+  "updated_at": "2026-06-01T11:34:24.067318Z",
+  "total": 4219,
   "appstore": {
-    "average": 4.50797,
-    "count": 67965,
-    "current_version_average": 4.50797,
-    "current_version_count": 67965,
+    "average": 4.50767,
+    "count": 67973,
+    "current_version_average": 4.50767,
+    "current_version_count": 67973,
     "version": "1.3.9"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-49e2-a24000000000",
+      "date": "2026-05-30T12:03:48",
+      "rating": 1,
+      "title": "Rezalet",
+      "body": "TRT den canli yayin aciyorum Bu uygulamaya yönlendiriyo. 5dkda bi devam etmek icin paketini yükselt bildirimi geliyo. Hayir TRT yi (devlet televizyonunu) izlemek icin haricen para mi vercem bide?",
+      "nickname": "Ozgusch",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-49e2-6f6600000000",
+      "date": "2026-05-30T11:59:16",
+      "rating": 5,
+      "title": "Berbat",
+      "body": "Bir penaltı izletemediniz yıllardır aynı çap eksikliği",
+      "nickname": "Enes Kül",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-49e0-5ae200000000",
+      "date": "2026-05-30T11:13:29",
+      "rating": 1,
+      "title": "Erişilebilirlik ve oynatma sorunu",
+      "body": "Görme engelliler için ekran okuyucu uyumu niçin dikkate alınmıyor? Dilediğimiz dizinin dilediğiniz sezon veya bölümünü doğrudan açamıyor ilerlettemiyoruz. Ayrıca artık bir dizi veya film açtığımızda kaldığımız yerden devam etmiyor. Baştan başlıyor. Erişilebilirlik sorunu olduğu için de kaldığım yere manuel olarak da gelemiyorum. Niçin uygulama düzenlenirken, görme engelli kullanıcılar da dikkate alınmaz?",
+      "nickname": "Yalnız kör",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-49df-a7ed00000000",
+      "date": "2026-05-30T10:58:51",
+      "rating": 1,
+      "title": "Şampiyonlar Ligi Finali Rezaleti",
+      "body": "Şampiyonlar ligi finalini piksellerle izliyor, sağol TRT..",
+      "nickname": "YFurkanU",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-49df-646200000000",
+      "date": "2026-05-30T10:53:20",
+      "rating": 1,
+      "title": "1 yıldız bile fazla",
+      "body": "Trt 1 canlı yayınını izlemek için indirimdim. Uygulama berbat çalışıyor. 1 yıldız bile fazla olduğunu düşünüyorum.",
+      "nickname": "harun101010",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-49dc-9bf200000000",
+      "date": "2026-05-30T09:56:51",
+      "rating": 1,
+      "title": "Donma",
+      "body": "Sürekli canlı maç izlerken donuyor başa sarıyorum bunun düzeltilmesi gerekiyor",
+      "nickname": "Muraka24",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-4932-c36b00000000",
       "date": "2026-05-27T12:23:55",
@@ -20701,21 +20755,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -20845,21 +20899,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -21061,21 +21115,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
@@ -21133,21 +21187,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
