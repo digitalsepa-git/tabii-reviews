@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-06-06T08:33:53.814439Z",
-  "total": 4220,
+  "updated_at": "2026-06-07T08:55:51.777257Z",
+  "total": 4221,
   "appstore": {
-    "average": 4.50759,
+    "average": 4.50756,
     "count": 67964,
-    "current_version_average": 4.50759,
+    "current_version_average": 4.50756,
     "current_version_count": 67964,
     "version": "1.3.9"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-4b28-4afc00000000",
+      "date": "2026-06-05T00:38:48",
+      "rating": 1,
+      "title": "Session problemi artık illah dedirtiyor",
+      "body": "Google tv üzerinde açıtığım hesabı kullanmasam bilr aktif izliyor görüp tabletlerde session hatası vermenizden illah geldi bıktım bir iş yapılıyor ama bin pişmanlık veriyorsunuz. 2. Hesabımı açıp almaya çalışıyorum ondada aktif hesabın var ödeyemezsin diyor yaptığınız işi başlıyayım sizin bir iş yapyınız sevindik ama ücretli haliniz her gün savaş verdiriyor bıktım sizin güzel şeyleri berbat etmeniden",
+      "nickname": "08t08",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-4b12-0cd300000000",
       "date": "2026-06-04T14:09:52",
@@ -7138,21 +7147,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -20773,21 +20782,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -21097,21 +21106,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-003600000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "Çöktü. Rezalet",
-      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
-      "nickname": "Babapro.31",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-001300000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "REZİLLER",
       "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
       "nickname": "chevfb1907₺",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-003600000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "Çöktü. Rezalet",
+      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
+      "nickname": "Babapro.31",
       "territory": "TUR"
     },
     {
@@ -35925,7 +35934,7 @@
       "rating": 3,
       "title": "Apple TV",
       "body": "uygulama güzel ama neden Apple TV de yok.",
-      "nickname": "Ercan_33",
+      "nickname": "Emre Zengin34",
       "territory": "TUR"
     },
     {
