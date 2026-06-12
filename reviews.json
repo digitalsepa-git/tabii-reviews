@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-06-11T10:24:34.980329Z",
-  "total": 4225,
+  "updated_at": "2026-06-12T10:13:20.710105Z",
+  "total": 4228,
   "appstore": {
-    "average": 4.50735,
-    "count": 67979,
-    "current_version_average": 4.50735,
-    "current_version_count": 67979,
-    "version": "1.3.9"
+    "average": 4.50721,
+    "count": 67985,
+    "current_version_average": 4.50721,
+    "current_version_count": 67985,
+    "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-4c5e-858500000000",
+      "date": "2026-06-10T07:01:12",
+      "rating": 5,
+      "title": "?",
+      "body": "Merhaba 2 gündür tabii’ye giriş yapımıyorum",
+      "nickname": "Enesss0744",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4c5b-883b00000000",
+      "date": "2026-06-10T06:03:03",
+      "rating": 1,
+      "title": "İphone 8 kullaniyorum guncellemiyor",
+      "body": "Eski surum kullan diyorum oda olmuyor. Tabinin ilk kullanicilarindanim. Bu da yapilirmi bize vefa sultani seyredinde iraz feyz alın . En kisa surede bu durumu duzeltin lutfen. Eski uygulamaya gecmiyor tekrar guncellemeye calisiyor.",
+      "nickname": "Selim Genc",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4c51-660100000000",
+      "date": "2026-06-10T01:56:35",
+      "rating": 1,
+      "title": "Sürüm meselesi",
+      "body": "17 sürüm olmayınca uygulamanız açılmıyor yeni telefon mu alacağız uygulamayı kullanmak için önceki sürümlere çalışır yapsanız olmuyor mu",
+      "nickname": "Oeneldğeö",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4c4a-ae2e00000000",
+      "date": "2026-06-09T22:28:35",
+      "rating": 3,
+      "title": "Güncelleme Sorunu",
+      "body": "Tabii platformuna uzun zamandır üyeyim. Ancak bugün iPhone 8 Plus telefonumdan içerik izlemek istediğimde sürekli uygulamayı güncellemem gerektiğine dair bir uyarıyla karşılaştım. Ne var ki telefonum uygulamayı güncelleyemiyor ve bu nedenle platformu kullanamıyorum.\n\nBenzer bir sorunu daha önce televizyonumda da yaşamış, çözüm için ek bir kumanda satın almak durumunda kalmıştım. Diğer dijital platformlarda böyle bir sorunla karşılaşmazken Tabii uygulamasında benzer problemleri tekrar tekrar yaşamamızın sebebini merak ediyorum.",
+      "nickname": "Renklerin içinde",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-4c3b-aff900000000",
       "date": "2026-06-09T15:37:11",
@@ -21151,21 +21187,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -21187,21 +21223,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
@@ -21259,21 +21295,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -21376,21 +21412,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Rezillik ötesiiiii!!!",
       "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
       "nickname": "Abdulkerim şalış",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
@@ -31282,15 +31318,6 @@
       "title": "İçerik ve uygulama süper severek telefondan izliyorum",
       "body": "En kısa zamanda tv yansıtma üzelliği olmalı tv izleyemiyorum yada eski trt programını kaldırıp bunu eklemeli",
       "nickname": "Bey oğlu 52",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-6f14-eacd00000000",
-      "date": "2023-10-08T14:17:02",
-      "rating": 1,
-      "title": "Parola Sıfırlama için mail gelmiyor",
-      "body": "Şifremi unuttum butonundan şifre değiştirmek için mail gönder diyorum onlar defa tekrarladım mail gelmiyor. Trt izle uygulamasını tabiye taşıyarak bi uygulamayı ancak bu kadar rezil hale getirebilirsiniz başardınız tebrikler",
-      "nickname": "HalaMadridTurkey",
       "territory": "TUR"
     },
     {
