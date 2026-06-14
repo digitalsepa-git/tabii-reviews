@@ -1,14 +1,68 @@
 {
-  "updated_at": "2026-06-13T08:58:11.178045Z",
-  "total": 4229,
+  "updated_at": "2026-06-14T09:35:02.233683Z",
+  "total": 4235,
   "appstore": {
-    "average": 4.50713,
-    "count": 67989,
-    "current_version_average": 4.50713,
-    "current_version_count": 67989,
+    "average": 4.50691,
+    "count": 68004,
+    "current_version_average": 4.50691,
+    "current_version_count": 68004,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-4d00-d38500000000",
+      "date": "2026-06-12T23:52:52",
+      "rating": 1,
+      "title": "Güncelleme sorunu",
+      "body": "Niçin son versiyon sürümlere zorluyorsunuz? Telefon desteklemiyorsa kullanılmasın mı?",
+      "nickname": "Yasinadil",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4cfb-fad600000000",
+      "date": "2026-06-12T21:33:48",
+      "rating": 1,
+      "title": "can't stream on TV",
+      "body": "requires Apple device to watch on. incredibly bad restriction for no reason. canceled my subscription. yapacaginiz ise",
+      "nickname": "alp b",
+      "territory": "USA"
+    },
+    {
+      "id": "00000063-7266-3903-4ce6-9d7300000000",
+      "date": "2026-06-12T12:32:35",
+      "rating": 1,
+      "title": "Kalite ayarlayamama",
+      "body": "İzledigimiz canli yayinin kalitesini kendimiz ayarlayabilmeliyiz internet mukemmel olsa bile kalite gidip gidip geliyor",
+      "nickname": "merox7",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4ce6-7e0b00000000",
+      "date": "2026-06-12T12:29:51",
+      "rating": 1,
+      "title": "Güncelleme istemiyoruz",
+      "body": "Şunu güncellemeyin artık, son güncellemeden !!! sonra cihazın işletim sistemi geçmiş sürümü diye kullanamaz olduk, onu da güncellemek gerekiyormuş, kullanmayınca da tamamen sildim. Ben güncelleme yapmak istemiyorum, eski haliyle kullanmak varken bu zorlama neden? Kullanmıyoruz, mutlu olabilirsiniz.",
+      "nickname": "Sadri_34x",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4ce6-646f00000000",
+      "date": "2026-06-12T12:27:38",
+      "rating": 1,
+      "title": "REKLAM KUSAGİNİZA ZOKAYİM",
+      "body": "REKLAM KUSAGİNİZA ZOKAYİM",
+      "nickname": "A pussy",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4cde-be1e00000000",
+      "date": "2026-06-12T09:48:25",
+      "rating": 2,
+      "title": "Aktif oturum yönetimi",
+      "body": "Aktif oturumları telefondan yönetemiyoruz  sadece tabii.Comdan yönetebilmek hem kullanım zorluğu yaşatıyor hemde çoğu kez telefondan siteye bağlantı yaptığı için hataya düşüyor. Daha önce de bildirimden bulunduk ancak önemli kullanım problemleri dikkate alınmamış",
+      "nickname": "Alppro",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-4ca8-e88000000000",
       "date": "2026-06-11T12:02:43",
@@ -21196,21 +21250,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -21232,21 +21286,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
@@ -21439,21 +21493,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
