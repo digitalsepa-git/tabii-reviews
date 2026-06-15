@@ -1,14 +1,149 @@
 {
-  "updated_at": "2026-06-14T09:35:02.233683Z",
-  "total": 4235,
+  "updated_at": "2026-06-15T12:13:58.225804Z",
+  "total": 4249,
   "appstore": {
-    "average": 4.50691,
-    "count": 68004,
-    "current_version_average": 4.50691,
-    "current_version_count": 68004,
+    "average": 4.50595,
+    "count": 68036,
+    "current_version_average": 4.50595,
+    "current_version_count": 68036,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-4d3a-5b9900000000",
+      "date": "2026-06-13T22:39:14",
+      "rating": 1,
+      "title": "Allah belanızı versin",
+      "body": "Bi maç izletmesiniz, yok yüksek paket yok donması, Allah belanızı versin",
+      "nickname": "Xixxxxxxxxxxxxiho",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-845600000000",
+      "date": "2026-06-13T21:45:32",
+      "rating": 1,
+      "title": "Berbat Uygulama",
+      "body": "Milli maçı bile izleyemiyoruz uygulaması canlı yayını bile açmıyor yazıklar olsun",
+      "nickname": "XhiraishiNNN",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-809500000000",
+      "date": "2026-06-13T21:45:07",
+      "rating": 1,
+      "title": "Dünya kupası",
+      "body": "Keyifle bir maç bile izleyemediğiniz para için her şeyi yapan saçma sapan bir uygulama",
+      "nickname": "Zomsim1",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-515600000000",
+      "date": "2026-06-13T21:39:47",
+      "rating": 5,
+      "title": "Rezil ötesi",
+      "body": "Bi milli maç bile izleyemiyoruz donuyor sakın indirmeyin bi işe yaramıyor malesef",
+      "nickname": "İzmitlim411",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-331700000000",
+      "date": "2026-06-13T21:36:26",
+      "rating": 1,
+      "title": "Kötüü",
+      "body": "Siz kim uygulama yapmak kim kendi ülkemde kendi ülkemin maçını yine kendi ülkemin kanalından izleyemiyorum",
+      "nickname": "Tabii kapatılsın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-2b7a00000000",
+      "date": "2026-06-13T21:35:33",
+      "rating": 1,
+      "title": "0",
+      "body": "Rezil rüsva bir platform",
+      "nickname": "Mehmet₺)",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-172e00000000",
+      "date": "2026-06-13T21:33:13",
+      "rating": 1,
+      "title": "Siyah Ekran",
+      "body": "Sayenizde dünya kupasını kaçırdım. Canlı yayın siyah ekran olarak gözüküyor. 2026 senesinde olacak iş mi?",
+      "nickname": "Daemash",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-15e300000000",
+      "date": "2026-06-13T21:33:05",
+      "rating": 1,
+      "title": "Çöktü",
+      "body": "Milli maçta yaptığınız uygulamaya tüküreyim çalışmıyor",
+      "nickname": "Yasaklarysak",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d38-0fa200000000",
+      "date": "2026-06-13T21:32:22",
+      "rating": 4,
+      "title": "REZALET",
+      "body": "Berbat bir uygulama adam akıllı çalışmıyor bile 1 tane işin var ya 1 tane oda bir şeyler izletmek onuda açamıyorsan canlı yayınlar donup duruyorsa zırt pırt reklam çıkıyor ben Napayım böyle iğrenç bir uygulamayı berbat",
+      "nickname": "ndkdjdjjd",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d37-a2bf00000000",
+      "date": "2026-06-13T21:20:16",
+      "rating": 1,
+      "title": "Yurtdisindan trt izleyememek",
+      "body": "Milli maclari takip etmek icin kullaniyordum ama yurt disindan trt izletmiyor. E ben bu kanali baska nerden izlicem, tamamen bilincsizlik yazik",
+      "nickname": "CvsBurak",
+      "territory": "BGR"
+    },
+    {
+      "id": "00000063-7266-3903-4d35-6c1d00000000",
+      "date": "2026-06-13T20:18:49",
+      "rating": 1,
+      "title": "Lokasyon onemi",
+      "body": "Amerika Teksas’ta aylık ödeme yaparak aldım Avustralya Türkiye maçını seyretmek için ödeme yaptığım halde bulunduğunuz yerden hakları ihlalden dolayı seyredilmezsiniz diyor o zaman bunu daha baştan söylemeleri lazım iptal edeceğim ödememi de geri istiyorum",
+      "nickname": "Muge34",
+      "territory": "USA"
+    },
+    {
+      "id": "00000063-7266-3903-4d25-f34e00000000",
+      "date": "2026-06-13T13:43:35",
+      "rating": 5,
+      "title": "Devam et butonu",
+      "body": "Devam et’butonu kalkınca dizi veya filmler kaldığımız yerden devam etmiyor,bilginize.",
+      "nickname": "alidisitero",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d22-8fbd00000000",
+      "date": "2026-06-13T12:25:55",
+      "rating": 1,
+      "title": "Yurt dışında çalışmıyor",
+      "body": "Sakin indirip boşuna para harcamayın yurt dışında çalışmıyor. Dünyanın en saçma seti verdiğim para da bogaziniza dursun.Madem çalışmıyor nasıl bana Euro olarak abonelik satarsınız. Çalışmıyor da hiç yurt dışına satma kardeşim",
+      "nickname": "Fth—-",
+      "territory": "FRA"
+    },
+    {
+      "id": "00000063-7266-3903-4d20-ef5800000000",
+      "date": "2026-06-13T11:50:04",
+      "rating": 1,
+      "title": "Tabii 😡😡",
+      "body": "Tvde yayın açılır açılmaz dönüyor ve oynamıyor daha berbat",
+      "nickname": "Veys4007",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-4d07-8c5700000000",
+      "date": "2026-06-13T02:57:59",
+      "rating": 5,
+      "title": "Aileler için harika bir uygulama",
+      "body": "Şiddetle tavsiye ederim, harika içerikler var.",
+      "nickname": "y_krql",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-4d00-d38500000000",
       "date": "2026-06-12T23:52:52",
@@ -1538,15 +1673,6 @@
       "body": "İçerik ve kalitenin öncüsü TRT’yi kutluyorum. Canlı yayınlarını bu platformda izliyorum. Teşekkür ediyorum.",
       "nickname": "Çetincanx",
       "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-2cbe-966700000000",
-      "date": "2026-01-15T02:12:01",
-      "rating": 5,
-      "title": "Çok başarılı",
-      "body": "Uygulama teknik açıdan kusursuz işliyor. İçerikleri de güzel ve ortalama bir Türk bireyine hitap ediyor diyebilirim.",
-      "nickname": "xjkşxfgşisekl",
-      "territory": "DEU"
     },
     {
       "id": "00000063-7266-3903-2c8e-fbfb00000000",
@@ -20926,21 +21052,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -21286,21 +21412,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
@@ -21475,21 +21601,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2cd00000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Rezillik ötesiiiii!!!",
-      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
-      "nickname": "Abdulkerim şalış",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2e900000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Spor",
       "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
       "nickname": "Championcl",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2cd00000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Rezillik ötesiiiii!!!",
+      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
+      "nickname": "Abdulkerim şalış",
       "territory": "TUR"
     },
     {
