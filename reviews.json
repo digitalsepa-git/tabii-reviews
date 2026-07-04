@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T09:18:16.522231Z",
-  "total": 4274,
+  "updated_at": "2026-07-04T08:37:14.810385Z",
+  "total": 4249,
   "appstore": {
     "average": 4.50401,
     "count": 68082,
@@ -5410,6 +5410,294 @@
       "territory": "DEU"
     },
     {
+      "id": "00000063-7266-3902-ecfd-785600000000",
+      "date": "2025-04-20T08:22:07",
+      "rating": 5,
+      "title": "Tabii",
+      "body": "Gayet güzel Ücretli ve ücretsiz versiyonları var ücretli olanda tüm süperlig maçlarını izleyebiliyorsunuz",
+      "nickname": "Takkkmaaaa ad",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ecf8-d73f00000000",
+      "date": "2025-04-20T06:51:11",
+      "rating": 5,
+      "title": "Kendini geliştiren bir platform",
+      "body": "Günümüzde ailecek bir şeyleri izlemeyi bırakın artık tek başınıza bile bir şeyleri izlemek hazırlanan uygunsuz içeriklerden dolayı mümkün değil. ancak tabii platform sayesinde artık bu mümkün hale geldi. bu nedenle bu uygulamayı aile değerlerine önem veren insanlar için kesinlikle tavsiye ederim. diğer platformların amacı belli; ahlakı, aileyi, toplumu kötü davranışlara özendiren içerikler üretmektedir. tabii platformunu oluşturanlara Teşekkür ediyorum ve bu platformun güncelliği için çalışmalarında doğru çalışmalarında başarılar diliyorum",
+      "nickname": "Dafey3",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ecee-02d500000000",
+      "date": "2025-04-20T02:38:34",
+      "rating": 1,
+      "title": "Premium üyelik",
+      "body": "Trt zaten vatandaştan vergi alıyor. Buna rağmen full hd yayın için ücretli üyelik talep ediyor. Yok öyle bir dünya, sildim gitti.",
+      "nickname": "dogimon",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-eceb-6fa300000000",
+      "date": "2025-04-20T01:28:50",
+      "rating": 1,
+      "title": "bozuk, işe yaramaz bir app",
+      "body": "paket tipimi değiştirmeme izin vermiyor, her sefasında hata veriyor, arayüzü zaten kullanışsız ve ağır. hiç beğenmedim",
+      "nickname": "yveevey",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ecb9-cf4200000000",
+      "date": "2025-04-19T05:30:33",
+      "rating": 1,
+      "title": "boykot",
+      "body": "Boykot",
+      "nickname": "mysseer",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ecb9-4f0200000000",
+      "date": "2025-04-19T05:20:09",
+      "rating": 1,
+      "title": "No option to cancel subscription",
+      "body": "When I click manage subscription it says I don’t have any subscription. Yet they’re charging me $6.99 a month. Their support responses have been totally unhelpful and nothing has changed. I’m very upset that I can’t cancel. They have very few good shows with subtitles.",
+      "nickname": "Sa2431r",
+      "territory": "USA"
+    },
+    {
+      "id": "00000063-7266-3902-ecae-383700000000",
+      "date": "2025-04-19T00:44:19",
+      "rating": 3,
+      "title": "İndirme özelliği",
+      "body": "Dizi ve filmleri indirme özelliği yok maalesef",
+      "nickname": "Şiboann",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec78-a54b00000000",
+      "date": "2025-04-18T04:05:29",
+      "rating": 1,
+      "title": "Dolandırıcı",
+      "body": "Ücreti ödediğim halde üyeliğim aktif olmadı insanları dolandırıyorlar",
+      "nickname": "EgregiousRock",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec73-f97900000000",
+      "date": "2025-04-18T02:09:45",
+      "rating": 1,
+      "title": "Berbat yayın kalitesi",
+      "body": "Akşam 10 olsun da şampiyonlar ligi Avrupa ligi başlasın diye bekliyoruz, maç esnasında berbat yayın kaliteniz ile tüm keyfimizi kaçırıyorsunuz.",
+      "nickname": "Tabii olmayan yayın kalitesi",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-e4f900000000",
+      "date": "2025-04-17T14:00:57",
+      "rating": 1,
+      "title": "Maç yayını bozuk",
+      "body": "Tabi premiumda yayınlananan maçlarda kesinti oluyor",
+      "nickname": "Ms…..ö",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-d8c600000000",
+      "date": "2025-04-17T13:59:44",
+      "rating": 1,
+      "title": "REZİL HİZMET",
+      "body": "Parasını çatır çatır aldığınız abonelikle hizmet sunamıyorsanız bu isi yapmayacaksınız. İnternet üzerinden maç yayını yapmayın arkadaşım yapmayın beceremiyorsunuz hiç biriniz. Anında iptal ettim hizmeti. Rezilsiniz.",
+      "nickname": "merkezkom",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-cedb00000000",
+      "date": "2025-04-17T13:58:44",
+      "rating": 3,
+      "title": "Düzeltin lütfen",
+      "body": "Kaldığım yerler bir kayboluyor bir beliriyor?? Çözmenizi bekliyorum.",
+      "nickname": "Deliliq",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-c5b200000000",
+      "date": "2025-04-17T13:57:49",
+      "rating": 1,
+      "title": "Paranla rezil olma yeri.",
+      "body": "Sizin kadar iş bilmez rezil bit uygulama görmedim. Utanmanız varsa üyelik paramı geri verirsiniz.",
+      "nickname": "1551bıtls",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-aec800000000",
+      "date": "2025-04-17T13:55:32",
+      "rating": 1,
+      "title": "Kesik kesik yayın",
+      "body": "Verdiğim paraya yazık adam akıllı izleyemiyorum hep bi kesinti hep bi donma",
+      "nickname": "Naimm1",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-60d300000000",
+      "date": "2025-04-17T13:47:45",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "Hangi alanda iyiyiz ki bütün devletin uygulamaları berbat mac izleyemiyorum suan internet hizimin cok iyi olmasına rağmen kare kare ilerliyor",
+      "nickname": "Kadir akyar",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-55c400000000",
+      "date": "2025-04-17T13:46:37",
+      "rating": 1,
+      "title": "Rezil bir uygulama",
+      "body": "Maç yayınları sürekli kesik kesik olup ses ve görüntü birbirine giriyor.",
+      "nickname": "Ertugrul061",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-499300000000",
+      "date": "2025-04-17T13:45:26",
+      "rating": 1,
+      "title": "DÖNÜYOR",
+      "body": "Sürekli canlı yayınlar donuyor ve kasarak izliyoruz. Ücret verdiğimiz uygulamayı kullanamıyoruz",
+      "nickname": "Kaptan11",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-3e5100000000",
+      "date": "2025-04-17T13:44:21",
+      "rating": 1,
+      "title": "Canlı yayın kalitesi kötü sürekli donuyor",
+      "body": "17.04.2025 uefa Avrupa ligi izlenmiyor sürekli donuyor yayın arıyorum şimdi",
+      "nickname": "husseyinn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-3c3f00000000",
+      "date": "2025-04-17T13:44:08",
+      "rating": 1,
+      "title": "Rezil",
+      "body": "Dünyanın parasını alıyorsunuz ama maçı donarak izliyoruz iğrençççç",
+      "nickname": "Btrykslsn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-306000000000",
+      "date": "2025-04-17T13:42:57",
+      "rating": 1,
+      "title": "Maç",
+      "body": "Rezalet Bir Maç İzleyemiyoruz Sürekli Kesiliyor Sürekli Kesinti Donuk",
+      "nickname": "Mtalhauzun",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-24e500000000",
+      "date": "2025-04-17T13:41:50",
+      "rating": 1,
+      "title": "SÜREKLİ DONUYOR",
+      "body": "Televizyonda ve telefonda canlı maç izlerken sürekli donma yaşanıyor üyeliğini iptal ettireceğim",
+      "nickname": "MemiR54",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec59-052700000000",
+      "date": "2025-04-17T13:38:38",
+      "rating": 1,
+      "title": "Yayın çok kötü",
+      "body": "Hem trt payı adı altında vergi veriyoruz hem devletin imkanıyla yönetilen kurumun uygulamasına aylık para ödüyoruz ama bir maç keyfinden faydalanamıyoruz",
+      "nickname": "qLancer3452",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec58-f7a000000000",
+      "date": "2025-04-17T13:37:18",
+      "rating": 1,
+      "title": "Maç yayında sürekli donma",
+      "body": "Maç izlerken sürekli donma mevcut",
+      "nickname": "mc3rn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec39-61d000000000",
+      "date": "2025-04-17T02:33:37",
+      "rating": 1,
+      "title": "Tabi",
+      "body": "Kesinlikle para tuzağı. İptal ettirmek istediğinizde mail üzerinden bildirim gönderiyorlar. Dizilerin hepsi yarım ve devamı yok. Eğer Türkiye içinde değilseniz başka bir yerde kesinlikle izlenmiyor. İptal etmesi en zor uygulama",
+      "nickname": "Hüseyn 001",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec21-fe1600000000",
+      "date": "2025-04-16T15:31:06",
+      "rating": 1,
+      "title": "Ücretli",
+      "body": "Maçları önceden bedava yayınlıyolardı şimdi paralı yapmışlar gerçekten yazık devletin kanalı hem vergi alıyorsunuz hem ücret alıyorsunuz bedava yayınlanan maç için",
+      "nickname": "KEREMCANAKSU",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1c-f4bf00000000",
+      "date": "2025-04-16T13:21:26",
+      "rating": 1,
+      "title": "kasma",
+      "body": "1 maç keyfimiz var kasıp donup duruyor bide maçın ortasında ya hata oluştu diyor yada oturumunuz kapatıldı diyip maçtan atıyor",
+      "nickname": "kdksksosksk",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1c-ba0800000000",
+      "date": "2025-04-16T13:15:55",
+      "rating": 1,
+      "title": "Üyelik iptali problemi",
+      "body": "Lütfen üyelik iptali problemini çözün",
+      "nickname": "Bykze",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1b-df1200000000",
+      "date": "2025-04-16T12:56:06",
+      "rating": 1,
+      "title": "Kapanıyor",
+      "body": "Gördüğün en kötü uygulamalardan biri içerik çok güzel fakat canlı tv izlemek için çokça sabra ihtiyacınız var sürekli kendi kendine duruyor kapanıyor",
+      "nickname": "Mücahit1905",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1b-dc1e00000000",
+      "date": "2025-04-16T12:55:51",
+      "rating": 2,
+      "title": "Allah belanızı versin verdiğim her kuruş sülalenizden can olarak çıksın rezil herifler",
+      "body": "Allah belanızı versin",
+      "nickname": "Mkrs70",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1a-ca6400000000",
+      "date": "2025-04-16T12:31:18",
+      "rating": 1,
+      "title": "Kasıyor",
+      "body": "Kasıyor aqq kasıyorrrrrr",
+      "nickname": "Eminowwwwwwwwww",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1a-c8d500000000",
+      "date": "2025-04-16T12:31:10",
+      "rating": 5,
+      "title": "Yavaş",
+      "body": "Platforma giriş hızı çok yavaş.ve bazan girmekte zorlanıyorum.",
+      "nickname": "mktyzm",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-ec1a-757500000000",
+      "date": "2025-04-16T12:23:51",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "100 tl verdim real madrid-arsenal maçını izleyim diye telefondan maç çıkmaz berbat bir uygulama para vermeyin boşuna",
+      "nickname": "mert uludağ",
+      "territory": "TUR"
+    },
+    {
       "id": "00000063-7266-3902-ec19-899c00000000",
       "date": "2025-04-16T12:03:50",
       "rating": 5,
@@ -6919,294 +7207,6 @@
       "title": "Protesto",
       "body": "TRT yi yanlı davranışları sebebiyle protesto ediyoruz!",
       "nickname": "EmekH",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e72e-831300000000",
-      "date": "2025-03-26T17:00:50",
-      "rating": 1,
-      "title": "Be",
-      "body": "Igrenc uygulama indirmeyin!!!!!",
-      "nickname": "Devrim_25",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e729-443e00000000",
-      "date": "2025-03-26T14:53:05",
-      "rating": 3,
-      "title": "Reklam",
-      "body": "Dizileriniz ve uygulama mükemmel ama Aşırı uzun reklamlar",
-      "nickname": "Sahalparslan",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e71f-3e8800000000",
-      "date": "2025-03-26T11:04:15",
-      "rating": 1,
-      "title": "GEREKSİZ",
-      "body": "GEREKSİZ",
-      "nickname": "hsjsmdmdk",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e71c-89e800000000",
-      "date": "2025-03-26T10:06:05",
-      "rating": 1,
-      "title": "Çok kötü bir uygulama",
-      "body": "İçerikleri çok zayıf",
-      "nickname": "arguarda",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6fb-9f0300000000",
-      "date": "2025-03-25T20:27:47",
-      "rating": 1,
-      "title": "boykot",
-      "body": "boykot",
-      "nickname": "beyzabezabyzbeyz",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6f4-614100000000",
-      "date": "2025-03-25T17:21:37",
-      "rating": 1,
-      "title": "Berbat",
-      "body": "manchester by the sea filmini görünce ailecek izleyelim dedik, hata etmişiz dublaj berbat ya altyazıya geçelim dedik altyazı ondan berbat izlediğimiz sahnenin yarısının çevirisi yazılmamış bile senkron problemide cabası. Filmin size göre müstehcen yerlerini kesmekle uğraşacağınıza önce filmin dublajını, altyazısını adam gibi yapın. Ödediğim parayı haketmiyor. Zaten üyeliği de sonlandırdım.",
-      "nickname": "Ofguzel",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6e9-d28c00000000",
-      "date": "2025-03-25T13:08:29",
-      "rating": 1,
-      "title": "Gereksiz",
-      "body": "Bunu bile paralı yapmışlar. Yüklemeyin.",
-      "nickname": "Deniz’in Günlüğü",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6e8-2dfd00000000",
-      "date": "2025-03-25T12:31:30",
-      "rating": 1,
-      "title": "Sakın yükleme",
-      "body": "Berbat bir uygulama",
-      "nickname": "onrznet",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6e8-1ad000000000",
-      "date": "2025-03-25T12:29:50",
-      "rating": 1,
-      "title": "Kötü görüntü kalitesi, berbat şampiyonlar ligi yayını!",
-      "body": "Yüksek internet hızı kullanıyorum fakat yayın içerisinde görüntü kalitesi aniden kötüleşiyor. Bir maçtan diğerine geçerken bug yaşanıyor ve uygulamayı tamamen kapatmak gerekiyor. Tavsiye etmiyorum",
-      "nickname": "Soys’u almışlar",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6e3-ce6700000000",
-      "date": "2025-03-25T10:55:44",
-      "rating": 1,
-      "title": "Adalet",
-      "body": "Her şey çok güzel olacak ❤️",
-      "nickname": "galaturko",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6e0-8c9900000000",
-      "date": "2025-03-25T09:48:25",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "boykot1453",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6df-758500000000",
-      "date": "2025-03-25T09:26:25",
-      "rating": 1,
-      "title": ".",
-      "body": "BOYKOTT !!!!!!",
-      "nickname": "Dmrcgl134",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6db-22cd00000000",
-      "date": "2025-03-25T08:00:57",
-      "rating": 1,
-      "title": "HARAM ZIKKIM OLSUN",
-      "body": "SİZE NE OY VAR NE DE BİR KURUŞ PARA. ALMAYIN ALDIRTMAYIN, DAHA GÜZEL BİR TÜRKİYE İÇİN BOYKOT EDİN",
-      "nickname": "96fans",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6d7-821200000000",
-      "date": "2025-03-25T06:51:11",
-      "rating": 1,
-      "title": "-",
-      "body": "taraflı medyaya boykot",
-      "nickname": "jlinpesto",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6d7-6abe00000000",
-      "date": "2025-03-25T06:49:26",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Trndylboykot",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6cf-c07800000000",
-      "date": "2025-03-25T04:09:30",
-      "rating": 1,
-      "title": "Yandaş medya",
-      "body": "Boykot",
-      "nickname": "drknave07",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6cf-b05200000000",
-      "date": "2025-03-25T04:08:01",
-      "rating": 1,
-      "title": "Maç yayını gecikmeli",
-      "body": "Ücretsiz olsa görmezden gelinebilir ama para ödediğimiz platformda maç izlerken gol bildirimi yayından önce canlı skor uygulamalarından gelmiş oluyor, en az 40-50 saniye gecikmeli, ayrıca ücretsiz kısmı bomboş hiç doğru düzgün içerik yok. Üyeliğimi iptal ettim",
-      "nickname": "Ozsoygur",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6ce-b7b700000000",
-      "date": "2025-03-25T03:44:21",
-      "rating": 1,
-      "title": ":)",
-      "body": "Boykot ediyorum :)",
-      "nickname": "Takmaadbulamadimsacma",
-      "territory": "DEU"
-    },
-    {
-      "id": "00000063-7266-3902-e6cd-95d100000000",
-      "date": "2025-03-25T03:15:03",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "martinseptim",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6cb-1f9200000000",
-      "date": "2025-03-25T02:06:41",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "yazilimci01",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6ca-50fe00000000",
-      "date": "2025-03-25T01:42:52",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "!",
-      "nickname": "16161616161616161",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6c9-f97700000000",
-      "date": "2025-03-25T01:32:39",
-      "rating": 1,
-      "title": "Vergilerim",
-      "body": "Yine çöp uygulamalara harcanıyor vergilerim",
-      "nickname": "Müanan",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6c9-c66300000000",
-      "date": "2025-03-25T01:26:36",
-      "rating": 1,
-      "title": "Çok kotu",
-      "body": "Berbat",
-      "nickname": "izmiristsnbuk",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6c9-673b00000000",
-      "date": "2025-03-25T01:15:25",
-      "rating": 1,
-      "title": "Bu uygulama neden paralı ?",
-      "body": "Onca vergi almanıza rağmen böyle saçma bir uygulama çıkartıp milleti dolandırıyorsunuz resmen",
-      "nickname": "diabetichercules",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6c6-0da200000000",
-      "date": "2025-03-24T23:32:45",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot sebebiyle uygulamayı sildim.",
-      "nickname": "C1903K",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6be-b33000000000",
-      "date": "2025-03-24T19:50:00",
-      "rating": 1,
-      "title": "Un-ethical",
-      "body": "Low quality and subjective",
-      "nickname": "OznGkcen",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6bb-896100000000",
-      "date": "2025-03-24T18:30:03",
-      "rating": 1,
-      "title": "Türkiye’deki tüm sistemi boykot ediyorum.",
-      "body": "Türkiye’deki tüm sistemi boykot ediyorum.",
-      "nickname": "AKAAREE",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6b9-6d1c00000000",
-      "date": "2025-03-24T17:38:45",
-      "rating": 1,
-      "title": "EN KÖTÜ UYGULAMA",
-      "body": "GEREK ARAYÜZÜ GEREK SÜREKLİ TAKILMASI VE UYGULAMADAN ATMASI İLE TAMAMEN REZİLL BİR UYGULAMA. HESABIMI AÇTIM AMA 2 GÜN DAYANAMADIM VE SİLDİM.",
-      "nickname": "Kedono",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6b8-427f00000000",
-      "date": "2025-03-24T17:10:35",
-      "rating": 1,
-      "title": "Kötü",
-      "body": "Kötü",
-      "nickname": "Boykotçuu87",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6b7-c8fa00000000",
-      "date": "2025-03-24T16:59:07",
-      "rating": 1,
-      "title": "boykot",
-      "body": "yandaş medya rezil uygulama devletin uygulaması paralı!",
-      "nickname": "arifaydin",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6b7-b55500000000",
-      "date": "2025-03-24T16:57:17",
-      "rating": 1,
-      "title": "…",
-      "body": "…",
-      "nickname": "BatuHK",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-e6b6-8ea100000000",
-      "date": "2025-03-24T16:29:37",
-      "rating": 1,
-      "title": "rezalet",
-      "body": "rezalet ve başarısız bir uygulama aboneliğimi iptal ettim uygulamayı siliyorum",
-      "nickname": "shifta777",
       "territory": "TUR"
     },
     {
@@ -12610,6 +12610,285 @@
       "territory": "TUR"
     },
     {
+      "id": "00000063-7266-3902-d584-e4fd00000000",
+      "date": "2025-01-11T09:58:27",
+      "rating": 1,
+      "title": "Hata",
+      "body": "Sürekli hata veriyor bişey izletmiyor bi de üstüne para veriyoruz",
+      "nickname": "Badeadar",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d582-392200000000",
+      "date": "2025-01-11T09:08:23",
+      "rating": 2,
+      "title": "Yetersiz film ve dizi",
+      "body": "Gasalli izledik aboneliği iptal etme vakti gelmiş çünkü başka enteresan bir dizi kalmamis",
+      "nickname": "Maxllm",
+      "territory": "FRA"
+    },
+    {
+      "id": "00000063-7266-3902-d57c-744a00000000",
+      "date": "2025-01-11T07:24:11",
+      "rating": 5,
+      "title": "Paketler bedava olsun",
+      "body": "Para vermeseydik daha iyi olurdu",
+      "nickname": "m pölcm",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d57b-bf1300000000",
+      "date": "2025-01-11T07:11:45",
+      "rating": 5,
+      "title": "🇹🇷",
+      "body": "Türkiyenin  yeni  1.Numarasi",
+      "nickname": "hayat insani",
+      "territory": "BEL"
+    },
+    {
+      "id": "00000063-7266-3902-d579-6c2c00000000",
+      "date": "2025-01-11T06:30:25",
+      "rating": 5,
+      "title": "Harika",
+      "body": "Muhteşem",
+      "nickname": "morfer42",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d574-7a3900000000",
+      "date": "2025-01-11T04:57:08",
+      "rating": 1,
+      "title": "İNDİRME SORUNU",
+      "body": "Arkadaşlar ne kadar çok kişi yazarsa o kadar çözüm erken bulunur bence indirme gerçekten sorun rica ediyorum lütfen düzeltirmisiniz bi an önce olmuyor böyle…….",
+      "nickname": "uzaywinchester",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d573-c63500000000",
+      "date": "2025-01-11T04:42:52",
+      "rating": 5,
+      "title": "Teşekkür",
+      "body": "TRT’nin yaptığı en güzel iş",
+      "nickname": "Metin68",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d568-bb9100000000",
+      "date": "2025-01-11T00:13:52",
+      "rating": 4,
+      "title": "Tabii",
+      "body": "Uygulama güzel ama bir sorun var ücretsiz paketle girince bazı filmleri izleyemiyorsunuz ama o kadar da olur o yüzden 1 puan kırdım. İndirebilirsiniz",
+      "nickname": "Alya sekmen",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d563-f35300000000",
+      "date": "2025-01-10T21:56:21",
+      "rating": 1,
+      "title": "İçerikler mükemmel uygulama berbat",
+      "body": "Ya bir uygulama kendini bir türlü düzeltemiyor telefondan girdiğim uygunlamaya pc den girecem bir türlü mail e aktivasyon gelmiyor hadi mail e gelmedi anladık o zaman bari tel no vs kod gönder butonu olsun destek desen borumbok daha ne olsun alın size bir yıldız bile fazla",
+      "nickname": "m.barlas",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d556-2e9800000000",
+      "date": "2025-01-10T16:08:15",
+      "rating": 1,
+      "title": "İçeriği",
+      "body": "İçeriği çok boş verdiğiniz paraya yazık",
+      "nickname": "burhan34603460",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d551-e74200000000",
+      "date": "2025-01-10T14:23:10",
+      "rating": 5,
+      "title": "Muhteşem👍👍",
+      "body": "Çok güzel bir uygulama",
+      "nickname": "maze7221",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d54a-c52e00000000",
+      "date": "2025-01-10T11:40:31",
+      "rating": 5,
+      "title": "Magnific-Human First",
+      "body": "For excellent content tabii… Mükemmel içerikler insana dokunan herşey tabii de. Emeği geçen herkesi tebrik ederim.",
+      "nickname": "SA YEŞİLOVA",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d54a-a8b700000000",
+      "date": "2025-01-10T11:38:06",
+      "rating": 3,
+      "title": "Tv ve bilgisayarda izleme sorunları çözülmeli",
+      "body": "MacBook ve LG tv’ye aktaramadım.",
+      "nickname": "Ca365162",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d548-854200000000",
+      "date": "2025-01-10T10:52:06",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "Berbat bi uygulama ücretli hiç bişey açılmıyor",
+      "nickname": "Zz rzx",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d544-d3ec00000000",
+      "date": "2025-01-10T09:35:35",
+      "rating": 1,
+      "title": "yuh artık",
+      "body": "allah belanızı versin diyor başkada bişey demiyorum",
+      "nickname": "muro34000",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d530-f04800000000",
+      "date": "2025-01-10T03:01:14",
+      "rating": 1,
+      "title": "Müll",
+      "body": "Och habe die App runtergeladen und ist arabisch. Wie soll ich die Sprache ändern. So ein Müll.",
+      "nickname": "Faruk0809",
+      "territory": "DEU"
+    },
+    {
+      "id": "00000063-7266-3902-d530-0d1200000000",
+      "date": "2025-01-10T02:38:34",
+      "rating": 4,
+      "title": "dünya klasiği yapımlar",
+      "body": "kemal sunal cüneyt arkın filmlerini yayınlayın izleyelim hiçbiryerde bulunmuyor",
+      "nickname": "yigitefekozan",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d528-dc4000000000",
+      "date": "2025-01-09T23:10:43",
+      "rating": 5,
+      "title": "Emek kokusu",
+      "body": "Emeği geçen herkese teşekkürler emeklerine sağlık elimden gelen birşey olsa seve seve yapacağım bir platform",
+      "nickname": "Pembenur 24",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d523-7e8500000000",
+      "date": "2025-01-09T20:28:17",
+      "rating": 5,
+      "title": "Teşekkürler",
+      "body": "Gassal benzeri eserler bekliyoruz",
+      "nickname": "Misetod",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d516-f97500000000",
+      "date": "2025-01-09T15:02:55",
+      "rating": 5,
+      "title": "Telefonda ekran yarım görünüyor",
+      "body": "Küçük bir telefondan izliyorum uygulamada ekran genişletilemiyor yarım ekran izliyorum bence bu bir problem tam ekran izlenebilmeli",
+      "nickname": "Üjbejbeya",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d515-5bfe00000000",
+      "date": "2025-01-09T14:22:18",
+      "rating": 1,
+      "title": "TRT Payı Üzerine Abonelik Hizmeti",
+      "body": "Aldığımız her üründen alınan TRT aldığı payı göz önünde bulundurursak abonelik hizmetinin olması çok abes. Hiç ama hiç olmamış. TRT’nin aldığı vergiler bu içerikler için mi var! Biraz el insaf yaa!",
+      "nickname": "Smokin on the water",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d513-7d6300000000",
+      "date": "2025-01-09T13:36:22",
+      "rating": 1,
+      "title": "Hata",
+      "body": "Sürekli hata veriyor mail ve şifre doğru olduğu halde giremiyoruz sadece tv de izleyebiliyoruz mobil cihazlardan giremiyoruz",
+      "nickname": "Rbrly",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d511-120500000000",
+      "date": "2025-01-09T12:38:39",
+      "rating": 5,
+      "title": "Harika",
+      "body": "Filmler mükemmel daha iyilerin geleceğinden eminim uygulamayı biraz daha geliştirilebilir ama şu an için gayet güzel daha da üstüne konularak gidilmesi gerekiyor teşekkürler tabii",
+      "nickname": "tamam artık",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d50f-5af400000000",
+      "date": "2025-01-09T11:58:39",
+      "rating": 5,
+      "title": "Trt tabii",
+      "body": "Smart tv lerde uygulama yok izleyemiyoruz",
+      "nickname": "mmmmnro",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d50d-541700000000",
+      "date": "2025-01-09T11:12:42",
+      "rating": 5,
+      "title": "Kategori sekmesi",
+      "body": "İlk indirdiğimde kategori sekmesi vardı son güncellemeden sonra kayboldu, çoğu dizi belgesel ve filmi bulamıyorum",
+      "nickname": "Kapoo38",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d50d-532800000000",
+      "date": "2025-01-09T11:12:37",
+      "rating": 1,
+      "title": "Başa almak ya da ileri sarmak",
+      "body": "Mutlaka bu özelliği netflix teki gibi yapmalısınız izlediğin bir filmimya sa diziyiyi ileri geri sarmak çok sağlıklı olmuyor. Teşekkürler",
+      "nickname": "Racerss",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d509-e3e500000000",
+      "date": "2025-01-09T09:57:58",
+      "rating": 2,
+      "title": ".",
+      "body": "Kullandığınız yazılım çok ucuz.Size hiç yakışmıyor",
+      "nickname": "Vatansever28",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d509-2f7c00000000",
+      "date": "2025-01-09T09:43:09",
+      "rating": 4,
+      "title": "Teşekkürler",
+      "body": "Teşekkürler ellerinize sağlık",
+      "nickname": "imçe",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d4ff-77e500000000",
+      "date": "2025-01-09T06:29:46",
+      "rating": 5,
+      "title": "Çok iyi",
+      "body": "Çok iyi uygulama öneriyorum",
+      "nickname": "zeze1807",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d4ff-136100000000",
+      "date": "2025-01-09T06:22:02",
+      "rating": 1,
+      "title": "Yansıtma",
+      "body": "Televizyona yansıtma özelliği ekler misiniz?",
+      "nickname": "FiloSam",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-d4f3-071d00000000",
+      "date": "2025-01-09T01:48:47",
+      "rating": 3,
+      "title": "Video oynatılmıyor",
+      "body": "İndirilen içerikler açılmıyor ve internet açıkkende çoğu dizi ve filmi başlatmıyor ödenen ücretin hakkı bu olamaz",
+      "nickname": "boncukl",
+      "territory": "TUR"
+    },
+    {
       "id": "00000063-7266-3902-d4de-38d300000000",
       "date": "2025-01-08T15:53:32",
       "rating": 5,
@@ -14128,285 +14407,6 @@
       "title": "Üzücü",
       "body": "Hemen herşeyi paraya çeviriyorsunuz üzücü .",
       "nickname": "emre 44",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d320-a1b400000000",
-      "date": "2025-01-01T08:32:12",
-      "rating": 1,
-      "title": "Para para para",
-      "body": "Sen de mi para istiyorsun TRT, yıllarca elektrik faturalarında ödedik zaten",
-      "nickname": "sokratessssss",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d31e-0aba00000000",
-      "date": "2025-01-01T07:41:45",
-      "rating": 1,
-      "title": "Açılmıyor",
-      "body": "İndirdim fakat üye oluyorum Mail’e onay kodu gelmiyor o sebepten dolayı açılmıyor anlamadım",
-      "nickname": "aksksldşdş",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d31b-63ed00000000",
-      "date": "2025-01-01T06:49:54",
-      "rating": 1,
-      "title": "Seyredemedim",
-      "body": "Bir türlü seyrettirmiyor. Aboneliği seçtiğim halde sürekli öne çöküp oynatma yapmıyor. Uygulama bende işe yaramadı. Yeni yükledim ve şimdi siliyorum.",
-      "nickname": "Nezo Nezo",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d31b-417700000000",
-      "date": "2025-01-01T06:47:14",
-      "rating": 1,
-      "title": "1 bile fazla",
-      "body": "Madem İzletmicen niye ücretsiz üyelik sunuyorsun . Nasıl iptal edicem bu üyeliği gerçekten saçma sapan .",
-      "nickname": "SANANEYGN",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d319-9aef00000000",
-      "date": "2025-01-01T06:14:04",
-      "rating": 1,
-      "title": "Sahtekarlık",
-      "body": "Ücretsiz dizi izle diyor diziyi açtığımda paketi yükseltmen lazım diyor",
-      "nickname": "Özcanbarış",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d318-d31f00000000",
-      "date": "2025-01-01T05:58:04",
-      "rating": 5,
-      "title": "Her türk dizisi",
-      "body": "Her türk dizisi keşke gassal dizisi gibi olsa yapı olarak konu değişebilir helal olsun böyle diziler çoğalsın inşallah sadece gassal içindi 5 yıldız",
-      "nickname": "Yamtar007",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d318-a23300000000",
-      "date": "2025-01-01T05:54:08",
-      "rating": 1,
-      "title": "Premium Almayın",
-      "body": "Premium üyeliği almayın, Apple ile ödemede sorun çıkıyor. Kartımdan ücret kesildi hala ücretsiz üye gösteriyor beni. Bu durumu çözemiyorlar.",
-      "nickname": "Bahrikkkkk",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d318-50e800000000",
-      "date": "2025-01-01T05:47:29",
-      "rating": 1,
-      "title": "Ücretli olmamalı",
-      "body": "İlk başlarda ücretsiz di bi anda ücretli oldu \nÖnce alıştırdılar ücretsiz bi şekilde kullanmaya",
-      "nickname": "Garip4904",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d318-11d600000000",
-      "date": "2025-01-01T05:42:20",
-      "rating": 5,
-      "title": "Tavsiye edilir",
-      "body": "2 aydır kullanıyorum, daha hiç takılma yapmadı, kaliteli yayın ve uygun fiyat",
-      "nickname": "Dizikolik34",
-      "territory": "DEU"
-    },
-    {
-      "id": "00000063-7266-3902-d315-b2f000000000",
-      "date": "2025-01-01T04:51:28",
-      "rating": 1,
-      "title": "Tv ye yansıtma olmuyor",
-      "body": "Tv ye yansıtıp izlerim diyenler bosuna indirmesin olmuyor",
-      "nickname": "Muratunal37",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d314-338400000000",
-      "date": "2025-01-01T04:17:35",
-      "rating": 5,
-      "title": "Gassal",
-      "body": "Boyle kaliteli dizilerin devamini bekliyoruz..TEBRIKLER",
-      "nickname": "Gassalll",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d310-1a6400000000",
-      "date": "2025-01-01T02:37:43",
-      "rating": 5,
-      "title": "Tabii ki Tabii",
-      "body": "Türk aile yapısına uygun nitelikli güzel yapımların olduğu yerli platform.Tebrikler",
-      "nickname": "MBTBAET",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d30f-6eb200000000",
-      "date": "2025-01-01T02:20:15",
-      "rating": 1,
-      "title": "Uygulama calismiyor",
-      "body": "Iphone ve ipad’e uygulamayi indirdim. Ucretli abone oldum ama giris yapmiyor. Kac kere aplikasyonu silip yeniden yukledim telefonu kapatip actim yine calismiyor!! Bu ne sacmalik",
-      "nickname": "Blueredpurple",
-      "territory": "NLD"
-    },
-    {
-      "id": "00000063-7266-3902-d30e-e81b00000000",
-      "date": "2025-01-01T02:06:29",
-      "rating": 5,
-      "title": "Tek kelimeyle",
-      "body": "Eğlenceli etkileyici gerçekçi",
-      "nickname": "amdnh",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d30d-d9d500000000",
-      "date": "2025-01-01T01:38:14",
-      "rating": 1,
-      "title": "Paket yükseltmek hatası",
-      "body": "Uyuklamayı 3 farklı yerden indirdik aynı paket yüklestin diyor satın alıyım diyorum oda hata veriyor",
-      "nickname": "ZGqar",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d30d-606400000000",
-      "date": "2025-01-01T01:25:27",
-      "rating": 1,
-      "title": "Ücretsiz gösterip ücretli üyelik almadan içerik izletmiyor.",
-      "body": "Ücretsiz reklamlı versiyonu seçiyorsun ama ücretliyi aldırmadan içerikleri oynatmaya izin vermiyor",
-      "nickname": "Yrlmte",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d30d-577100000000",
-      "date": "2025-01-01T01:24:32",
-      "rating": 4,
-      "title": "Herhangi bir sıkıntı yok",
-      "body": "Arkadaşlar, üyelik iptali bilgisayardan yapılıyor. 4 yıldız vermemim nedeni içerik az olması",
-      "nickname": "Dj_qarizma_rapsitayla",
-      "territory": "USA"
-    },
-    {
-      "id": "00000063-7266-3902-d30b-ec7800000000",
-      "date": "2025-01-01T00:45:58",
-      "rating": 5,
-      "title": "Kalite",
-      "body": "İçerikler başarılı ve seviyeli",
-      "nickname": "Muc234rth1875",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d309-76c600000000",
-      "date": "2024-12-31T23:37:05",
-      "rating": 5,
-      "title": "Bize ait",
-      "body": "Yerli bir dijital medya platformu olması çok iyi ve bunun küresel ölçekte kabul göreceğini düşünüyorum başarılarınızın devamını diliyorum",
-      "nickname": "xtigerx5",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d309-4cca00000000",
-      "date": "2024-12-31T23:32:27",
-      "rating": 5,
-      "title": "Beğeni",
-      "body": "Şimdilik güzel hoş beğenerek izlemeye başladım teşekkürler",
-      "nickname": "Ercan5838",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d304-63df00000000",
-      "date": "2024-12-31T21:16:47",
-      "rating": 5,
-      "title": "Çok stabil ve sorunsuz çalışıyor.",
-      "body": "Sürekli geliştirmeler için teşekkürler. Fiyatına değer",
-      "nickname": "istanbulportrait",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f9-4b0700000000",
-      "date": "2024-12-31T16:40:35",
-      "rating": 5,
-      "title": "Devamı gelmesi gereken diziler var",
-      "body": "Örnek olarak Rumi, marnalı,somuncu baba, gibi dizilerin devamı gelmeli",
-      "nickname": "251533",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f8-bd7d00000000",
-      "date": "2024-12-31T16:27:26",
-      "rating": 1,
-      "title": "İçerik",
-      "body": "İçeriklere göz attım bir çoğu çöp pişmanım",
-      "nickname": "Nakedboys",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f5-c0b400000000",
-      "date": "2024-12-31T15:14:13",
-      "rating": 5,
-      "title": "GASSAL",
-      "body": "Uygulama hem güzel ücret konusunda da uygun gassal gibi dizilerle devam",
-      "nickname": "kelepirciii",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f2-9a6f00000000",
-      "date": "2024-12-31T13:55:41",
-      "rating": 2,
-      "title": "Ücret sorunsalı",
-      "body": "Ücretsiz uygulama diyip içerikler için ücret talep etmeniz hiç doğru değil bölümler kısa kısa",
-      "nickname": "Mavilianne",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f2-544900000000",
-      "date": "2024-12-31T13:48:53",
-      "rating": 5,
-      "title": "Harikasınız",
-      "body": "Yerli ve milli böyle bir platforma çok ihtiyacımız vardı teşekkürler",
-      "nickname": "Pomak4545",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f1-853800000000",
-      "date": "2024-12-31T13:29:00",
-      "rating": 5,
-      "title": "Harika",
-      "body": "Çok güzel bi uygulama yapmışsınız elinize sağlık",
-      "nickname": "Nuri omer faruk",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f1-774c00000000",
-      "date": "2024-12-31T13:27:40",
-      "rating": 5,
-      "title": "Mükemmel",
-      "body": "Harika bir uygulama harika içerikler var içerisinde ama gassal 2. Sezon gelmezse haterı olucam bu platformun.:)",
-      "nickname": "adalıfatihh",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f0-903200000000",
-      "date": "2024-12-31T13:05:47",
-      "rating": 1,
-      "title": "Error",
-      "body": "Premium üyelik satın aldım fakat aktif olmadı",
-      "nickname": "carpedirm",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f0-5e3400000000",
-      "date": "2024-12-31T13:01:02",
-      "rating": 1,
-      "title": "Iıı",
-      "body": "Bir türlü giremedik sisteme hata verip duruyor",
-      "nickname": "Muroooo37",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d2f0-4be200000000",
-      "date": "2024-12-31T12:59:18",
-      "rating": 5,
-      "title": "Yurtdışı Access",
-      "body": "Bu konuda herhangi bir adım neden atılmıyor anlamış değilim inanılmaz bir potansiyeli kaciriyoruz.",
-      "nickname": "ibrhmkilic",
       "territory": "TUR"
     },
     {
@@ -21628,21 +21628,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -21664,21 +21664,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
@@ -21736,21 +21736,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -21871,21 +21871,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0e300000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
@@ -30610,249 +30610,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-842a-391f00000000",
-      "date": "2024-01-10T12:54:12",
-      "rating": 1,
-      "title": "Doğruma linki gelmiyor",
-      "body": "Üyeyüm doğrulama linki istiyor ama link gelmiyor meil düşmüyor ilginenirseniz",
-      "nickname": "Mehmet15740",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8424-5a8700000000",
-      "date": "2024-01-10T10:29:58",
-      "rating": 1,
-      "title": "E posta",
-      "body": "E posta doğrulama yapın diyor ancak e postaya doğrulama kodu gelmiyor üstelik haftalardır bu böyle hala çözemediniz beceremiyorsanız yapmayın ?!!!!!!",
-      "nickname": "Brkk1905",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-841e-ad7d00000000",
-      "date": "2024-01-10T08:22:58",
-      "rating": 4,
-      "title": "Doğrula",
-      "body": "Sürekli hesabı doğrula diyor. Ama mail göndermiyor. Bedava diye sallıyorlar sanırım ama trtnin parasının bir kısmını bizden topluyorlar zaten.",
-      "nickname": "Cinnerxxy",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-83e5-d97300000000",
-      "date": "2024-01-09T08:17:22",
-      "rating": 5,
-      "title": "MÜKEMMEL",
-      "body": "Özellikle dini diziler muhteşem yapandan Allah razı olsun Hay Sultan ve Mevlana hazretleri gibi yapımların devamını bekliyoruz",
-      "nickname": "Nevermind8181",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-83b7-d33800000000",
-      "date": "2024-01-08T12:06:17",
-      "rating": 5,
-      "title": "Tabii",
-      "body": "Giriş yapamıyorum",
-      "nickname": "kıroğlan",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-83b5-108c00000000",
-      "date": "2024-01-08T10:59:05",
-      "rating": 2,
-      "title": "Kullanamıyoruz",
-      "body": "Tv ye indiremiyoruz kare koda tıklanmıyor. Telefona indirdik doğrulama için mail gelmiyor açamıyoruz. Trt1 uygulamasını kapatmadan önce bunu kullanılabilir yapsaydınız da öyle kapatsaydınız bari",
-      "nickname": "bktdmr",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-83b3-b30500000000",
-      "date": "2024-01-08T10:27:02",
-      "rating": 1,
-      "title": "Açıl mıyor",
-      "body": "Doğrula Kodu istiyor ve kaç gündür \nBekliyorum",
-      "nickname": "ABDULKERİMOĞLU",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-83a9-234a00000000",
-      "date": "2024-01-08T06:39:45",
-      "rating": 4,
-      "title": "Hesap doğrulama",
-      "body": "Uygulamaya giremiyorum, hesabınızı doğrulayın diyor, ok diyorum, e posta gönderildi diyor ama gelmiyor",
-      "nickname": "Ggecemavisii",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8396-e42c00000000",
-      "date": "2024-01-07T22:55:24",
-      "rating": 1,
-      "title": "Berbat bir uygulama!!!!!!!!!!!!!",
-      "body": "Trt’nin uygulaması olan Tabii uygulaması gerçekten berbat ındırdıgım gün gayet güzel izledim ertesi gün uygulama bana e posta adresini onayla diye bir uyarı verdi e postayı onayla butonuna basıyorum fakat onay libkş 2 gündür maile gelmiyor sakın indirmeyin beleş diye berbat bir uygulama üreticisi ilgilenmiyor bile her yerden de şikayet ettim YAZIKLAR OLSUN !!!!!!",
-      "nickname": "Lydy1903",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8384-91ce00000000",
-      "date": "2024-01-07T14:23:15",
-      "rating": 5,
-      "title": "Güncelleme hatası",
-      "body": "Güncellemeden sonra uygulamaya giriş sağlanmıyor.Üyeliğim var şifre hatası verdi.Şifre değişimi istedim.Mail gelmedi.Ne yaparsam yapayım uygulamayı açamadım.Lütfen acilen düzeltilirse çok sevinirim.Bu arada emeğinize sağlık mükemmel bir uygulama yapmışsınız herkes yüklemeli 👏👏",
-      "nickname": "yasemin kaplan",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8342-530900000000",
-      "date": "2024-01-06T11:57:44",
-      "rating": 5,
-      "title": "Teşekkürler",
-      "body": "1. İzlediğimiz dizi yada filmi çıktıktan sonra kaldığımız yerden izleyemiyoruz. \n2. Teşekkürler. Günden güne daha da güzel olacağına inanıyorum.",
-      "nickname": "TahaKasım",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-833f-2ba800000000",
-      "date": "2024-01-06T10:47:20",
-      "rating": 5,
-      "title": "Tabii",
-      "body": "Allah razı olsun geliştirenden, dizilerden. Fox Tv’nin saçma sapan dizilerine bin basar🇹🇷",
-      "nickname": "Not just Muslim, a HUMAN🇵🇸🍉",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-833e-d7ac00000000",
-      "date": "2024-01-06T10:40:18",
-      "rating": 1,
-      "title": "Sürekli hata veriyor",
-      "body": "Sürekli hata veriyor hesabıma giremiyorum dizi izleyemiyorum ne zaman düzelir acaba",
-      "nickname": "öböbşhltnfnf",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-833c-ecfd00000000",
-      "date": "2024-01-06T09:59:54",
-      "rating": 1,
-      "title": "Yorum",
-      "body": "TRT 1, TRT haber, TRT belgesel gibi kanalları evde olmadığım zamanlarda izlemek için uygulama indirdim. \nCanlı yayında zaten kanalın işleyişi sırasında pek çok reklam var. Buna karşın 3-5 dakikada kısa kısa web reklamları giriyor. Turizm acenteleri, çeşitli gıda reklamları gibi. \n\nNe yazık ki eski (bir kaç ay önce) TRT uygulaması pekala çok iyiydi. Bu uygulama ile kanal yerine reklam izliyoruz.",
-      "nickname": "VW araç sahibi",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8336-947400000000",
-      "date": "2024-01-06T07:54:16",
-      "rating": 1,
-      "title": "Hesap aktifleştirme",
-      "body": "Tahmini olarak aktifleştirme linki kaç güne gelir????",
-      "nickname": "Retro…",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-830b-e68700000000",
-      "date": "2024-01-05T14:33:32",
-      "rating": 1,
-      "title": "Üzgünüz tabi bölgenizde bulunmuyor…",
-      "body": "Üzgünüz tabi bölgenizde bulunmuyor… yazısını görmek artık can sıkmaya başladı nezaman düzelecek acaba bu sorun ???",
-      "nickname": "siyahbereliii",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-82fe-1dd900000000",
-      "date": "2024-01-05T09:11:59",
-      "rating": 3,
-      "title": "İndirme",
-      "body": "Güzel bir uygulama ama neden indirme seçeneği yok?",
-      "nickname": "M3304.",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-82f4-6b3900000000",
-      "date": "2024-01-05T06:06:27",
-      "rating": 1,
-      "title": "Hesabını doğrulama maili",
-      "body": "Hesabını doğrulama maili gönderiyorum mailime gelen bişey yok aylardır tabii ye giriş yapamıyorum acil yardım",
-      "nickname": "Sıddık Kaplan",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-82c7-14db00000000",
-      "date": "2024-01-04T11:11:33",
-      "rating": 5,
-      "title": "Harika!",
-      "body": "Böyle bir uygulama nasıl beleş olur ya. Helal olsun size ücretsiz sunduğunuz için. İçerikler ve yapım kalitesi çok iyi. Emsal dünyadaki popüler uygulamalara bakıyorsun hem dünya kadar para alıyorlar hem yapım kaliteleri çok kötü. Anca 2-3 yapımları güzel gerisi çöp. Ama tabii müthiş bir arşiv ve kaliteli yapımlara sahip. \n\nKeşke mobil uygulamanız yurtdışında da çalışsa seyahatlerde de kullanma imkanımız olsa.",
-      "nickname": "Felankes",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-82c3-174400000000",
-      "date": "2024-01-04T09:44:35",
-      "rating": 4,
-      "title": "Ülke dışında proğram yetersiz",
-      "body": "Proğramı indirdim ama bulunduğum bölgede tabii bulunmuyor diye bir görsel çıkıyor !\nBu arada bulunduğum ülke İsveç acaba sorunu gidermeniz mümkünü",
-      "nickname": "yarenesma",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-82b5-f31d00000000",
-      "date": "2024-01-04T05:29:06",
-      "rating": 5,
-      "title": "Doğrulama kodu",
-      "body": "Üyeliğim var güncelleme geldikten sonra uygulamaya girdim hesabını doğrula diye bir şey çıkıyor e-postam doğru olduğu halde doğrulama kodu gelmiyor çıldırcağım kaç gündür giremiyorum.",
-      "nickname": "Okannnn01",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-828f-a94700000000",
-      "date": "2024-01-03T13:41:15",
-      "rating": 5,
-      "title": "Uygulamayı acmıyor",
-      "body": "Bulundugunuz bolge de erişim yoktur gbı savma bır yazı cıkıyor bu nedir ?",
-      "nickname": "Lüleburgazlı39",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8274-47bf00000000",
-      "date": "2024-01-03T04:27:40",
-      "rating": 5,
-      "title": "Macbookta videolar açılmıyor. Birşeyi de düzgün yapın yaa",
-      "body": "Macbookta videolar açılmıyor. Birşeyi de düzgün",
-      "nickname": "Kemaney",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8270-493400000000",
-      "date": "2024-01-03T03:01:53",
-      "rating": 4,
-      "title": "Tabii",
-      "body": "Ne zamandır kullanıyoruz memnunduk şimdi hesaptan atıp mail göndermek istiyor ne benim hesabıma ne eşiminkine göndermiyor uygulamaya giriş yapamıyoruz",
-      "nickname": "meftuneeee",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-826d-c6e500000000",
-      "date": "2024-01-03T02:01:33",
-      "rating": 1,
-      "title": "Güncellemeden sonra sorun var",
-      "body": "E posta adresini doğrulaman gerekiyor diyor. Ama e posta gelmiyor. Uygulamayı kullanamıyorum.",
-      "nickname": "Muratavukat",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-824b-a71100000000",
-      "date": "2024-01-02T11:48:15",
-      "rating": 5,
-      "title": "Giriş yapamıyorum",
-      "body": "Meil adresime gelmesi gereken meil gelmiyor",
-      "nickname": "başkannn2727777",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-8244-f61100000000",
-      "date": "2024-01-02T09:33:16",
-      "rating": 2,
-      "title": "İndirme özelliği getirilmeli",
-      "body": "İndirme ve çevrimdışı izleme neden yok.",
-      "nickname": "Ertan Özcan",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-8241-e02500000000",
       "date": "2024-01-02T08:33:55",
       "rating": 5,
@@ -30985,6 +30742,15 @@
       "title": "Şifre sorunu",
       "body": "Şifremi sıfırladım yeni şifre alamıyorum sürekli hata oluştu diye yazı çıkıyor yardımcı olur musunuz",
       "nickname": "silsüpür 😡😡😡",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-817f-31a800000000",
+      "date": "2023-12-30T04:24:39",
+      "rating": 5,
+      "title": "Üyelik aktif  etme sorunu",
+      "body": "Üyeliğimi devam ettirmem için e postamı onaylam gerektiği için tabii beni e posta  kısmına yönlendirdi lakin e posta da gelmiyor. Hiç bir şekilde ilerleme de olmuyor , siyah ekranda kaldım. Yardımlarınızı bekliyorum teşekkürler",
+      "nickname": "Tolga344",
       "territory": "TUR"
     },
     {
@@ -32407,6 +32173,240 @@
       "title": "Öneri..⚠️⚠️⚠️",
       "body": "Emeğinize sağlık.. \nyalnız reklam arasında ses yayından fazla çıkıyor birde bazen yayın da donma yaşıyor tv yayınlarında daha fazla gözüküyor.. güncelleme olursa daha güzel oluyor… kolay gelsin..",
       "nickname": "Ed7516",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-67a7-766400000000",
+      "date": "2023-09-03T00:29:59",
+      "rating": 3,
+      "title": "Tv",
+      "body": "Tv ye bağlanmıyo yansıtmayı bile denedik olmadı umarım en kısa sürede tv dede olur 🧸",
+      "nickname": "PXXD 33022",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-670e-5adc00000000",
+      "date": "2023-08-31T04:49:25",
+      "rating": 1,
+      "title": "Öneri",
+      "body": "Youtube üzerinden tv de izlemek istedim, sadece 5 dakika izlenebiliyor, her 5 dk da bir, iki reklam giriyor araya. Bence kasıtlı yapılıyor. Umarım dikkate alırsınız. Tabii yöneticileri",
+      "nickname": "DİYADİN",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-66e0-956000000000",
+      "date": "2023-08-30T07:49:42",
+      "rating": 5,
+      "title": "Din",
+      "body": "Diğer filim sitelerine göre daha temiz daha muhafazakar hele Fatih’in hayatını anlatan filim muhteşem",
+      "nickname": "osmanlı 01",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-66dd-471100000000",
+      "date": "2023-08-30T06:44:35",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "Tüm zamanların en rezil dijital platformu içeriklere lafım yok,fakat App berbat,rezil ve reklamlarla dolu dizipalin buradaki içeriklere de el atması gerekiyor bence.",
+      "nickname": "Halil vrl",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6681-6ff600000000",
+      "date": "2023-08-28T14:08:10",
+      "rating": 5,
+      "title": "Teşekkürler👏",
+      "body": "Uygulama gerçekten müthiş olmuş,çocuklarınıza içerikleri gönül rahatlığıyla izleyebilirsiniz..Teşekkürler TRT👏",
+      "nickname": "Muhammed453434",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6679-8e3200000000",
+      "date": "2023-08-28T10:33:12",
+      "rating": 3,
+      "title": "Sim Kart değişikliği",
+      "body": "Sim kart(hat taşıma) değiştirdikten sonra ‘veri alınamadı’ hatası vermeye başladı. Uygulama açılıyor ama içerikler görünmüyor. Neden olur ve nasıl düzeltilir?",
+      "nickname": "mtnklnc",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6625-df6000000000",
+      "date": "2023-08-26T22:29:25",
+      "rating": 3,
+      "title": "Tv Uygulaması Güncelleme İster",
+      "body": "Reklam arasında reklam çıkmıyor ve her seferinde geri gelerek kaldığım yerden devam et diyerek izliyorum. Ya reklam koymayın ya da bir kere uzun reklam koyun. Zırt bırt geri gelmekten kumanda eskiyecek.",
+      "nickname": "ynzga",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6602-21ba00000000",
+      "date": "2023-08-26T06:39:44",
+      "rating": 4,
+      "title": "Ses ayarı",
+      "body": "Reklamlarda ses birden çok fazla yükseliyor. Bu sorunun giderilmesi lazım.",
+      "nickname": "b. şengül",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-65f8-c50d00000000",
+      "date": "2023-08-26T02:55:44",
+      "rating": 1,
+      "title": "Veriler yüklenemedi hatası veriyor",
+      "body": "Bir türlü açamadım kaç kere sildim tekrar yükledim veriler yüklenmedi hatası veriyor",
+      "nickname": "mbkilim",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-65d1-bcd300000000",
+      "date": "2023-08-25T08:36:30",
+      "rating": 5,
+      "title": "İNDİRME",
+      "body": "Çevrimdışı olduğumuz zaman da  içerikleri izlemek için indirme özelliği gelirse çok daha iyi olacağı kanaatindeyim. On numara olur.",
+      "nickname": "Süleymanay1",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-65a6-6a8500000000",
+      "date": "2023-08-24T13:28:12",
+      "rating": 3,
+      "title": "Tv",
+      "body": "Tv’ye yansıtma özelliği gelmeli",
+      "nickname": "Fettah34",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-658a-778900000000",
+      "date": "2023-08-24T02:36:47",
+      "rating": 2,
+      "title": "YouTube",
+      "body": "Allah rızası için ya YouTube da mıyım bilmiyorum bu reklam neye ? Ya kaldırın yada biz uygulamayı silelim.",
+      "nickname": "Baran2147",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6587-4a7700000000",
+      "date": "2023-08-24T01:08:50",
+      "rating": 5,
+      "title": "Veri Alınamadı",
+      "body": "Defalarca sildim ve geri yükledim ama maalesef sürekli Veri Alınamadı hatası veriyor",
+      "nickname": "Tabii2200",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6567-2ecd00000000",
+      "date": "2023-08-23T09:49:06",
+      "rating": 1,
+      "title": "Sorun giderilsin",
+      "body": "İphone 11 kullanıcısıyım ve uygulamayı indiriyorum uygulamaya giriş yapıyorum açılan ekranda ünlem işareti çıkıp veriler alınamadı diyor konu ile ilgilenir misiniz",
+      "nickname": "biryazarinkalemiii",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6554-17ec00000000",
+      "date": "2023-08-23T02:52:15",
+      "rating": 1,
+      "title": "Hata",
+      "body": "iPad Air 1 e yüklenmiyor .zenginler için yapmışsınız bence .daha yüksek güncellemeyi benim iPad almıyor .daha iyisi içinde param yok,milli bir uygulama  için bunu yapmanız yazık.",
+      "nickname": "Nekede",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6553-481d00000000",
+      "date": "2023-08-23T02:30:37",
+      "rating": 5,
+      "title": "Mükemmel olmuş ellerinize sağlık",
+      "body": "Tozkoparan iskender GÖLGE için yüklemiştim tek kelimeyle ba —yıl —\n\ndım ❤️❄️❤️❄️❤️❄️🍁🍀🎊🌸🪷🍀🍁❄️❤️💞🍀💕🗽🎊",
+      "nickname": "Yağmur kıd",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6520-fc5d00000000",
+      "date": "2023-08-22T04:24:11",
+      "rating": 1,
+      "title": "Bağlantı kopması",
+      "body": "Sürekli kopmalar oluyor,kesintisiz bir şey izleyemiyorsunuz",
+      "nickname": "Abuziddin91",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-6502-76b500000000",
+      "date": "2023-08-21T13:49:21",
+      "rating": 5,
+      "title": "Uygulama Başarısız",
+      "body": "O kadar güzel diziler yapıp ,koca devlet kanalı nasıl bir uygulamayı bu kadar hatalı yapıyor anlamıyorum.Reklam çıkınca durdurma veya sesi kısma şansın yok . Sürekli donma mevcut. Ayrıca arka plan hatası çok fazla.",
+      "nickname": "ege2233",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64fe-369500000000",
+      "date": "2023-08-21T11:52:46",
+      "rating": 5,
+      "title": "Islak hayal",
+      "body": "İnternetsiz izleyebilsek daha iyi olurdu ama çok güzel YouTube da 92379379201 kez reklamla izlemek yerine burda reklamsız izlemek çok güzel ve daha iyi",
+      "nickname": "Islak hayal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64fc-2c0e00000000",
+      "date": "2023-08-21T11:01:11",
+      "rating": 5,
+      "title": "Uygulama Açılıyor Fakat İzleme Yapılamıyor.",
+      "body": "Yeni güncelleme mi geldi bilemiyorum, uygulamaya giriş yazılıyor fakat izleme yapılamıyor. Ekran kararıyor. Kapatıp açsam da işe yaramıyor. Destek lütfen. Ve şu suyunu çıkartan reklamlara son vermenizi rica ediyorum.",
+      "nickname": "Samidnmz",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64fa-455600000000",
+      "date": "2023-08-21T10:15:15",
+      "rating": 5,
+      "title": "Veriler Alınamadı uyarısı",
+      "body": "Uygulama çok güzel başarılarınızın devamını diliyorum ancak neden veriler alınamadı uyarısı çıkıyor ve telefonda açılmıyor",
+      "nickname": "ab19119",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64f9-633500000000",
+      "date": "2023-08-21T09:54:41",
+      "rating": 1,
+      "title": "Çok internet",
+      "body": "kullanıyor kalite ayarı en düşükte olmasına rağmen",
+      "nickname": "Qwuıdldleleelel",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64c3-c55100000000",
+      "date": "2023-08-20T10:38:17",
+      "rating": 1,
+      "title": "Açılmıyor veri yüklenemedi diyor",
+      "body": "I phone 11 yükledim açmıyor",
+      "nickname": "Hasan232391",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64c3-9cf100000000",
+      "date": "2023-08-20T10:34:38",
+      "rating": 2,
+      "title": "R",
+      "body": "Her ilerlediğimde 2 reklam çıkıyor çok saçma",
+      "nickname": "Efeöö",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64c0-798c00000000",
+      "date": "2023-08-20T09:23:54",
+      "rating": 3,
+      "title": "Hücresel veri ile çalışmıyor",
+      "body": "Uygulama ve içerikler güzel ama ev dışında wifi olmadan bırak izlemeyi uygulamaya giriş bile yapamıyoruz",
+      "nickname": "ecz9508",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-64ba-6f5a00000000",
+      "date": "2023-08-20T07:21:48",
+      "rating": 1,
+      "title": "Reklamlar çok sarıyo ya arada bir karşınıza film çıkabilir olacak o kadar",
+      "body": "//",
+      "nickname": "Kaan gd",
       "territory": "TUR"
     },
     {
@@ -37807,231 +37807,6 @@
       "title": "Ülkemiz adına gurur verici 🇹🇷",
       "body": "İnşallah en güzel içeriklerle yola devam eder",
       "nickname": "Dizibok",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e72-cdef00000000",
-      "date": "2023-05-08T09:08:55",
-      "rating": 5,
-      "title": "Değerlerimize Değer veren bir anlayışla💯",
-      "body": "Hep Daha İleriye🌹\nYüreğinize Sağlık🤲",
-      "nickname": "AR3524",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e6e-7dd200000000",
-      "date": "2023-05-08T07:35:05",
-      "rating": 5,
-      "title": "Apple TV",
-      "body": "Apple TV için de sürümü olsa çok iyi olur",
-      "nickname": "pixelhaber",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e6b-838a00000000",
-      "date": "2023-05-08T06:32:50",
-      "rating": 3,
-      "title": "Çok güzel",
-      "body": "Ama AirPlay de tv ye yansitamiyorum ve Samsung apps de uygulama yok maalesef. bunları bir an önce düzeltmeniz gerek…",
-      "nickname": "Hüseyin Yüksekay",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e69-0d9e00000000",
-      "date": "2023-05-08T05:40:38",
-      "rating": 1,
-      "title": "Kullanılmıyor",
-      "body": "Bölgenizde kullanılmıyor hatası veriyor sürekli (hiçbir program VPN açık değil.)",
-      "nickname": "mhmmdenesyldz",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e66-572000000000",
-      "date": "2023-05-08T04:38:44",
-      "rating": 2,
-      "title": "Apple",
-      "body": "Apple TV uygulamasında yoktur büyük eksiklik",
-      "nickname": "Herrjesus",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e65-a66000000000",
-      "date": "2023-05-08T04:21:52",
-      "rating": 5,
-      "title": "Tv uygulaması",
-      "body": "Tv uygulaması istiyoruz\n#yeşildenizmilenyum",
-      "nickname": "Vumetre",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e63-931000000000",
-      "date": "2023-05-08T03:27:36",
-      "rating": 2,
-      "title": "Tabi",
-      "body": "Yurt dışındaki tüm dillere açık olmalı hesabı açtım ama giriş yapılmıyor sadece 2 3 tane dil var",
-      "nickname": "tabi.sevmedik",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e5c-3e7700000000",
-      "date": "2023-05-07T23:34:46",
-      "rating": 1,
-      "title": "Farklı ülkede çalışmıyor",
-      "body": "Ben Amerikadayım ama bu diziyi izlemek istiyorum ama izleyemiyorum",
-      "nickname": "MALANG_Sajad",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e5c-01b600000000",
-      "date": "2023-05-07T23:26:12",
-      "rating": 1,
-      "title": "İstesek televizyon izlerdik..",
-      "body": "Dijital mecraya tv kafasında içerikler üretirsen elinde patlar. Sürelerini kısaltıp korku gerilim gibi orijinal içerikler de üretmelisin. Dijital dizide ağır çekim ne alaka",
-      "nickname": "OyuncuGenç",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e54-df9800000000",
-      "date": "2023-05-07T19:17:05",
-      "rating": 5,
-      "title": "KKTC",
-      "body": "merhaba ben kktc’den yazıyorum uygulamaya buradan giriş yapamıyoruz şöyle bir hata veriyor “ÜZGÜNÜZ, TABİİ BÖLGENİZDE BULUNMUYOR” bu sorunu nasıl çözebiliriz yardımcı olursanız çok memnun olurum..",
-      "nickname": "Nedimcelik",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e52-eef500000000",
-      "date": "2023-05-07T18:17:11",
-      "rating": 4,
-      "title": "Güzelde",
-      "body": "Güzelde reklam olmadı be abla",
-      "nickname": "Wayyss",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e4b-db5d00000000",
-      "date": "2023-05-07T14:34:17",
-      "rating": 5,
-      "title": "Tebrik",
-      "body": "Emeği geçen herkese çok teşekkür ederim gerçekten büyük yatırım ve titizlikle yapılmış daha yolun başı gelişeceğinden eminim küçük bir önerim olacak bölüm süreleri 45dk geçmezse çok daha güzel olur",
-      "nickname": "Ahmedkirik",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e4b-35cb00000000",
-      "date": "2023-05-07T14:15:04",
-      "rating": 5,
-      "title": "Maneviyat ve Medeniyet İçerir!",
-      "body": "Yerli ve milli uygulamamız hayırlara vesile olsun. İçerikleri çok kaliteli. Allah utandırmasın.",
-      "nickname": "ömerfaruk20",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e49-9df000000000",
-      "date": "2023-05-07T13:28:21",
-      "rating": 5,
-      "title": "Serhat dizisi",
-      "body": "Serhat dizisi muhteşem platform zaten harika lütfen serhat dizisinin diğer sezonları gelsin",
-      "nickname": "lifeisgoing",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e49-40bd00000000",
-      "date": "2023-05-07T13:17:57",
-      "rating": 5,
-      "title": "..",
-      "body": "İndirme özelliği olması gerekiyor. TRT dizilerinin son bir kaç bölümleri yüklü değil.",
-      "nickname": "Ahmetçakmak41",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e47-fb3b00000000",
-      "date": "2023-05-07T12:42:34",
-      "rating": 5,
-      "title": "Tabii",
-      "body": "Başta oğlum olmak üzere tüm trt ekibini tebrik ederim.",
-      "nickname": "dawg like O'neal",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e46-fa1600000000",
-      "date": "2023-05-07T12:16:03",
-      "rating": 5,
-      "title": "🇹🇷",
-      "body": "Türk İnsanı Yaparda Kötü olurmu 🇹🇷❤️",
-      "nickname": "Ali Baran46",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e43-7cac00000000",
-      "date": "2023-05-07T10:48:59",
-      "rating": 5,
-      "title": "İndirme",
-      "body": "Öneri olarak çevrimdışı izleyebilmek için indirme seçeneği olmalı",
-      "nickname": "daesmondd",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e42-850c00000000",
-      "date": "2023-05-07T10:26:15",
-      "rating": 5,
-      "title": "Muhteşem",
-      "body": "Cidden çok beğendim…çok başarılı",
-      "nickname": "sinan selim",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e41-2b4d00000000",
-      "date": "2023-05-07T09:54:58",
-      "rating": 1,
-      "title": "Uygulama kullanılmıyor",
-      "body": "Uygulamaya kayıt olduğumda bölgenizde kullanılmamaktadır hatası alıyorum",
-      "nickname": "ismail124231",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e3e-324200000000",
-      "date": "2023-05-07T08:49:24",
-      "rating": 5,
-      "title": "Darmadağın olmuş Türk İslam dünyasını bir edecek bir proje",
-      "body": "Desteklenmeli daha iyiye ve ileriye hedeflenmeli..👏🏼",
-      "nickname": "Edward Scissorshands",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e3e-312500000000",
-      "date": "2023-05-07T08:49:18",
-      "rating": 3,
-      "title": "Apple tv de yok",
-      "body": "Uygulamayı apple tvde bulamıyorum.",
-      "nickname": "Yvz3569",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e3d-f48300000000",
-      "date": "2023-05-07T08:44:16",
-      "rating": 5,
-      "title": "Efsane",
-      "body": "Bu nasıl bir arşivdir böyle! Muhteşem diziler, filmler, belgeseller ve hatta konserler.. Gerçekten hayran kaldım. Muazzam bir platform olmuş. Emeğinize ellerinize sağlık!",
-      "nickname": "mtmurattm",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e3d-102700000000",
-      "date": "2023-05-07T08:25:21",
-      "rating": 1,
-      "title": "İndirme",
-      "body": "İndirip izleme olmaması… rezillik",
-      "nickname": "Dgknn 50",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-4e3b-722900000000",
-      "date": "2023-05-07T07:52:16",
-      "rating": 5,
-      "title": "Tabii",
-      "body": "Çok güzel bir uygulama, Maşallah",
-      "nickname": "Zekeriya Kara",
       "territory": "TUR"
     },
     {
