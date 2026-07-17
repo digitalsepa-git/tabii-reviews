@@ -1,14 +1,131 @@
 {
-  "updated_at": "2026-07-16T08:13:33.730426Z",
-  "total": 4289,
+  "updated_at": "2026-07-17T08:09:19.573312Z",
+  "total": 4302,
   "appstore": {
-    "average": 4.50338,
-    "count": 68096,
-    "current_version_average": 4.50338,
-    "current_version_count": 68096,
+    "average": 4.50214,
+    "count": 68124,
+    "current_version_average": 4.50214,
+    "current_version_count": 68124,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-54ca-3ab200000000",
+      "date": "2026-07-15T12:50:28",
+      "rating": 5,
+      "title": "Müthiş",
+      "body": "Emeğe geçenlerden Allah razı olsun",
+      "nickname": "Omarsari",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c9-834600000000",
+      "date": "2026-07-15T12:34:06",
+      "rating": 1,
+      "title": "Boşuna para",
+      "body": "Maç izlemek istiyorum hep error falan veriyor buna para veriyorum be göster miyor",
+      "nickname": "Metin1913",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c9-465200000000",
+      "date": "2026-07-15T12:28:49",
+      "rating": 1,
+      "title": "Ses geriden geliyor",
+      "body": "TRT web sitesinden trt spor izlemeye çalışıyorum ses çok geriden geliyor.",
+      "nickname": "Gashhs12",
+      "territory": "GBR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-f1e000000000",
+      "date": "2026-07-15T12:21:44",
+      "rating": 5,
+      "title": "Kullanışlı",
+      "body": "Gayet kullanışlı bir uygulama ve yayın icerikleri de çok güzel",
+      "nickname": "ens1991",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-e09000000000",
+      "date": "2026-07-15T12:20:14",
+      "rating": 1,
+      "title": "Hata veriyor",
+      "body": "Nasıl nasıl uygulama arkadaşım Arjantin İngiltere maçında uygulamaya giremiyorum bu ne sorumsuzluk",
+      "nickname": "21Aslankral21",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-d75600000000",
+      "date": "2026-07-15T12:19:26",
+      "rating": 1,
+      "title": "Kötü",
+      "body": "Şuan İngiltere Arjantin maçı var ne telefondan nede bilgisayardan açılıyor, TRT nin yapacağı iş anca bu kadar olur",
+      "nickname": "Yuh diyorum",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-c87b00000000",
+      "date": "2026-07-15T12:18:06",
+      "rating": 1,
+      "title": "Arayüz çok kötü",
+      "body": "Bu kadar kötü bir tv uygulaması kullanmamıştım",
+      "nickname": "CTTTTTT01",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-c01f00000000",
+      "date": "2026-07-15T12:17:22",
+      "rating": 1,
+      "title": "Güncelleme",
+      "body": "Güncelledik hiç açılmıyor",
+      "nickname": "cakanzi",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-b9f600000000",
+      "date": "2026-07-15T12:16:50",
+      "rating": 1,
+      "title": "Çok kötü",
+      "body": "Liyakatsiz herifler uygulamanız doğrulama hatası veriyor hiçbirşeyi düzgün yapamayacakmısınız siz iktidar yalamaları",
+      "nickname": "Ghost1221/;(;",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-978c00000000",
+      "date": "2026-07-15T12:13:50",
+      "rating": 1,
+      "title": "Bu uygulama neden paralı ?",
+      "body": "Onca vergi almanıza rağmen böyle saçma bir uygulama çıkartıp milleti dolandırıyorsunuz resmen. Güncelleme maç izleyelim diye üyelik aldık uygulama açılmıyor bok gibi",
+      "nickname": "diabetichercules",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-90f500000000",
+      "date": "2026-07-15T12:13:18",
+      "rating": 1,
+      "title": "açılmıyor",
+      "body": "hata veriyor girmiyor",
+      "nickname": "abhabhababjsaja",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-77d700000000",
+      "date": "2026-07-15T12:11:07",
+      "rating": 1,
+      "title": "Altyapısı yok",
+      "body": "Maç izlemek için giriyorum time out yiyorum uygulamaya giriş bile yapamıyorum altyapısı çok kötü",
+      "nickname": "Zenon far",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-174600000000",
+      "date": "2026-07-15T12:02:55",
+      "rating": 1,
+      "title": "Stabil değil",
+      "body": "Sürekli donuyor",
+      "nickname": "Apokerim",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-548e-b7c100000000",
       "date": "2026-07-14T13:43:30",
@@ -21754,21 +21871,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -21979,15 +22096,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2cd00000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Rezillik ötesiiiii!!!",
-      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
-      "nickname": "Abdulkerim şalış",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2e900000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
@@ -21997,12 +22105,12 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
+      "id": "00000063-7266-3902-c647-d2cd00000000",
+      "date": "2024-11-05T12:08:26",
       "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
+      "title": "Rezillik ötesiiiii!!!",
+      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
+      "nickname": "Abdulkerim şalış",
       "territory": "TUR"
     },
     {
@@ -22012,6 +22120,15 @@
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
@@ -27762,7 +27879,7 @@
       "rating": 1,
       "title": "Gereksiz",
       "body": "Harici ekrana kablolu ya da airplay bağlantıyı engellediği için gereksiz.",
-      "nickname": "--BuRaK--",
+      "nickname": "--kalamari--",
       "territory": "TUR"
     },
     {
