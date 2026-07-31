@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-07-30T08:25:52.315225Z",
-  "total": 4308,
+  "updated_at": "2026-07-31T08:49:01.039065Z",
+  "total": 4309,
   "appstore": {
-    "average": 4.50108,
-    "count": 68145,
-    "current_version_average": 4.50108,
-    "current_version_count": 68145,
+    "average": 4.501,
+    "count": 68148,
+    "current_version_average": 4.501,
+    "current_version_count": 68148,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-5827-1c8c00000000",
+      "date": "2026-07-29T13:40:22",
+      "rating": 1,
+      "title": "İptal",
+      "body": "Deneme için 1 gün Abone oldum. 3 ay hesabımdan para çekmişler. Uygulamada aboneliği iptal yeri yok. E mail yazdım. Uygulamadan iptal edin diyorlar. Uygulamada öyle bir bölüm yok. Derhal üyeliğimi iptal edin.",
+      "nickname": "Ü.Sss",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-571a-263d00000000",
       "date": "2026-07-25T05:19:44",
@@ -21610,21 +21619,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -21934,21 +21943,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-003600000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "Çöktü. Rezalet",
-      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
-      "nickname": "Babapro.31",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-001300000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "REZİLLER",
       "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
       "nickname": "chevfb1907₺",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-003600000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "Çöktü. Rezalet",
+      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
+      "nickname": "Babapro.31",
       "territory": "TUR"
     },
     {
@@ -22159,15 +22168,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2cd00000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Rezillik ötesiiiii!!!",
-      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
-      "nickname": "Abdulkerim şalış",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2e900000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
@@ -22177,12 +22177,12 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
+      "id": "00000063-7266-3902-c647-d2cd00000000",
+      "date": "2024-11-05T12:08:26",
       "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
+      "title": "Rezillik ötesiiiii!!!",
+      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
+      "nickname": "Abdulkerim şalış",
       "territory": "TUR"
     },
     {
@@ -22192,6 +22192,15 @@
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
@@ -30129,7 +30138,7 @@
       "rating": 3,
       "title": "Güzel 𝐚𝐦𝐚",
       "body": "Uygulama güzel yerli ama tekmik bir sürü sıkıntısı var, tabi tabii yeni olduğu için düzeltilceğine inanıyorum. Öncelikle intro atlama, sonraki bölüm düğmeleri yok; aynı zamanda bir bölümü izledin, sonra diziye tekrar başladın o bölümü en son bıraktığın yerden (yani en sonundan tekrar başlatıyor)\nbu sorunun hemen çözülmesi gerekiyor; bölümleri kendi kendine geçiyor. Biz Apple TV’den izliyoruz kumandası çalışmıyor bölümü kendi kendine geçtiği için başa sarmak için sürekli telefondan tuşa basıyorum 10 saniye geri alıyor, dizinin bir bölüm yaklaşık 2 saat, onar onar sürekli basıyorum, başa sarma tuşu çok büyük bir eksik. Başka teknik hatalarda var.",
-      "nickname": "pro cemil",
+      "nickname": "süper cemil",
       "territory": "TUR"
     },
     {
