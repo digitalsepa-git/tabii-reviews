@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-08-09T06:55:14.403576Z",
-  "total": 4311,
+  "updated_at": "2026-08-10T07:40:01.161069Z",
+  "total": 4312,
   "appstore": {
-    "average": 4.50096,
-    "count": 68141,
-    "current_version_average": 4.50096,
-    "current_version_count": 68141,
+    "average": 4.50077,
+    "count": 68121,
+    "current_version_average": 4.50077,
+    "current_version_count": 68121,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-5a6a-c2c300000000",
+      "date": "2026-08-08T00:10:58",
+      "rating": 3,
+      "title": "Dublajlı dizi film sorunu",
+      "body": "Neredeyse hiçbir yabancı içeriğin dublaj seçeneği yok. Altyazı takip etmek ya da orijinal halinde izlemek istemeyenleri de umursarsanız sevinirim",
+      "nickname": "By.İsaac",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-599c-848400000000",
       "date": "2026-08-04T14:00:38",
@@ -4965,7 +4974,7 @@
       "rating": 5,
       "title": "Başarılı",
       "body": "Süper bir uygulama",
-      "nickname": "Adasaide",
+      "nickname": "@almina.",
       "territory": "TUR"
     },
     {
@@ -21637,21 +21646,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -22069,21 +22078,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
@@ -37320,7 +37329,7 @@
       "rating": 3,
       "title": "Kullanışsız Arayüz",
       "body": "Arayüzü klasik bir tasarıma sahip. Diğer platformlarda da olan hatalar burada da bulunuyor. Öneriler ve sınıflandırılmış listeler umarım daha iyi hale getirilir. Ayrıca bir AppleTV uygulaması olmadığından henüz uzun kullanım sağlayamadım. Mobil cihazlarda izlemek istemem dizileri ve filmleri.",
-      "nickname": "Alphan K.",
+      "nickname": "Rıfkı Çimentocu",
       "territory": "TUR"
     },
     {
