@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-26T06:47:47.288569Z",
-  "total": 4315,
+  "updated_at": "2026-08-27T17:22:12.978390Z",
+  "total": 4314,
   "appstore": {
-    "average": 4.50065,
-    "count": 68115,
-    "current_version_average": 4.50065,
-    "current_version_count": 68115,
+    "average": 4.50067,
+    "count": 68109,
+    "current_version_average": 4.50067,
+    "current_version_count": 68109,
     "version": "1.4.0"
   },
   "reviews": [
@@ -8101,21 +8101,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a1fd00000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Kötü",
-      "body": "Kötü",
-      "nickname": "Kötüüüüp",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a21200000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Boykot",
       "body": "Boykot",
       "nickname": "Ydlasaa",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a1fd00000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Kötü",
+      "body": "Kötü",
+      "nickname": "Kötüüüüp",
       "territory": "TUR"
     },
     {
@@ -14515,15 +14515,6 @@
       "title": "Gassal",
       "body": "Gassal gerçekten yüreğimize dokunan bir dizi olmuş tebrik ediyorum",
       "nickname": "Hafızoğlu Ahmet",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-d361-ecf200000000",
-      "date": "2025-01-02T09:25:38",
-      "rating": 5,
-      "title": "Gururumuz tabii",
-      "body": "Süper bir platform gurur duydum !!!",
-      "nickname": "Serkan Yarar",
       "territory": "TUR"
     },
     {
