@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-08-29T12:22:57.579589Z",
+  "updated_at": "2026-08-30T11:21:32.336218Z",
   "total": 4318,
   "appstore": {
-    "average": 4.50037,
-    "count": 68116,
-    "current_version_average": 4.50037,
-    "current_version_count": 68116,
+    "average": 4.5004,
+    "count": 68114,
+    "current_version_average": 4.5004,
+    "current_version_count": 68114,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-5f41-86a400000000",
+      "date": "2026-08-28T11:18:43",
+      "rating": 1,
+      "title": "Çoook yazık",
+      "body": "Sürekli şifre isteme vs. Ötekiler nasıl sorunsuz çalışıyor? Düzgün çalışsa abone olurum. Lütfen eksikleri düzeltelim.",
+      "nickname": "Kintala",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-5ed1-303f00000000",
       "date": "2026-08-26T13:57:58",
@@ -25,15 +34,6 @@
       "title": "Trt",
       "body": "Bu TRT’nin olduğu paralar vergiler haram zıkkım olsun bir tane şifre yenilmez miyiz ya ya berbat rezalet kepaze bir uygulama",
       "nickname": "Kaplan0731",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-5ecc-e2a400000000",
-      "date": "2026-08-26T12:14:59",
-      "rating": 1,
-      "title": "Üyelik para",
-      "body": "Leş",
-      "nickname": "BRQzCN",
       "territory": "TUR"
     },
     {
@@ -22078,21 +22078,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
