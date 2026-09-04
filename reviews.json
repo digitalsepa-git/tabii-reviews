@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-09-03T10:44:54.065556Z",
+  "updated_at": "2026-09-04T10:42:13.761992Z",
   "total": 4318,
   "appstore": {
-    "average": 4.5004,
+    "average": 4.50037,
     "count": 68112,
-    "current_version_average": 4.5004,
+    "current_version_average": 4.50037,
     "current_version_count": 68112,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6073-f0ee00000000",
+      "date": "2026-09-02T13:17:32",
+      "rating": 3,
+      "title": "Yurt dışı kullanımı",
+      "body": "Yurt dışı seyahatimde üzgünüz, bulunduğunuz yerde tabi bulunmuyor geri bildirimi ile uygulamayı açamıyorum. Ayrıca indirdiklerimi bile izleyemiyorum",
+      "nickname": "AK25.",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6021-0aad00000000",
       "date": "2026-09-01T05:41:10",
@@ -21727,21 +21736,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -22159,21 +22168,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -22294,21 +22303,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0e300000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
@@ -30553,15 +30562,6 @@
       "title": "Doğum tarihi yazmak için 12*68 kere tuşa basmak nedir?",
       "body": "Üyelik sayfasında doğum tarihini yazmak için 12*68=816 kere tuşa bastırmak nedir?\nDaha önce yayınlanan TRT uygulamasının yerine mi geldi?",
       "nickname": "Ndagdemir",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-873d-c69000000000",
-      "date": "2024-01-24T07:12:33",
-      "rating": 5,
-      "title": "E-posta doğrulama kodu",
-      "body": "E-posta doğrulama kodu gelmeyen arkadaşlar “gereksiz/spam” mail klasörlerinizi kontrol edin. Bende de öyleydi. Sonradan o klasörlerimi incelediğimde Tabii’den gelen maillerin oraya düştüğünü gördüm.",
-      "nickname": "İbart",
       "territory": "TUR"
     },
     {
