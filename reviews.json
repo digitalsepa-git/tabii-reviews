@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-04T10:42:13.761992Z",
-  "total": 4318,
+  "updated_at": "2026-09-05T10:01:41.120835Z",
+  "total": 4316,
   "appstore": {
-    "average": 4.50037,
-    "count": 68112,
-    "current_version_average": 4.50037,
-    "current_version_count": 68112,
+    "average": 4.5004,
+    "count": 68110,
+    "current_version_average": 4.5004,
+    "current_version_count": 68110,
     "version": "1.4.0"
   },
   "reviews": [
@@ -8146,21 +8146,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -21736,21 +21736,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -21880,21 +21880,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -22060,21 +22060,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -22285,15 +22285,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
@@ -22303,12 +22294,12 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
       "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
@@ -22318,6 +22309,15 @@
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
@@ -23057,15 +23057,6 @@
       "body": "İlk başta dedim yıllık ödüyeyim Maç’ları izlerim ama malesef ingilterede oldugum için izliyemedim birde reklamdarda şu kadar çok flim ve dizi ve içerik yazıyorsunuz ama hiç birsey yok teneke gibi boş bir platform yeşil deniz 2 sezon tabide yazıyor giriyorum yok şaka gibi bir sürü para alıyorsunuz ve boş bir platform",
       "nickname": "AntepliHekas27",
       "territory": "GBR"
-    },
-    {
-      "id": "00000063-7266-3902-c3a1-431e00000000",
-      "date": "2024-10-24T23:31:16",
-      "rating": 1,
-      "title": "Tam ekran",
-      "body": "Tarayıcıdan açarken neden tam ekran seçeneği görünmüyor",
-      "nickname": "ilcan1212",
-      "territory": "TUR"
     },
     {
       "id": "00000063-7266-3902-c38e-dbda00000000",
@@ -33171,7 +33162,7 @@
       "rating": 3,
       "title": "🤦🏻‍♀️",
       "body": "İçerikler çok güzel ona söylecek bir sözüm yok…tek şikayetçi olduğum konu dizinin orta yerinde bangır bangır bağıran didi reklam müziği😫 \nDiğer reklamlarda böyle bir sorun yok didi reklamı resmen kulaklarımı tırmalıyor…",
-      "nickname": "Çukurova",
+      "nickname": "Magnolia5544",
       "territory": "TUR"
     },
     {
@@ -36592,15 +36583,6 @@
       "title": "Yerli olsun 5 fazla olsun",
       "body": "🇹🇷Gurur duydum . İçerikler çoğaldıkça da gurur duymaya ve duyurmaya devam 👍☀️",
       "nickname": "songitarist",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-512b-eb0800000000",
-      "date": "2023-05-21T14:59:01",
-      "rating": 1,
-      "title": "TV UYGULAMASI",
-      "body": "MERHABA BİR YILDIZ VERDİM ÇÜNKÜ İDDALI BİR PLATFORMA RAKİP OLUP HAZIRLIKSIZ ÇIKMANIZ TELEFONU TVYE BAĞLAYINCA SEKRONİZE CALIŞMIYOR İNDİRME ÖZELLLİĞİ YOK ELİNİZİ BİRAZ CABUK TUTUNUZ",
-      "nickname": "oooflu",
       "territory": "TUR"
     },
     {
