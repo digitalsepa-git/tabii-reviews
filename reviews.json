@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-09-10T10:44:02.993220Z",
-  "total": 4321,
+  "updated_at": "2026-09-11T10:42:14.739214Z",
+  "total": 4324,
   "appstore": {
-    "average": 4.50004,
-    "count": 68112,
-    "current_version_average": 4.50004,
-    "current_version_count": 68112,
+    "average": 4.49952,
+    "count": 68123,
+    "current_version_average": 4.49952,
+    "current_version_count": 68123,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6216-588700000000",
+      "date": "2026-09-09T13:28:28",
+      "rating": 1,
+      "title": "Donma",
+      "body": "Bir şey izlerken sürekli donuyor canlı yayın olsun dizi olsun",
+      "nickname": "Dilara Erdoğan",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6213-2e1100000000",
+      "date": "2026-09-09T12:15:14",
+      "rating": 2,
+      "title": "Takip Özelliği Kayboldu",
+      "body": "Son 3 gündür hem takip ettiğim dizilerin hem de yeni başladığım dizilerin takibini yapamıyorum. Hepsi silinmiş. Her defasında ilk defa izlemeye başlıyorum gibi sezon seçip bölümü seçip kaldığım dakikayı arayıp buluyorum. Hem iphone cihazımda hem de android tvim de aynı sorunu yaşıyorum.",
+      "nickname": "slyman33",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6210-76bd00000000",
+      "date": "2026-09-09T11:16:02",
+      "rating": 1,
+      "title": "Yerin dibine batsın böyle uygulama",
+      "body": "Bu kadar büyük bütçeye sahip olup, dünya kadar aboneden para alıp böyle rezil uygulama nasıl yaparsınız aklım almıyor. Aboneliğim var ucl maçlarını izleyeceğim menü yok uygulamada. Aramalarda çıkmıyor. Allah kahretsin.",
+      "nickname": "Onyekuru’dan koşu var",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-620e-da5200000000",
+      "date": "2026-09-09T10:42:00",
+      "rating": 1,
+      "title": "Ücret",
+      "body": "Devlet kanalında ücretli platform mu olurmuş utanmaz adamlar TRT zaten halkın kanalı bu ne açgözlülük.",
+      "nickname": "Bedri.",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-61e3-5e1900000000",
       "date": "2026-09-08T17:07:22",
@@ -8191,21 +8227,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -9879,7 +9915,7 @@
       "rating": 1,
       "title": "Donıyor",
       "body": "Donuyor",
-      "nickname": "TheeYa7",
+      "nickname": "PKXD Lover🥳",
       "territory": "TUR"
     },
     {
@@ -21781,21 +21817,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -22105,21 +22141,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-003600000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "Çöktü. Rezalet",
-      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
-      "nickname": "Babapro.31",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-001300000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "REZİLLER",
       "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
       "nickname": "chevfb1907₺",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-003600000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "Çöktü. Rezalet",
+      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
+      "nickname": "Babapro.31",
       "territory": "TUR"
     },
     {
@@ -28286,15 +28322,6 @@
       "body": "Türkiye disinda Canli Yayin olmuyorsa, uygulamayi sadece Türkiyede satin dalga mi geciyosunuz kardesim!!",
       "nickname": "Lisa3432",
       "territory": "DEU"
-    },
-    {
-      "id": "00000063-7266-3902-a73c-5bde00000000",
-      "date": "2024-06-18T08:54:40",
-      "rating": 5,
-      "title": "Hll",
-      "body": "Doğrulama istiyor ama önümde sadece kronometre çalışıyor nasıl olacak şimdi",
-      "nickname": "Hlltkş",
-      "territory": "TUR"
     },
     {
       "id": "00000063-7266-3902-a739-09f800000000",
