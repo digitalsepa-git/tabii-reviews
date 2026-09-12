@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T10:42:14.739214Z",
-  "total": 4324,
+  "updated_at": "2026-09-12T10:11:09.624342Z",
+  "total": 4327,
   "appstore": {
     "average": 4.49952,
     "count": 68123,
@@ -9,6 +9,42 @@
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-624d-75d500000000",
+      "date": "2026-09-10T11:29:56",
+      "rating": 1,
+      "title": ".",
+      "body": "Çok kötü bir uygulama maç izlerken kanser oldum habire durduruyor",
+      "nickname": "Gurol35",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-624a-8f5b00000000",
+      "date": "2026-09-10T10:28:39",
+      "rating": 1,
+      "title": "Donuyor.",
+      "body": "Her şey normal (internet bağlantısı, cihaz vs) fakat uygulama maç yayınında sürekli donuyor. Santralleriniz bunu kaldırmıyorsa geliştirin lütfen. Bir maç izleyeceğiz 50 kere donuyor. Sürekli uygulamayı kapat - aç yapmak zorunda kalıyoruz !!",
+      "nickname": "Skoksal71",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-624a-4aba00000000",
+      "date": "2026-09-10T10:23:07",
+      "rating": 1,
+      "title": "Canlı yayın düzgün çalışmıyor ve. donma",
+      "body": "Valla bıktım maç izletirmedi canlı açıyorum 2 dk gösteriyor bir anda geçmiş zamana atıyor",
+      "nickname": "Vrlgkmn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6249-912000000000",
+      "date": "2026-09-10T10:08:11",
+      "rating": 1,
+      "title": "Projeksiyonda çalışmıyor",
+      "body": "Projeksiyonda çalışmıyor",
+      "nickname": "Miniaturehealer",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6216-588700000000",
       "date": "2026-09-09T13:28:28",
@@ -1555,15 +1591,6 @@
       "title": "Küçük bir öneri",
       "body": "Bence çevrimdışı izleyebilme seçeneği olmalı ve The Thundermans vb. Şeyler çocuk profiline ve yetişkin profiline gelmeli\nLütfen talepleri yerine getirin",
       "nickname": "Shbdr",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-4339-315500000000",
-      "date": "2026-04-30T06:18:01",
-      "rating": 3,
-      "title": "4K",
-      "body": "öncelikle  uygulama güzel  eski veya yeni tüm smart ve android 4K olan tv lerde uygulama kullanılsın  ve  yayın ve  görüntü kalitesinde 4K seceneği olmalı günümüzde artık çoğu tv 4K destekliyor özellikle dizi ve sinemalar artık 4K çekiliyor yayın video içeriklerinde artık 4K seceği olsun saygılarımla",
-      "nickname": "Murat baltacı",
       "territory": "TUR"
     },
     {
@@ -8227,21 +8254,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a1fd00000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Kötü",
-      "body": "Kötü",
-      "nickname": "Kötüüüüp",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a21200000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Boykot",
       "body": "Boykot",
       "nickname": "Ydlasaa",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a1fd00000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Kötü",
+      "body": "Kötü",
+      "nickname": "Kötüüüüp",
       "territory": "TUR"
     },
     {
@@ -22141,21 +22168,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -22249,21 +22276,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -22384,21 +22411,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0e300000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
