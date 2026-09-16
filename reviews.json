@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T11:12:06.393418Z",
+  "updated_at": "2026-09-16T10:55:27.979598Z",
   "total": 4328,
   "appstore": {
-    "average": 4.49924,
-    "count": 68127,
-    "current_version_average": 4.49924,
-    "current_version_count": 68127,
+    "average": 4.49918,
+    "count": 68128,
+    "current_version_average": 4.49918,
+    "current_version_count": 68128,
     "version": "1.4.0"
   },
   "reviews": [
@@ -22213,21 +22213,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
