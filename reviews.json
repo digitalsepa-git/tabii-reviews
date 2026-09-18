@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-17T11:04:16.609816Z",
-  "total": 4328,
+  "updated_at": "2026-09-18T10:39:38.847847Z",
+  "total": 4327,
   "appstore": {
-    "average": 4.49925,
-    "count": 68128,
-    "current_version_average": 4.49925,
-    "current_version_count": 68128,
+    "average": 4.49921,
+    "count": 68130,
+    "current_version_average": 4.49921,
+    "current_version_count": 68130,
     "version": "1.4.0"
   },
   "reviews": [
@@ -3904,15 +3904,6 @@
       "title": "No subtitles/closed caption",
       "body": "My only complain is that there seems to be no subtitles available in Turkish or English on anything. I’m trying to learn Turkish so I am unable to use this platform to help me with that. I would be happy even if there were Turkish subtitles. I hope they add them soon.",
       "nickname": "Dede08",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-0da8-5c5100000000",
-      "date": "2025-09-08T09:31:09",
-      "rating": 5,
-      "title": "Ekran",
-      "body": "Ekran tam ekran olduğunda yan şekilde duruyor. Tabletin ya da telefonun yönüne uygun şekilde olmasın güzel olur.",
-      "nickname": "BilgiBilge",
       "territory": "TUR"
     },
     {
@@ -8263,21 +8254,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -21853,21 +21844,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -22177,21 +22168,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -22285,21 +22276,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
@@ -28360,6 +28351,15 @@
       "territory": "DEU"
     },
     {
+      "id": "00000063-7266-3902-a73c-5bde00000000",
+      "date": "2024-06-18T08:54:40",
+      "rating": 5,
+      "title": "Hll",
+      "body": "Doğrulama istiyor ama önümde sadece kronometre çalışıyor nasıl olacak şimdi",
+      "nickname": "Hlltkş",
+      "territory": "TUR"
+    },
+    {
       "id": "00000063-7266-3902-a739-09f800000000",
       "date": "2024-06-18T07:50:51",
       "rating": 2,
@@ -32650,15 +32650,6 @@
       "title": "Tabii Eleştiri",
       "body": "Yeni bölümler bir türlü yüklenmiyor. Artı olarak çok fazla reklam geliyor. Bu hatalar düzeltilse süper bir uygulama olacak.",
       "nickname": "KPLN23",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-6a2e-df6300000000",
-      "date": "2023-09-15T10:00:09",
-      "rating": 5,
-      "title": "Güzel beğendim",
-      "body": "On numara olmuş",
-      "nickname": "alpagular",
       "territory": "TUR"
     },
     {
