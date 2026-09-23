@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:02:40.743496Z",
+  "updated_at": "2026-09-23T10:52:07.329539Z",
   "total": 4326,
   "appstore": {
     "average": 4.49905,
@@ -9,6 +9,15 @@
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-64cb-3aed00000000",
+      "date": "2026-09-21T05:02:01",
+      "rating": 1,
+      "title": "Şaka mı bu ?????",
+      "body": "Beş yıldız verenlere şaşırıyorum???? \nBir yıldız bile fazla!!!!Defalarca yazdım, hatta mail yolladım, içerik eksik diye. Ne bir cevap var ne de bir düzelme. Özür dilerim ama umursuz bir tavır bu. Hiç yakışmıyor! \nTRT 1 diziler eksik  TRT Belgesel deki programlar eksik!eksik de eksik!",
+      "nickname": "🍀🦋🧿",
+      "territory": "DEU"
+    },
     {
       "id": "00000063-7266-3903-626e-931200000000",
       "date": "2026-09-11T02:23:40",
@@ -8245,21 +8254,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -18487,15 +18496,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-d091-0a0300000000",
-      "date": "2024-12-21T07:25:12",
-      "rating": 5,
-      "title": "Tabii ki",
-      "body": "Çok güzel bi platform, başarılar😇😇🌹🌹🌹🌹🌹",
-      "nickname": "Ƶ Σ ᗰ Ʊ Ƨ",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-d085-8f5400000000",
       "date": "2024-12-21T03:38:02",
       "rating": 1,
@@ -22159,21 +22159,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -22195,21 +22195,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
@@ -22402,21 +22402,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0e300000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
