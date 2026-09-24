@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-23T10:52:07.329539Z",
-  "total": 4326,
+  "updated_at": "2026-09-24T11:11:39.424554Z",
+  "total": 4327,
   "appstore": {
-    "average": 4.49905,
-    "count": 68131,
-    "current_version_average": 4.49905,
-    "current_version_count": 68131,
+    "average": 4.49906,
+    "count": 68133,
+    "current_version_average": 4.49906,
+    "current_version_count": 68133,
     "version": "1.4.0"
   },
   "reviews": [
@@ -8254,21 +8254,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a1fd00000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Kötü",
-      "body": "Kötü",
-      "nickname": "Kötüüüüp",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a21200000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Boykot",
       "body": "Boykot",
       "nickname": "Ydlasaa",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a1fd00000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Kötü",
+      "body": "Kötü",
+      "nickname": "Kötüüüüp",
       "territory": "TUR"
     },
     {
@@ -18496,6 +18496,15 @@
       "territory": "TUR"
     },
     {
+      "id": "00000063-7266-3902-d091-0a0300000000",
+      "date": "2024-12-21T07:25:12",
+      "rating": 5,
+      "title": "Tabii ki",
+      "body": "Çok güzel bi platform, başarılar😇😇🌹🌹🌹🌹🌹",
+      "nickname": "Ƶ Σ ᗰ Ʊ Ƨ",
+      "territory": "TUR"
+    },
+    {
       "id": "00000063-7266-3902-d085-8f5400000000",
       "date": "2024-12-21T03:38:02",
       "rating": 1,
@@ -22402,21 +22411,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
