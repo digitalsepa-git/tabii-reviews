@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T11:16:43.011545Z",
-  "total": 4327,
+  "updated_at": "2026-09-26T10:53:22.262134Z",
+  "total": 4329,
   "appstore": {
     "average": 4.49906,
     "count": 68130,
@@ -9,6 +9,15 @@
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-659c-1f9e00000000",
+      "date": "2026-09-24T16:55:13",
+      "rating": 1,
+      "title": "eSE1 hatası",
+      "body": "Destek tabii mail adresinden okadar yazmama rağmen ,ekran görüntüsü tel ve tv marka model sürüm bildirmeme rağmen haftalarca hala problemimi çözüme kavuşturmadılar,Muhatap ve destek konusunda yardımcı olabilecek kimseyi bulamıyorum",
+      "nickname": "forevernadir",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-64cb-3aed00000000",
       "date": "2026-09-21T05:02:01",
@@ -3904,6 +3913,15 @@
       "title": "No subtitles/closed caption",
       "body": "My only complain is that there seems to be no subtitles available in Turkish or English on anything. I’m trying to learn Turkish so I am unable to use this platform to help me with that. I would be happy even if there were Turkish subtitles. I hope they add them soon.",
       "nickname": "Dede08",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-0da8-5c5100000000",
+      "date": "2025-09-08T09:31:09",
+      "rating": 5,
+      "title": "Ekran",
+      "body": "Ekran tam ekran olduğunda yan şekilde duruyor. Tabletin ya da telefonun yönüne uygun şekilde olmasın güzel olur.",
+      "nickname": "BilgiBilge",
       "territory": "TUR"
     },
     {
@@ -22168,21 +22186,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -22204,21 +22222,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
@@ -22276,21 +22294,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
@@ -22411,21 +22429,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
@@ -36816,7 +36834,7 @@
       "rating": 4,
       "title": "Geliştirilmesi gerek",
       "body": "Filmlerde duyma engellilere yönelik altyazı çalışması yok. Ayrıca uygulama ilk açıldığında oturum açma ekranı kayboluyor. Giriş yapmanız için kaybolmadan tıklamanız gerek. Ek olarak yatay olarak dönmüyor sadece film izlerken yatay dönüyor. Yani yatay olarak döndürme zor olmasa gerek. Tabi trtizlenin aynısı. Sanırım trtizle taşınıyor mu ne anlamadım. Reklam izlemek istemeyenler için ilerde ücretli üyelik çıkarabilirler belki.",
-      "nickname": "seraslanfon",
+      "nickname": "seraslan61",
       "territory": "TUR"
     },
     {
