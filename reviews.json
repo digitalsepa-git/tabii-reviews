@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-09-27T11:29:53.659710Z",
-  "total": 4329,
+  "updated_at": "2026-09-28T13:02:42.159090Z",
+  "total": 4330,
   "appstore": {
-    "average": 4.49904,
+    "average": 4.49901,
     "count": 68129,
-    "current_version_average": 4.49904,
+    "current_version_average": 4.49901,
     "current_version_count": 68129,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6623-d4e500000000",
+      "date": "2026-09-27T00:07:58",
+      "rating": 5,
+      "title": "Subtitles",
+      "body": "Is english subtitles is available",
+      "nickname": "shamimraj",
+      "territory": "IND"
+    },
     {
       "id": "00000063-7266-3903-659c-1f9e00000000",
       "date": "2026-09-24T16:55:13",
@@ -735,7 +744,7 @@
       "rating": 5,
       "title": "Premium hesap kapatma",
       "body": "Tabii uzun zamandır kullanıyordum çok güzel bir platform ancak şunu söylemek istiyorum ki premium kullanıyordum hiçbir şekilde hiçbir şey yapmadım sadece uygulamayı güncelledim dün ve şu anda uygulamaya girmeye çalıştığım zaman paketimiz çıkarmış beni ücretsiz sürüme geçirmiş ve tüm her şeyim gitmiş sadece hesabım kalmış bunun sebebini öğrenmek istiyorum diğer hesaplarımın hepsi silinmiş ve paketimin süresi de geçmedi paketi daha 2 ay önce falan almıştım ve bu neden böyle yaptı bilmiyorum premium paket almıştım böyle oldu bunun bir geri dönüşünü almak istiyorum",
-      "nickname": "Azrasevallllllll",
+      "nickname": "Azra Şevval Aydemir",
       "territory": "TUR"
     },
     {
@@ -11454,7 +11463,7 @@
       "rating": 4,
       "title": "Çok az film çeşidi var",
       "body": "Daha fazla film gelebilir",
-      "nickname": "jdjjdshf",
+      "nickname": "Tüketici Hakem Heyeti34",
       "territory": "TUR"
     },
     {
@@ -21862,21 +21871,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -22222,21 +22231,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
@@ -22411,15 +22420,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
@@ -22429,12 +22429,12 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
       "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
@@ -22444,6 +22444,15 @@
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
