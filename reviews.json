@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-10-03T11:11:28.128470Z",
-  "total": 4330,
+  "updated_at": "2026-10-04T11:50:59.148614Z",
+  "total": 4331,
   "appstore": {
-    "average": 4.49899,
+    "average": 4.49894,
     "count": 68126,
-    "current_version_average": 4.49899,
+    "current_version_average": 4.49894,
     "current_version_count": 68126,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6765-38f300000000",
+      "date": "2026-10-02T10:00:50",
+      "rating": 1,
+      "title": "Kullanıcı girişi",
+      "body": "Belirli aralıklarla üye giriş bilgilerini silinip uygulamaya yeniden girmeye çalışmak tam bir işkence, bu durum artık çok sinir bozucu olmaya başladı, takip ettiğim diziyi farklı yerden izlemeye başladım artık!!!",
+      "nickname": "Unknown?!?!?!?!",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6647-a41500000000",
       "date": "2026-09-27T13:08:09",
@@ -8290,21 +8299,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -22024,21 +22033,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -22240,21 +22249,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6a00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "çökme",
-      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
-      "nickname": "+ lıyın",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6e00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "Abonelik aldım girmiyor",
       "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
       "nickname": "Mutlu4545",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6a00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "çökme",
+      "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
+      "nickname": "+ lıyın",
       "territory": "TUR"
     },
     {
