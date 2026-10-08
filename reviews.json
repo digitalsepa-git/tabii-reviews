@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-10-07T12:44:43.788143Z",
-  "total": 4331,
+  "updated_at": "2026-10-08T12:53:50.603229Z",
+  "total": 4329,
   "appstore": {
-    "average": 4.49894,
-    "count": 68121,
-    "current_version_average": 4.49894,
-    "current_version_count": 68121,
+    "average": 4.49899,
+    "count": 68120,
+    "current_version_average": 4.49899,
+    "current_version_count": 68120,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6843-779200000000",
+      "date": "2026-10-06T05:16:14",
+      "rating": 3,
+      "title": "Niet casting",
+      "body": "It's a shame you can't cast via Google Chrome.",
+      "nickname": "Ezr@",
+      "territory": "NLD"
+    },
     {
       "id": "00000063-7266-3903-67d9-2d9900000000",
       "date": "2026-10-04T08:35:58",
@@ -5983,15 +5992,6 @@
       "title": "Tabii ile herşeyi izleyin",
       "body": "Tabii gerçekten çooook güzel denemelisiniz",
       "nickname": "Andvdurvsjdcfb",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-ed1a-519800000000",
-      "date": "2025-04-20T20:44:40",
-      "rating": 3,
-      "title": "Gelistirilebilir",
-      "body": "Uygulama başarili ama rakiplerinin gerisinde arayüzün gelistirilmesi lazim",
-      "nickname": "Emirhan Simsek",
       "territory": "TUR"
     },
     {
@@ -21889,21 +21889,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -22033,21 +22033,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d7800000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
-      "nickname": "BabyVandal",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d6000000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Donuyor",
       "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
       "nickname": "Nişw",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d7800000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
+      "nickname": "BabyVandal",
       "territory": "TUR"
     },
     {
@@ -22249,21 +22249,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
@@ -22456,21 +22456,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
@@ -26452,15 +26452,6 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-b635-05aa00000000",
-      "date": "2024-08-24T03:43:00",
-      "rating": 1,
-      "title": "rezılsınız",
-      "body": "gercekten rezıllık ya onceden severek kullanıyodum sımdı premıum getırdınız ıstedıgım seylerı ızleyemıyorum ne para babası cıktınız unlenınce hemen ısı paraya vurdunuz rezıller paranızın ıcınde bogulun InsAllah batarsınız yararlıya basınkı gozuksun.",
-      "nickname": "melek__",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-b62f-71f600000000",
       "date": "2024-08-24T01:12:56",
       "rating": 1,
@@ -28600,15 +28591,6 @@
       "title": "Acil düzelmesi gerekiyor",
       "body": "Güncelleme sonrası bi acayip oldu izlediğimiz dizi yok oluyor nerde kaldığımızı bulmak zor ama güncelleme öncesi kaldığımız yerden devam ediyorduk şimdi yok",
       "nickname": "Seksenlere",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-a68a-c15100000000",
-      "date": "2024-06-15T06:08:49",
-      "rating": 5,
-      "title": "Tabii…",
-      "body": "Ben bayıldım kötü yorumlarınızı aldırmıyorum elinizdekiyle yetinin.Ama bence atv star Show tv de gelmeli ama yinede çok iyi bir uygulama.önerdiklerim ise:tozkoparan iskender,tozkoparan iskender gölge,küçük dahi ibni sina,kendi düşen ağlamaz…",
-      "nickname": "Yarennnn aşkoyummmmm canoooo",
       "territory": "TUR"
     },
     {
