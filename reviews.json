@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-10-16T10:48:16.937458Z",
-  "total": 4346,
+  "updated_at": "2026-10-17T10:13:37.191737Z",
+  "total": 4350,
   "appstore": {
-    "average": 4.49772,
-    "count": 68147,
-    "current_version_average": 4.49772,
-    "current_version_count": 68147,
+    "average": 4.49749,
+    "count": 68152,
+    "current_version_average": 4.49749,
+    "current_version_count": 68152,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6a35-d10a00000000",
+      "date": "2026-10-14T12:43:20",
+      "rating": 5,
+      "title": "Hayırlı olsun",
+      "body": "Çok güzel ellerinize sağlık",
+      "nickname": "fa-anahtarı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6a35-470200000000",
+      "date": "2026-10-14T12:31:05",
+      "rating": 1,
+      "title": "Abonelik İptali",
+      "body": "Severek üyelik yaptığım bir uygulamanın üyeliğini 4 aydır iptal edemiyorum ne kadar saçma bir şeye dönüştü bu böyle App storeden yaptıysan ordan iptal edin yazıyor App Store ücretsiz üyelik gösteriyor tabiinin içinden iptal edilmiyor web sitesinden iptal edilmiyor bir iptal için mahkemeye mü başvurmamız gerekiyor anlamadım ki?",
+      "nickname": "Ali Reşit Bulduk",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6a34-e04d00000000",
+      "date": "2026-10-14T12:22:06",
+      "rating": 1,
+      "title": "Gecikme var",
+      "body": "Maç yanını 45 saniye geriden geliuor ger zaman",
+      "nickname": "farukcxx",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6a34-139900000000",
+      "date": "2026-10-14T12:04:32",
+      "rating": 1,
+      "title": "Yayın sürekli dönüyor",
+      "body": "Bir maç keyfimiz vardı. Onu da mahvettiniz.\nSürekli donuyor",
+      "nickname": "kürşatvrl",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-69fc-c49b00000000",
       "date": "2026-10-13T13:30:00",
@@ -22042,21 +22078,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -22186,21 +22222,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d7800000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
-      "nickname": "BabyVandal",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d6000000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Donuyor",
       "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
       "nickname": "Nişw",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d7800000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
+      "nickname": "BabyVandal",
       "territory": "TUR"
     },
     {
@@ -22366,21 +22402,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -22474,21 +22510,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
