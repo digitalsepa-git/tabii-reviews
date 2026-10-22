@@ -1,14 +1,941 @@
 {
-  "updated_at": "2026-10-21T11:15:25.574259Z",
-  "total": 4344,
+  "updated_at": "2026-10-22T11:15:56.929547Z",
+  "total": 4447,
   "appstore": {
-    "average": 4.49777,
+    "average": 4.49775,
     "count": 68142,
-    "current_version_average": 4.49777,
+    "current_version_average": 4.49775,
     "current_version_count": 68142,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6ba3-78c900000000",
+      "date": "2026-10-20T13:56:39",
+      "rating": 1,
+      "title": "Haram",
+      "body": "Haşlak uygulamanızda maçı açıp izleyemedik haram olsun verilen paraya",
+      "nickname": "Yorumcu9000",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6ba1-daa500000000",
+      "date": "2026-10-20T13:17:44",
+      "rating": 1,
+      "title": "Vasat",
+      "body": "O kadar vasat bir uygulama ki çıkış yapamıyorsun, ücretsiz aboneliği deneyemiyorsun satın almadan asla uygulamaya giremiyorsun. Kesinlikle berbat ve kullanmayın derim",
+      "nickname": "Dilannnn9",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6ba0-404900000000",
+      "date": "2026-10-20T12:41:35",
+      "rating": 1,
+      "title": "Sorun",
+      "body": "Aşağı yukarı her maçta çöküyor hiç bi düzelme yok",
+      "nickname": "receppo",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-ddcb00000000",
+      "date": "2026-10-20T12:32:51",
+      "rating": 2,
+      "title": "ZAMAN AŞIMI SORUNU",
+      "body": "Ne zaman girmek istesem zaman aşımı sorunuyla karşılaşıyorum hiçbir\nşekilde çözümü de yok ne pc den ne de televizyondan giremiyorum artık bu sorunu yaşamak istemiyorum.",
+      "nickname": "candijk",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-d97d00000000",
+      "date": "2026-10-20T12:32:27",
+      "rating": 1,
+      "title": "Maç zamanı uygulama hata veriyor",
+      "body": "Bir şampiyonlar ligi için para veriyoruz sadece maç saati lazımsınız çalışmıyo",
+      "nickname": "123kdkdkdkd",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-c6af00000000",
+      "date": "2026-10-20T12:30:48",
+      "rating": 1,
+      "title": "Tabiii",
+      "body": "Psg-barcelona macinda tabii mi coker siz nasil uygulama yonetiyorsunuz?",
+      "nickname": "hdjdjdjdjid",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-c1ae00000000",
+      "date": "2026-10-20T12:30:22",
+      "rating": 1,
+      "title": "MAÇLARI İZLEYEMİYORUZ",
+      "body": "Maç saatlerinde maçların izlenmediği uygulamanın sürekli hata verdiği parasının hakkını vermeyen bir uygulama. Piyasada tekel olduklarından dolayı üye olmak zorunda kalıyoruz, yoksa beş para etmeyecek bir uygulama",
+      "nickname": "okandemirr",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-b15400000000",
+      "date": "2026-10-20T12:28:57",
+      "rating": 1,
+      "title": "👎",
+      "body": "Kendi vergilerimizle kurulan bi kanala nedne her ay para ödemek zorunda kalıyoruz her cihazdan bile trt vergisi alınıyor  \nOna rağmen ücret ödüyoruz ayrıca düzenli olarak uygulana hata veriyor rezaletsiniz",
+      "nickname": "İnanp54",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-af7a00000000",
+      "date": "2026-10-20T12:28:48",
+      "rating": 1,
+      "title": "Uygulama hata veriyor",
+      "body": "Uygulamanız hata veriyor yaklaşık 1 saattir giremiyorum maç var izleyemiyorum",
+      "nickname": "Meko1453",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-ad8c00000000",
+      "date": "2026-10-20T12:28:37",
+      "rating": 1,
+      "title": "Neden uygulama açılmıyor",
+      "body": "Okadar para veriyoruz psg barça maçını izleyemiyoruz uygulama açılmıyor ne işe yararsınız ki!!!",
+      "nickname": "lost6651",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-abf800000000",
+      "date": "2026-10-20T12:28:29",
+      "rating": 5,
+      "title": "Mac",
+      "body": "Kesinlikle 5 yildizi hakeden bi uygulama degil Mac izleyeyim diye abonelik aldim mac gunu ne hikmetse uygulamada problem oluyor karmasik duygular icerisindeyim ne diyecegimi bilmiyorum neden size para odeyeyim",
+      "nickname": "Veyselll26",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-a8e700000000",
+      "date": "2026-10-20T12:28:13",
+      "rating": 2,
+      "title": "uygulamaya giriş yapılmıyor",
+      "body": "Bir maç zevkimiz vardı içine edildi,girmeye çalışıyorum sürekli istek zaman aşımına uğradı hatasını veriyor ve girmiyor.Madem bir uygulama yapıyorsunuz düzgün yapın da paramız ile rezil olmayalım.",
+      "nickname": "Asddddssddf",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-a8b600000000",
+      "date": "2026-10-20T12:28:12",
+      "rating": 1,
+      "title": "Maç izleyemiyorum",
+      "body": "Berbat  bir uygulama para verdim maç izleyemiyorum. Maç günü uygulamaya giriş yapamıyorsunuz.",
+      "nickname": "murat.yanik",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-a39600000000",
+      "date": "2026-10-20T12:27:46",
+      "rating": 1,
+      "title": "20 ekim 2026",
+      "body": "Psg-barcelona maci icin uygulamayi acmaya calisiyorum the request timed out uyarisi veriyor uygulama acilmadigi icin cikis yapip giremedim komple sildim yukledim yine ayni hata",
+      "nickname": "Hüseyinaks",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-9d3000000000",
+      "date": "2026-10-20T12:27:12",
+      "rating": 1,
+      "title": "Giriş yapmıyor",
+      "body": "Ücretli abonelik yaptım zaman aşımı ve se1 gibi bi hata verip duruyor  rezillik",
+      "nickname": "Frkancan1111",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-9c6200000000",
+      "date": "2026-10-20T12:27:08",
+      "rating": 2,
+      "title": "Rezalet",
+      "body": "Önemli maçlarda donarsın. Ne işe yararsın???",
+      "nickname": "Beş dost",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-9b0300000000",
+      "date": "2026-10-20T12:27:01",
+      "rating": 1,
+      "title": "Şampiyonlar Ligi",
+      "body": "Şampiyonlar ligi maçlarını trt1 haricinde izleyemiyoruz. Parasını verip üyelik alıyoruz yine de kullanamıyoruz. Ne işe yarar ki bu program.",
+      "nickname": "Hayrullah U.",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-922300000000",
+      "date": "2026-10-20T12:26:19",
+      "rating": 1,
+      "title": "Çok vasat",
+      "body": "Sürekli donan yayınlar, sistem hataları ve ücretli yanı ile işte karşınızda tabii. Parayı almaya gelince “tabii”ki alır!",
+      "nickname": "Fatih3234",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-906500000000",
+      "date": "2026-10-20T12:26:10",
+      "rating": 1,
+      "title": "Hata kodu veriyor",
+      "body": "Maçı izleyemiyorum uygulama açmıyor",
+      "nickname": "Attack cv7",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-8e8800000000",
+      "date": "2026-10-20T12:26:00",
+      "rating": 1,
+      "title": "Canlı maçta bağlantı hatası",
+      "body": "Beş para etmez boşa para vermeyin resmen canlı maç ortasında bağlantı sorunu dedi tv ve telefondan giriş hatası verdi rezillikkkkkkk",
+      "nickname": "Ahmetmingilli",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-8d8000000000",
+      "date": "2026-10-20T12:25:55",
+      "rating": 1,
+      "title": "REZALET",
+      "body": "Premium üye olup uygulamaya giremiyorum 😃",
+      "nickname": "K.lodos",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-887a00000000",
+      "date": "2026-10-20T12:25:29",
+      "rating": 1,
+      "title": "Time out hatası",
+      "body": "Uygulamaya giriş bile yapılamıyor.",
+      "nickname": "Cnbss.7",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-871300000000",
+      "date": "2026-10-20T12:25:21",
+      "rating": 1,
+      "title": "Serhat",
+      "body": "Berbat bir uygulamanız var yetersiz geliyor herkes girmeye çalışınca kapanıp hata veriyor madem geniş kitlelere hizmet edecek bir uygulama yapıyorsunuz iyice çalıştığından emin olun o şekilde hizmete sunun",
+      "nickname": "Kisksjdhshsh",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-862e00000000",
+      "date": "2026-10-20T12:25:16",
+      "rating": 1,
+      "title": "Zaman aşımı",
+      "body": "Uygulamayı indirip üyelik satın aldım ancak tekrar tekrar denememe rağmen giriş yapamıyorum. Sürekli zaman aşımına uğruyor. Bir türlü giremedim.",
+      "nickname": "Hclk.2723",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-848900000000",
+      "date": "2026-10-20T12:25:08",
+      "rating": 3,
+      "title": "Uygulamaya girmiyor",
+      "body": "Parasını ödememe rağmen maçın olduğu gün uygulamaya giriş yapmıyor maç için ekstra ücret premium üyelik istemenize rağmen maçı kaldırabilecek altyapıyı ve uygulama gelişmesini sağlayamamasınız maç izlemek için ücret ödüyorum uygulamaya girmiyor",
+      "nickname": "Sıradan Vatandaşın biri",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-819800000000",
+      "date": "2026-10-20T12:24:53",
+      "rating": 1,
+      "title": "Hata kodu",
+      "body": "Hata kodu eSE1 yardımcı olun",
+      "nickname": "F.Ç.",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-80f500000000",
+      "date": "2026-10-20T12:24:50",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "Bi maç izliyecez üyelik alıyorum uygulama açılmıyor bu nasıl bir uygulama",
+      "nickname": "Burkay Yılmaz",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-803d00000000",
+      "date": "2026-10-20T12:24:46",
+      "rating": 1,
+      "title": "Maç saati hata veriyor",
+      "body": "Maç saati hata verip duruyor silip tekrar yüklüyorum yine aynı hata yazık günah para veriyoruz izleyemiyoruz",
+      "nickname": "Bozkurtalpemin",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-795300000000",
+      "date": "2026-10-20T12:24:11",
+      "rating": 1,
+      "title": "Request time out",
+      "body": "Bi maç izlicez açılmıyor!",
+      "nickname": "Maslan__",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-75b500000000",
+      "date": "2026-10-20T12:23:52",
+      "rating": 1,
+      "title": "0 0 0",
+      "body": "Bir maç izleyelim diye 99₺ ödedik. Siteye giriş yapılmıyor. Hukuki arenada hakkımı arayacağım. Madem uygulama yapıyorsunuz ve üyelik ücreti alıyorsunuz o zaman hizmeti de sunmalısınız. Bir de devletin kendi kurumunun uygulaması. Gerçekten çok yazık.",
+      "nickname": "ninşn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-744b00000000",
+      "date": "2026-10-20T12:23:45",
+      "rating": 1,
+      "title": "Basit bir uygulamayı yapamayacak kadar aptalsınız",
+      "body": ".",
+      "nickname": "ru3a",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-708900000000",
+      "date": "2026-10-20T12:23:27",
+      "rating": 1,
+      "title": "sizin tarafınızda sorunlar var evet 👍🏻",
+      "body": "sadece 1 maç izleyecektim 1 maç zehir oldu uygulamanız hata veriyor",
+      "nickname": "OKKUŞ",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-6ed700000000",
+      "date": "2026-10-20T12:23:18",
+      "rating": 1,
+      "title": "Psg barcelona maçı rezaleti",
+      "body": "Bütün dünyada yılın maçı neredeyse ve aptal uygulamanızdan yayınlamayı bile başaramadınız. Bu milleti kaçak yayına siz mahkum ediyorsunuz",
+      "nickname": "Dogantasus",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-6d4f00000000",
+      "date": "2026-10-20T12:23:10",
+      "rating": 1,
+      "title": "SİSTEM HATA VERİYOR ŞL MAÇINI KAÇIRIYORUM SİZİN YÜZÜNÜZDEN",
+      "body": "PARA ALIRKEN SİSTEM ÇALIŞIYOR AMA MAÇ İZLETMEYE GELİNCE SİSTEM HATA VERİYOR KARDEŞİM SİZİN BEN KODLADIĞINIZ UYGULAMANIZIN TAA BAK PSG-BARÇA MAÇINI İZLEYEMİYORUM",
+      "nickname": "LOSSESSSSSSSS",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-67c300000000",
+      "date": "2026-10-20T12:22:42",
+      "rating": 1,
+      "title": "Uygulama hatasi",
+      "body": "Ne pc ne telegondan girebiliyom . Bunlarin yuzunden mac kacti. Berbat uygulama.",
+      "nickname": "SONNOSMANLI",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-65fe00000000",
+      "date": "2026-10-20T12:22:33",
+      "rating": 1,
+      "title": "Çökme",
+      "body": "Çöken uygulama",
+      "nickname": "Mgktng",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-62a400000000",
+      "date": "2026-10-20T12:22:15",
+      "rating": 1,
+      "title": "Tabii spor",
+      "body": "Şuan psg-Barcelona maçını izlerken yayın gitti ve bir daha giremiyorum",
+      "nickname": "Arif Hakan Kaya",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-624600000000",
+      "date": "2026-10-20T12:22:13",
+      "rating": 1,
+      "title": "Giris yapamiyorum",
+      "body": "Boşuna mi para ödüyorum",
+      "nickname": "Fatih Sevinç w",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-611c00000000",
+      "date": "2026-10-20T12:22:07",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Rezalet üstüne rezalet doğru düzgün maç izleyemiyoruz ne pc ne uygulama çalışmıyor her maç haftası hata veriyor",
+      "nickname": "Mstf444444",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-5f8100000000",
+      "date": "2026-10-20T12:21:59",
+      "rating": 1,
+      "title": "Rezil bir uygulama",
+      "body": "Şampiyonlar ligi maçları için abonelik oluşturdum izlenilecek maçlarda her zaman sorun oluyor ve muhattap alacak kimse olmuyor yapacakları iş ancak bu kadar",
+      "nickname": "Maç severrrrr",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-5b5000000000",
+      "date": "2026-10-20T12:21:36",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama açılmıyor yazık ya",
+      "nickname": "Fatma arslannn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-576a00000000",
+      "date": "2026-10-20T12:21:17",
+      "rating": 1,
+      "title": "Surekli hata aliyorum",
+      "body": "Her mac zamani ‘the request time out’, ‘dogrulama sirasinda bir hata oldu’ seklinde hata aliyorum.",
+      "nickname": "Bozz8958",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-567f00000000",
+      "date": "2026-10-20T12:21:12",
+      "rating": 1,
+      "title": "Çöküşe Devam",
+      "body": "Normal bir günde bile çöken çöp uygulama…",
+      "nickname": "ynsemrekorkmaz",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-511c00000000",
+      "date": "2026-10-20T12:20:46",
+      "rating": 1,
+      "title": "Çok boş platform",
+      "body": "İkide bir donma internet ile alakası yok bunun , bazen uygulamaya hiç giriş yapmama verilen paralar boşa",
+      "nickname": "İbraaaaaa",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-4ff700000000",
+      "date": "2026-10-20T12:20:40",
+      "rating": 1,
+      "title": "Yazıklar olsun",
+      "body": "Yapamıyorsunuz. Yapamıyorsunuz. Yapamıyorsunuz. Siz hiç kullanıyor musunuz acaba!!! Yarım saat giriş yapmaya uğraşıyorum olmuyor. İnsanların vaktini çalıyorsunuz. Size bu kafa ile bu beceriksizliğiniz ile bu işleri size verenlere yazıklar olsun.",
+      "nickname": "Abyakut",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-4b0100000000",
+      "date": "2026-10-20T12:20:17",
+      "rating": 1,
+      "title": "Hata oluştu",
+      "body": "Sürekli hata veriyor. Bir maç izlemek için aldık maçın olduğu zamanlar açılmıyor. Uygulama desteği de açılmıyor berbat",
+      "nickname": "özkan.19",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-4a1d00000000",
+      "date": "2026-10-20T12:20:12",
+      "rating": 1,
+      "title": "esE1 hatası",
+      "body": "Para veriyoruz hizmet alamıyoruz.",
+      "nickname": "Tefenorq",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-487200000000",
+      "date": "2026-10-20T12:20:04",
+      "rating": 2,
+      "title": "Kötü",
+      "body": "Kalitesiz hata sorunları var boş para",
+      "nickname": "User07zvfkdj",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-486100000000",
+      "date": "2026-10-20T12:20:03",
+      "rating": 1,
+      "title": "Açılmıyor",
+      "body": "Yorumsuz",
+      "nickname": "EA sport 05",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-470a00000000",
+      "date": "2026-10-20T12:19:57",
+      "rating": 1,
+      "title": "Haram olsun",
+      "body": "Uygulamada emeği geçen herkesi Allah bildiği gibi yapsın ya millet uçan araba yaptı daha uygulamaya giremiyoruz hata kodu veriyor keşke kafanız yerine başka organınız olsa",
+      "nickname": "Doncarlo5601",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-463800000000",
+      "date": "2026-10-20T12:19:52",
+      "rating": 1,
+      "title": "Zaman aşımı problemi",
+      "body": "Şampiyonlar ligi maçı izlemek için üyelik aldık 10 dk sonra zaman aşımı hatası aldım sürekli ve izleyemedim yazıklar olsun",
+      "nickname": "61Drms61",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-3d7100000000",
+      "date": "2026-10-20T12:19:09",
+      "rating": 1,
+      "title": "İğrenç uygulama",
+      "body": "Bu kadar kötü saçma sapan bir uygulama olamaz a*** salakları",
+      "nickname": "Mikaillltzll",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-3cbf00000000",
+      "date": "2026-10-20T12:19:05",
+      "rating": 1,
+      "title": "Uygulama giriş sorunı",
+      "body": "Ödeme yaptığım halde hiçbir şekilde giriş yapılamayan rezil uygulama",
+      "nickname": "Gökhanözterzi",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-3b7a00000000",
+      "date": "2026-10-20T12:18:59",
+      "rating": 1,
+      "title": "Hata veriyo neden ?",
+      "body": "Hata niye veriyo devamlı ?",
+      "nickname": "TY3535!",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-398c00000000",
+      "date": "2026-10-20T12:18:50",
+      "rating": 1,
+      "title": "Uygulama açılmıyor!!!!!",
+      "body": "Psg-Barcelona maçını izlemek için premium aldım aldığım gibi beni uygulamadan attı ve bi daha giremedim bağlantı oluştu hatası verdi asla açılmadı şikayetçiyim!!!!!!!",
+      "nickname": "OrospucocuguFTG",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-379f00000000",
+      "date": "2026-10-20T12:18:39",
+      "rating": 1,
+      "title": "Açılmıyor",
+      "body": "Zaman aşımı hatası , eSe1 hatası asla açılmıyor, ödediğim paranın karşıtlığı yok ,",
+      "nickname": "CasCaner",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-354400000000",
+      "date": "2026-10-20T12:18:28",
+      "rating": 1,
+      "title": "Hata veriyor",
+      "body": "Sürekli hata veriyor verdiğimiz paraya yazık gerçekten",
+      "nickname": "W4rmachina",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-350600000000",
+      "date": "2026-10-20T12:18:26",
+      "rating": 1,
+      "title": "BERBATBERBATBERBAT",
+      "body": "BERBATBERBATBERBAT",
+      "nickname": "boyum bir on",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-334700000000",
+      "date": "2026-10-20T12:18:17",
+      "rating": 1,
+      "title": "Abone olana kadar çalişiyordu",
+      "body": "Premium abone oldum uygulama kapandi çalişmiyor",
+      "nickname": "Bahramow",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-32f900000000",
+      "date": "2026-10-20T12:18:16",
+      "rating": 1,
+      "title": "Çalışmıyor",
+      "body": "Az önce premiuma üye oldum anında parayı çekti. Ama uygulama? Açılmıyor hata veriyor. Müşteri hizmetleri kapalı tabii! Paramı geri verin!",
+      "nickname": "Emrecerr",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-321000000000",
+      "date": "2026-10-20T12:18:11",
+      "rating": 1,
+      "title": "çöküyor",
+      "body": "aldım izleyemedim macı bile cöktü hemen",
+      "nickname": "Essssd241",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-30ee00000000",
+      "date": "2026-10-20T12:18:05",
+      "rating": 1,
+      "title": "paranızla rezil olmak istiyorsanız buyrun",
+      "body": ".",
+      "nickname": "yustappen",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-2f7e00000000",
+      "date": "2026-10-20T12:17:58",
+      "rating": 5,
+      "title": "Mükkk",
+      "body": "Sizin yapıcağınız uygulamanın aaaaqqqq Sürekli sistem hatası",
+      "nickname": "Cindermoon",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-2dcc00000000",
+      "date": "2026-10-20T12:17:50",
+      "rating": 1,
+      "title": "Timed out",
+      "body": "Maç saati timed out hatası verip maçı izletmeyen rezi bir uygulama",
+      "nickname": "Alp2577",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-297d00000000",
+      "date": "2026-10-20T12:17:29",
+      "rating": 1,
+      "title": "Hata",
+      "body": "Sürekli aynı hata se1 nedir yahu bu",
+      "nickname": "Alirızaaa11",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-28a800000000",
+      "date": "2026-10-20T12:17:25",
+      "rating": 1,
+      "title": "Ne zaman şampiyonlar ligi maçı olsa izleyemiyorum",
+      "body": "Para veriyoruz ama tabi de şampiyonlar ligi maçı izleyemiyorum. Bu kadar saçma bir durum olmaz.",
+      "nickname": "Ormancı-1",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-280400000000",
+      "date": "2026-10-20T12:17:22",
+      "rating": 1,
+      "title": "Uygulamaya giremiyorım",
+      "body": "Ücretini her ay kesiyor kullanmak istediğimizde uygulama açılmıyor",
+      "nickname": "süllü büllü",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-236000000000",
+      "date": "2026-10-20T12:16:59",
+      "rating": 1,
+      "title": "Uygulama hatası",
+      "body": "Uygulamayı indirdim Maçı izlemek için üye oldum ama hata verip maçın içine ettiler",
+      "nickname": "44Ferdi",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-22ac00000000",
+      "date": "2026-10-20T12:16:55",
+      "rating": 1,
+      "title": "Giremiyorsun uygulamaya",
+      "body": "Üyelik aldıktan sonra sürekli bir hata veriyor",
+      "nickname": "Ozguremreeee65",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-1efe00000000",
+      "date": "2026-10-20T12:16:37",
+      "rating": 1,
+      "title": "Berbat bir uygulama",
+      "body": "Satın aldım halen uygulamaya girmiyor",
+      "nickname": "brscolakoglu",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-1c0700000000",
+      "date": "2026-10-20T12:16:22",
+      "rating": 1,
+      "title": "İşe yaramaz",
+      "body": "İşe yaramaz bir uygulamam tabii ana yazısından sonra siya ekranda hatada kalıyor. Yıl \n2026",
+      "nickname": "BabaVoS4692",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-1be200000000",
+      "date": "2026-10-20T12:16:21",
+      "rating": 1,
+      "title": "Çok Kötü",
+      "body": "Altyapısı o kadar kötü ki. Bir maç izleyene kadar ilk yarı bitiyor. Kaç defa programdan atıyor",
+      "nickname": "Frt73",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-0e8a00000000",
+      "date": "2026-10-20T12:15:14",
+      "rating": 1,
+      "title": "Sizin yapacağınız uygulamadıyı",
+      "body": "Haram zıkkım olsun çoluğunuz çocuğunuzdan çıksın",
+      "nickname": "DaglarW",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-0d0f00000000",
+      "date": "2026-10-20T12:15:07",
+      "rating": 1,
+      "title": "Rezalet",
+      "body": "Tebrikler maç izleyemiyoruz",
+      "nickname": "TurkLawyer",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-0c9600000000",
+      "date": "2026-10-20T12:15:04",
+      "rating": 1,
+      "title": "Satın almayın",
+      "body": "Sizin gibi uygulama olmaz olsun psg / Barcelona maçı var uggulamaya girmiyor aşırı yüklenmeden dolayı uygulama açılmıyor sizin yapacağınız iş bu kadar",
+      "nickname": "Halil K35000",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-078400000000",
+      "date": "2026-10-20T12:14:39",
+      "rating": 1,
+      "title": "rezil uygulama",
+      "body": "sizin yapacağınız uygulamanın ben ta... paranla rezil oluyorsun bizim ülkeden çıkacak olan uygulama bu kadar olur zaten adam gibi yazılım atmayıda beceremiyorsunuz bir maç izleyecez içine ettiniz",
+      "nickname": "jenandndnwnnzjw",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-065f00000000",
+      "date": "2026-10-20T12:14:33",
+      "rating": 1,
+      "title": "1 puan bile fazla",
+      "body": "kesinlikle yüklemeyin maç saatlerinde kesinlikle kullanamıyosunuz",
+      "nickname": "dsjksskos",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-032f00000000",
+      "date": "2026-10-20T12:14:16",
+      "rating": 1,
+      "title": "Dolandırıcılar",
+      "body": "Hem ücret alıyorsunuz hem maç esnasında yayın çöküyor madem yayınlayamıyorsunuz ne diye milletten para alıyosunuz adiler sizi",
+      "nickname": "Tm takmıyorum",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9f-017e00000000",
+      "date": "2026-10-20T12:14:08",
+      "rating": 1,
+      "title": "Maç sırasında açmıyor",
+      "body": "Para istiyorlar veriyoruz maç izleyemiyoruz.Nasıl bir uygulama yapıyorsunuz.",
+      "nickname": "Osman YK",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-fb3200000000",
+      "date": "2026-10-20T12:13:37",
+      "rating": 1,
+      "title": "Kötü tabii hkk",
+      "body": "Çok kötü satın aldım maç izlemek için tv den açınca uygulamaya giriyo ama hiçbir şey açılmıyor bırakın netflix yapsın bu işleri paramı da iade edin maçları izleyemiyorum",
+      "nickname": "Kureo99",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-fac900000000",
+      "date": "2026-10-20T12:13:35",
+      "rating": 1,
+      "title": "Acilmiyor",
+      "body": "Uygulana calismiyor.",
+      "nickname": "Derdestssddd",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-f63a00000000",
+      "date": "2026-10-20T12:13:12",
+      "rating": 1,
+      "title": "Önemli maçlar",
+      "body": "Önemli maçlarda çöküyor giriş yapılmıyor rezillik 100tlye anca bu kadar diyo site",
+      "nickname": "kslsşsşsşşss",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-f62a00000000",
+      "date": "2026-10-20T12:13:11",
+      "rating": 1,
+      "title": "Boşuna satın almayın",
+      "body": "Boşuna satın almayın ücreti ödedim maç izliyeyim zaman hata veriyor keyifle maç izleyeyim dedim sürekli hata veriyor",
+      "nickname": "Gokhankayan",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-f41300000000",
+      "date": "2026-10-20T12:13:01",
+      "rating": 1,
+      "title": "Rezillik",
+      "body": "Doğrulama sırasında hata oluştu diye hata veriyor açılmıyor rezil bir uygulama",
+      "nickname": "Sedatbltknsdt",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-f34c00000000",
+      "date": "2026-10-20T12:12:57",
+      "rating": 1,
+      "title": "Sürekli hata veriyor",
+      "body": "Boşuna para veriyorum zaten.",
+      "nickname": "EmreKanduuurr",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-f0f700000000",
+      "date": "2026-10-20T12:12:45",
+      "rating": 1,
+      "title": "bozuk",
+      "body": "rezil uygulama durmadan çöküyor",
+      "nickname": "mahinsherlock",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-f0a300000000",
+      "date": "2026-10-20T12:12:43",
+      "rating": 1,
+      "title": "Bizimkilerin yapacağı bu olur",
+      "body": "Neden hata veriyor sürekli bu uygulama birde bütün maçları aldınız. Parayı alırken hata vermiyorsunuz",
+      "nickname": "Ahmet SÖYLER",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-ef8d00000000",
+      "date": "2026-10-20T12:12:38",
+      "rating": 1,
+      "title": "Sizin gibi uygulamayı S",
+      "body": "Siz 1 tl bile hak ediyorsunuz amk larım bi maç izleyeceğim hata veriyor uygulama",
+      "nickname": "Snr arn",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-ecbf00000000",
+      "date": "2026-10-20T12:12:23",
+      "rating": 1,
+      "title": "Beceriksizler",
+      "body": "Sizin yapıcağınız işin bu kadar mı beceriksiz olursunuz ya",
+      "nickname": "Parasınıödediğimşeyaçılmıyor",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-e5fa00000000",
+      "date": "2026-10-20T12:11:49",
+      "rating": 1,
+      "title": "Senin gibi uygulama olmaz olsun",
+      "body": "Senin gibi uygulama olmaz olsun",
+      "nickname": "Atiii2019",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-e5db00000000",
+      "date": "2026-10-20T12:11:48",
+      "rating": 1,
+      "title": "Rezalet",
+      "body": "Her maç izlemek istediğimizde yarım saat uygulamanın time outlarıyla mı uğraşacağız? Apptal aptal işler yapıyorsunuz bir de üstüne para istiyorsunuz utanmaz rezil herifler",
+      "nickname": "erdemboyuk",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-e46300000000",
+      "date": "2026-10-20T12:11:40",
+      "rating": 1,
+      "title": "REZALET",
+      "body": "Para ödüyorum uygulamaya girmiyor",
+      "nickname": "Heeellpp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-e31b00000000",
+      "date": "2026-10-20T12:11:34",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "Maç izlemek için üye oldum parayı aldı ama açılmadı hata verdi anlayacağınız biraz para tuzağı yakışmadı",
+      "nickname": "kaplan72",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-dbfb00000000",
+      "date": "2026-10-20T12:10:58",
+      "rating": 1,
+      "title": "DÜZELTİN ARTIK BU UYGULANAYI",
+      "body": "Her yoğun maç zamanında bir uygulamaya giriş yapılamıyorsa geliştiricilerin bir halt bilmediklerinin kanıtıdır bu yani nasıl olurda her defasında sorun çıkar bir uygulamada geliştiricileri özellikle özel eğtim sınıflarındanmı seçiyorsun bu kadar rezil bir uygulama görmedim lütfen artık bu uygulamayı daha senkronize hale getirin her maça insan 20 dk da yetişirmi ya",
+      "nickname": "Westijel63",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-d7b800000000",
+      "date": "2026-10-20T12:10:37",
+      "rating": 1,
+      "title": "Çok kötü premium üyeliğim olduğu halde giremiyorum",
+      "body": "Rezalet",
+      "nickname": "edizzzxx",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-d0fc00000000",
+      "date": "2026-10-20T12:10:02",
+      "rating": 1,
+      "title": "Yayın",
+      "body": "Ücret ödeyip premium abonelik satın aldığım uygulama tam maç saatinde açılmıyor. Tüm dünyanın merakla beklediği PSG-Barcelona maçı ve diğer ŞL maçları başladığı andan beri şu an 10. dakikadayız ve yayın yok.",
+      "nickname": "gnsscat",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-c96600000000",
+      "date": "2026-10-20T12:09:25",
+      "rating": 1,
+      "title": "Bağlanma hatası",
+      "body": "Ne zaman bir şey izlemeye çalışsam açılmıyor. TRT’nin yaptığı bir uygulama bu kadar kötü olmamalı!",
+      "nickname": "SerkanSu",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-c49c00000000",
+      "date": "2026-10-20T12:09:02",
+      "rating": 1,
+      "title": "ziyan",
+      "body": "NE TELEFONLAR GİREBİLİYORUM NE DE TELEVİZYONDAN. TRT NİN HİZMETİ BU KADAR OLUR",
+      "nickname": "Trakipoglu",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-c18800000000",
+      "date": "2026-10-20T12:08:47",
+      "rating": 1,
+      "title": "Dandik",
+      "body": "Her maç yayınlarında cökermi bir sistem ya",
+      "nickname": "İzleyici55551",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-aab500000000",
+      "date": "2026-10-20T12:06:55",
+      "rating": 1,
+      "title": "Maç keyfi",
+      "body": "Bi psg barça maçı izlicez onda da çalışmıyor",
+      "nickname": "Maçizliyoruz",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9e-410000000000",
+      "date": "2026-10-20T11:58:08",
+      "rating": 1,
+      "title": "Haram nedir, haram budur",
+      "body": "Benim verdiğim vergiyle uygılama yap sonra maç izlemek istersen para vereceksin de. Zıkkım olsun!",
+      "nickname": "Özgür—-",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6b9c-39f600000000",
+      "date": "2026-10-20T11:14:57",
+      "rating": 1,
+      "title": "Rezalet",
+      "body": "Neredeyse iki yıldır aylık boşuna mı Ödemiş oluyorum yani!Tabiinin gelişimi için çalışan yetkililer,premium aboneliğim olmasına rağmen tabii Spor kanallarini  canlı izleyemiyorum,sürekli bağlantı sorunu var.Dahası dil ve alt yazısı sorunları ekstra dert.İçerik olarak da bir iki çekilmiş trt dizisi ve film dışında bu kadar sığ içeriklerle nasıl dünyaya açılabilinir ki!! Biliyorum okuyup da ciddi alacak kimse yok fakat yine de yazmadan edemedin zira milli bir işe kalkışmışsınız hakkını verin de biz de canı gönülden destek olalım.",
+      "nickname": "Azadlı Köle",
+      "territory": "DEU"
+    },
+    {
+      "id": "00000063-7266-3903-6b99-a03d00000000",
+      "date": "2026-10-20T10:20:43",
+      "rating": 1,
+      "title": "Kalite ve hız",
+      "body": "Ne yayınlar hızlı açılıyor ne de görüntüler kaliteli çok amatörce",
+      "nickname": "goglglglg",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6adc-907000000000",
       "date": "2026-10-17T07:33:34",
@@ -22060,21 +22987,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -22204,21 +23131,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d7800000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
-      "nickname": "BabyVandal",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d6000000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Donuyor",
       "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
       "nickname": "Nişw",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d7800000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
+      "nickname": "BabyVandal",
       "territory": "TUR"
     },
     {
@@ -22492,21 +23419,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -22627,21 +23554,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
