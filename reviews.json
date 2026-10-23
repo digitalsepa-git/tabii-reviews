@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-10-22T11:15:56.929547Z",
-  "total": 4447,
+  "updated_at": "2026-10-23T11:05:56.980369Z",
+  "total": 4451,
   "appstore": {
-    "average": 4.49775,
-    "count": 68142,
-    "current_version_average": 4.49775,
-    "current_version_count": 68142,
+    "average": 4.48976,
+    "count": 68303,
+    "current_version_average": 4.48976,
+    "current_version_count": 68303,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6bdd-86cf00000000",
+      "date": "2026-10-21T13:06:26",
+      "rating": 1,
+      "title": "ABONELİK",
+      "body": "100₺ etmez!!!",
+      "nickname": "Jakslodo",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6bda-cede00000000",
+      "date": "2026-10-21T12:06:46",
+      "rating": 1,
+      "title": "Maç tekrarı ve ekran sayısı",
+      "body": "Maçları tekrar ya da yayını geriden izlemenin bir yolunu gösterin. Ve ekran sayısını arttırın. Para verip hizmet almamıza engel olmayın",
+      "nickname": "djdjseısjeısj",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6bd6-cfbd00000000",
+      "date": "2026-10-21T10:45:08",
+      "rating": 1,
+      "title": "Türkiye dışında izleme yok",
+      "body": "Türkiye dışında izleme gibi bir şansınız yok. Bunu paranızı aldıklarında söylemiyorlar. Yurtdışından VPN ile Türkiye ye bağlanacaksınız. Yavaş bağlantıdan sonra bu bölgeden bunu izleyemezsiniz diye mesaj çıkacak. Paranızı kaptırmayın",
+      "nickname": "Dwarfest",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6bc6-75e100000000",
+      "date": "2026-10-21T05:34:55",
+      "rating": 1,
+      "title": "Tabii",
+      "body": "A very bad app; after completing the account setup, it shows me that my request cannot be processed.👎🏼",
+      "nickname": "alhowra_2007",
+      "territory": "SAU"
+    },
     {
       "id": "00000063-7266-3903-6ba3-78c900000000",
       "date": "2026-10-20T13:56:39",
@@ -22987,21 +23023,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -23311,21 +23347,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-003600000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "Çöktü. Rezalet",
-      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
-      "nickname": "Babapro.31",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-001300000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "REZİLLER",
       "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
       "nickname": "chevfb1907₺",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-003600000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "Çöktü. Rezalet",
+      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
+      "nickname": "Babapro.31",
       "territory": "TUR"
     },
     {
@@ -23419,21 +23455,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
