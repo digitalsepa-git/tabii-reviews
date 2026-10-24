@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-10-23T11:05:56.980369Z",
-  "total": 4451,
+  "updated_at": "2026-10-24T10:22:25.715578Z",
+  "total": 4452,
   "appstore": {
-    "average": 4.48976,
-    "count": 68303,
-    "current_version_average": 4.48976,
-    "current_version_count": 68303,
+    "average": 4.48975,
+    "count": 68302,
+    "current_version_average": 4.48975,
+    "current_version_count": 68302,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6c07-a41000000000",
+      "date": "2026-10-22T06:57:03",
+      "rating": 1,
+      "title": "Kullandığım en berbat uygulama",
+      "body": "Bugüne kadar böyle garip bi sorunla hiç karşılaşmadım. Çok berbat bir uygulama. Görüntü zaten berbattı, bağlantı problemi sürekli oluyordu bunlara alıştım zaten. Bu seferde ödemesini yapıyorsunuz kafasına göre üyeliğinizi ücretsize alıyor. Bunu düzeltmek için 2 gün uğraşıyorsunuz aldığınız cevap ‘ödeme yapmamışsınız görüntüleyemiyorum’ oluyor. Kredi kartı ekstresinde tabii ye yapılan ödemeyi görmem dışında sorun yok. Rezalet bi uygulama. Bu uygulamaya verilen maç yayını geri alınmalı.",
+      "nickname": "erknkrnn",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6bdd-86cf00000000",
       "date": "2026-10-21T13:06:26",
@@ -23167,21 +23176,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
