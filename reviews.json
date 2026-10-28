@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-10-27T11:40:27.772254Z",
-  "total": 4453,
+  "updated_at": "2026-10-28T12:12:25.425812Z",
+  "total": 4454,
   "appstore": {
-    "average": 4.48965,
-    "count": 68306,
-    "current_version_average": 4.48965,
-    "current_version_count": 68306,
+    "average": 4.48963,
+    "count": 68305,
+    "current_version_average": 4.48963,
+    "current_version_count": 68305,
     "version": "1.4.0"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6d04-8bde00000000",
+      "date": "2026-10-26T07:44:44",
+      "rating": 4,
+      "title": "yayın duruyor",
+      "body": "Her hangi bir kanal izlerken yayın duruyor, uygulamayı kapatıp açmadan kanal açılmıyor, uygulamayı kapatıp açıyorum sonra açılıyor, sıkıntının giderilmesi temennisiyle",
+      "nickname": "murat alış",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6c55-5eba00000000",
       "date": "2026-10-23T12:22:28",
@@ -23176,21 +23185,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -23581,21 +23590,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2cd00000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Rezillik ötesiiiii!!!",
-      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
-      "nickname": "Abdulkerim şalış",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2e900000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Spor",
       "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
       "nickname": "Championcl",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2cd00000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Rezillik ötesiiiii!!!",
+      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
+      "nickname": "Abdulkerim şalış",
       "territory": "TUR"
     },
     {
