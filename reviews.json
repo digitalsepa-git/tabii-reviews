@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-10-31T11:45:20.396548Z",
-  "total": 4456,
+  "updated_at": "2026-11-01T12:44:41.786061Z",
+  "total": 4458,
   "appstore": {
-    "average": 4.48953,
-    "count": 68311,
-    "current_version_average": 4.48953,
-    "current_version_count": 68311,
+    "average": 4.48949,
+    "count": 68315,
+    "current_version_average": 4.48949,
+    "current_version_count": 68315,
     "version": "1.4.1"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6e09-354f00000000",
+      "date": "2026-10-30T13:25:04",
+      "rating": 1,
+      "title": "Rezalet",
+      "body": "Canlı yayın izletmiyor yayın akışında başa sarıyor bu rezillik başka bir şey değil",
+      "nickname": ".53….",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6de4-d93e00000000",
+      "date": "2026-10-30T00:33:20",
+      "rating": 5,
+      "title": "Stabilite Hata Var",
+      "body": "Çoğu zaman uygulama kendini sıfırlıyor. İzlediklerim yarım kalanlar yerinde durmuyor. Hatta izlemediğim bölümler izlenmiş görünüyor ve belki de uygulama altta çalışmaya devam ediyor.",
+      "nickname": "maksoy39",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6dc6-0fca00000000",
       "date": "2026-10-29T11:00:36",
@@ -23068,21 +23086,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bbb00000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "A",
-      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
-      "nickname": "Tabinin dolandırıcı",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bb700000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "Bağlantı sorunu",
       "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
       "nickname": "aalidagg",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bbb00000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "A",
+      "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
+      "nickname": "Tabinin dolandırıcı",
       "territory": "TUR"
     },
     {
@@ -23212,21 +23230,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d7800000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
-      "nickname": "BabyVandal",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d6000000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Donuyor",
       "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
       "nickname": "Nişw",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d7800000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
+      "nickname": "BabyVandal",
       "territory": "TUR"
     },
     {
@@ -23500,21 +23518,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -23635,21 +23653,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0ee00000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "A",
-      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
-      "nickname": "18483837",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0e300000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
       "nickname": "İmperial",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0ee00000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "A",
+      "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
+      "nickname": "18483837",
       "territory": "TUR"
     },
     {
