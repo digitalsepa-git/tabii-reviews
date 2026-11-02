@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-11-01T12:44:41.786061Z",
-  "total": 4458,
+  "updated_at": "2026-11-02T14:53:06.032900Z",
+  "total": 4459,
   "appstore": {
-    "average": 4.48949,
-    "count": 68315,
-    "current_version_average": 4.48949,
-    "current_version_count": 68315,
+    "average": 4.48942,
+    "count": 68312,
+    "current_version_average": 4.48942,
+    "current_version_count": 68312,
     "version": "1.4.1"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6e3c-d32e00000000",
+      "date": "2026-10-31T09:37:57",
+      "rating": 1,
+      "title": "Berbat",
+      "body": "Canlı yayın esnasında dizimi izlerken sürekli siyasi içerikli programla dizi bölündü ve gir çık yapmaktan diziyi doğru dürüst izleyemedim.!!",
+      "nickname": "frdevseda",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6e09-354f00000000",
       "date": "2026-10-30T13:25:04",
@@ -9523,21 +9532,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a1fd00000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Kötü",
-      "body": "Kötü",
-      "nickname": "Kötüüüüp",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a21200000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Boykot",
       "body": "Boykot",
       "nickname": "Ydlasaa",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a1fd00000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Kötü",
+      "body": "Kötü",
+      "nickname": "Kötüüüüp",
       "territory": "TUR"
     },
     {
@@ -23410,21 +23419,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -23635,21 +23644,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Rezillik ötesiiiii!!!",
       "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
       "nickname": "Abdulkerim şalış",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
