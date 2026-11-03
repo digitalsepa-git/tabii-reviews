@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02T14:53:06.032900Z",
-  "total": 4459,
+  "updated_at": "2026-11-03T13:42:05.087784Z",
+  "total": 4458,
   "appstore": {
-    "average": 4.48942,
-    "count": 68312,
-    "current_version_average": 4.48942,
-    "current_version_count": 68312,
+    "average": 4.48935,
+    "count": 68310,
+    "current_version_average": 4.48935,
+    "current_version_count": 68310,
     "version": "1.4.1"
   },
   "reviews": [
@@ -3509,15 +3509,6 @@
       "body": "Uygulamayı açınca izlemeye devam et ilk sayfada olmalı",
       "nickname": "AhyusCg",
       "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-322c-973b00000000",
-      "date": "2026-02-08T04:56:22",
-      "rating": 1,
-      "title": "Boşuna kayıt olmayın",
-      "body": "Boşuna kayıt olmayın zorla para vermeden uygulamanın içini keşif edemiyorsunuz ben kayıt oldum siz aynı hataya düşmeyin",
-      "nickname": "Uğur-g9r",
-      "territory": "DEU"
     },
     {
       "id": "00000063-7266-3903-3036-772400000000",
@@ -23095,21 +23086,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -23419,21 +23410,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-003600000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "Çöktü. Rezalet",
-      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
-      "nickname": "Babapro.31",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-001300000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "REZİLLER",
       "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
       "nickname": "chevfb1907₺",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-003600000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "Çöktü. Rezalet",
+      "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
+      "nickname": "Babapro.31",
       "territory": "TUR"
     },
     {
@@ -23662,21 +23653,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
@@ -23937,7 +23928,7 @@
       "rating": 5,
       "title": "Harika",
       "body": "Her yaştan insanın kullanabileceği ve ailece oturup izleyebileceği en güzel uygulama 🤍",
-      "nickname": "Emine ‘",
+      "nickname": "Emine Özdemr",
       "territory": "TUR"
     },
     {
