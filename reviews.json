@@ -1,14 +1,140 @@
 {
-  "updated_at": "2026-11-04T13:51:02.753003Z",
-  "total": 4459,
+  "updated_at": "2026-11-06T13:48:42.153266Z",
+  "total": 4472,
   "appstore": {
-    "average": 4.48937,
-    "count": 68313,
-    "current_version_average": 4.48937,
-    "current_version_count": 68313,
+    "average": 4.48848,
+    "count": 68332,
+    "current_version_average": 4.48848,
+    "current_version_count": 68332,
     "version": "1.4.1"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-6f4e-577200000000",
+      "date": "2026-11-04T20:11:24",
+      "rating": 1,
+      "title": "Çok Kötü Uygulama",
+      "body": "\"Beni Hatırla\" seçeneği niye olur sayın yazılımcı? Beni hatırlaması için değil mi? Ama tahmin et hangi uygulamaya her girdiğimizde kullanıcı adı ve şifresi istiyor?",
+      "nickname": "ErSoo_01",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6f3b-2c9700000000",
+      "date": "2026-11-04T12:14:34",
+      "rating": 5,
+      "title": "Yayın duraklaması",
+      "body": "Sürekli yayında duraklama var ve ekranı küçültünce yayın duruyor. Küçüldüğünde de yayına devam etmesi daha iyi olur",
+      "nickname": "cemil ceylan",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6f38-fcbd00000000",
+      "date": "2026-11-04T11:24:51",
+      "rating": 1,
+      "title": "Serhat",
+      "body": "Berbat bir uygulamanız var yetersiz geliyor herkes girmeye çalışınca kapanıp hata veriyor madem geniş kitlelere hizmet edecek bir uygulama yapıyorsunuz iyice çalıştığından emin olun o şekilde hizmete sunun salak salak uygulama yapmaya devam edin maçın ortasında diziye geçiyor",
+      "nickname": "Kisksjdhshsh",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6f38-43c200000000",
+      "date": "2026-11-04T11:08:44",
+      "rating": 1,
+      "title": "Sürekli atıyor",
+      "body": "Bu kadar berbat bi uygulama yok ya hiç bişe izleyemiyorsun herşey net olacak ülkemizdeki internet çoook müthişmiş gibi az bişe düşsün internet atıyor acayip bişe ya bişe izleyemiyorsun ki saçma sapan",
+      "nickname": "ENESDURMUŞ",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6f38-354500000000",
+      "date": "2026-11-04T11:07:29",
+      "rating": 1,
+      "title": "Leş",
+      "body": "Dünyanın en kötü maç izleme programı olabilir leş",
+      "nickname": "Omeroguz",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6f35-995c00000000",
+      "date": "2026-11-04T10:11:16",
+      "rating": 1,
+      "title": "Problem",
+      "body": "Bu nedir ya boşuna mı üyelik için o kadar para veriyoruz doğru düzgün maç izleyemiyorum canlı yayından yayın geçmişine atıp duruyor canlı yayın dönüyor yeter ama iki gündür maç izleyemiyorum",
+      "nickname": "Kenomira",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efc-92cf00000000",
+      "date": "2026-11-03T11:25:50",
+      "rating": 3,
+      "title": "Arizali",
+      "body": "İphone 17 de maç esnasında sürekli en başa aliyor kendi kendini oynatıcı doğru düzgün bi maç izleyemedim sürekli aynı hata güncelleyin artık şu uygulamayi",
+      "nickname": "Aşerermmmm",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efc-606200000000",
+      "date": "2026-11-03T11:21:37",
+      "rating": 1,
+      "title": "Tabii spor canlı izleme",
+      "body": "Galatasaray STU maçı ikidebir trt1 diziye bağlanıyor spor içerikli\nPaketi de satın almama rağmen sürekli olması can sıkıyor",
+      "nickname": "Deli.motorcu39",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efb-b25200000000",
+      "date": "2026-11-03T11:07:18",
+      "rating": 2,
+      "title": "Canlı yayın",
+      "body": "Canlı yayın izlerken başa sarıyor. Bunu devamlı yapıyor. Bu uygulamayı ne zaman kullanılabilir hale getirmeyi düşünüyorsunuz?",
+      "nickname": "Bert866",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efb-ad4500000000",
+      "date": "2026-11-03T11:06:54",
+      "rating": 1,
+      "title": "Yayın kesintisi",
+      "body": "Sürekli yayın dizilerle kesilecekse niye para ödeniyor  bu uygulamaya",
+      "nickname": "Bozokk1",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efb-906b00000000",
+      "date": "2026-11-03T11:04:32",
+      "rating": 1,
+      "title": "Maç",
+      "body": "Maç izlerken geriden gelsin diyemi premimum aldım ben",
+      "nickname": "İsa27.",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efa-bbdd00000000",
+      "date": "2026-11-03T10:47:10",
+      "rating": 1,
+      "title": "Çok kötü",
+      "body": "Çok kötü bu kadar kötü olamaz",
+      "nickname": "yaşasınırkımız",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6efa-550a00000000",
+      "date": "2026-11-03T10:38:56",
+      "rating": 1,
+      "title": "Bu nasıl uygulama donma ve kendiliğinden kanal değiştiriyor",
+      "body": "Sürekli donmalar var premium üyelik almama rağmen TRT spordan otomatik olarak trt 1 e atıyor maçmı izliyoz sultan alpaslanmı belli değil",
+      "nickname": "Paramıgeristytyrm",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-6ef7-c2cf00000000",
+      "date": "2026-11-03T09:46:41",
+      "rating": 1,
+      "title": "Kötüüüüüüüü",
+      "body": "Ne kadar kötü bi dijital platform sürekli donup duruyor",
+      "nickname": "Cabbarrrrrr123",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6ea1-1fef00000000",
       "date": "2026-11-02T00:44:09",
@@ -331,15 +457,6 @@
       "title": "Time out hatası",
       "body": "Uygulamaya giriş bile yapılamıyor.",
       "nickname": "Cnbss.7",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-6b9f-871300000000",
-      "date": "2026-10-20T12:25:21",
-      "rating": 1,
-      "title": "Serhat",
-      "body": "Berbat bir uygulamanız var yetersiz geliyor herkes girmeye çalışınca kapanıp hata veriyor madem geniş kitlelere hizmet edecek bir uygulama yapıyorsunuz iyice çalıştığından emin olun o şekilde hizmete sunun",
-      "nickname": "Kisksjdhshsh",
       "territory": "TUR"
     },
     {
@@ -23644,21 +23761,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2cd00000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Rezillik ötesiiiii!!!",
-      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
-      "nickname": "Abdulkerim şalış",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2e900000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Spor",
       "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
       "nickname": "Championcl",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2cd00000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Rezillik ötesiiiii!!!",
+      "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
+      "nickname": "Abdulkerim şalış",
       "territory": "TUR"
     },
     {
