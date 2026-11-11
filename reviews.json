@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-11-10T14:25:23.441961Z",
+  "updated_at": "2026-11-11T13:39:00.473435Z",
   "total": 4474,
   "appstore": {
-    "average": 4.48832,
-    "count": 68342,
-    "current_version_average": 4.48832,
-    "current_version_count": 68342,
+    "average": 4.48827,
+    "count": 68341,
+    "current_version_average": 4.48827,
+    "current_version_count": 68341,
     "version": "1.4.1"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-706d-5b1c00000000",
+      "date": "2026-11-09T13:35:36",
+      "rating": 2,
+      "title": "😶",
+      "body": "Daha iyi içerikler olabilir , netflix Amazon daha iyi 👇🏼",
+      "nickname": "indireyin",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-6ff7-f4b700000000",
       "date": "2026-11-07T15:01:44",
@@ -1411,15 +1420,6 @@
       "title": "Yabancı dizi ve filmler",
       "body": "İçeriklerin temiz olması gayet güzel ve gerçekten seçilmiş yayınlar fakat alt yazı okumak istemiyorum lütfen Türkçe seslendirme ekleyin",
       "nickname": "Bi mimar",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3903-68fc-829100000000",
-      "date": "2026-10-09T08:29:47",
-      "rating": 5,
-      "title": "Tabi destek",
-      "body": "Çok güzel uygulama",
-      "nickname": "İbrahim Halil fidanci",
       "territory": "TUR"
     },
     {
@@ -9667,21 +9667,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -23374,21 +23374,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -23662,21 +23662,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e74b00000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Sürekli hata",
-      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
-      "nickname": "kadiriir",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e72800000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Her zamanki gibi hata",
       "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
       "nickname": "KSLDJJDNXJF",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e74b00000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Sürekli hata",
+      "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
+      "nickname": "kadiriir",
       "territory": "TUR"
     },
     {
@@ -23779,21 +23779,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Rezillik ötesiiiii!!!",
       "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
       "nickname": "Abdulkerim şalış",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
