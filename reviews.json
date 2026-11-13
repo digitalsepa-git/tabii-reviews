@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T14:42:36.381386Z",
+  "updated_at": "2026-11-13T13:59:27.768507Z",
   "total": 4473,
   "appstore": {
-    "average": 4.48827,
-    "count": 68342,
-    "current_version_average": 4.48827,
-    "current_version_count": 68342,
+    "average": 4.4883,
+    "count": 68341,
+    "current_version_average": 4.4883,
+    "current_version_count": 68341,
     "version": "1.4.1"
   },
   "reviews": [
