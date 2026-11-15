@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14T13:01:18.223762Z",
-  "total": 4474,
+  "updated_at": "2026-11-15T13:29:53.580769Z",
+  "total": 4473,
   "appstore": {
-    "average": 4.48824,
-    "count": 68341,
-    "current_version_average": 4.48824,
-    "current_version_count": 68341,
+    "average": 4.48826,
+    "count": 68338,
+    "current_version_average": 4.48826,
+    "current_version_count": 68338,
     "version": "1.4.1"
   },
   "reviews": [
@@ -11364,7 +11364,7 @@
       "rating": 1,
       "title": "Donıyor",
       "body": "Donuyor",
-      "nickname": "PKXD Lover🥳",
+      "nickname": "Block Legends Oyuncusu",
       "territory": "TUR"
     },
     {
@@ -23383,21 +23383,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-1d6000000000",
-      "date": "2024-11-05T12:15:15",
-      "rating": 1,
-      "title": "Donuyor",
-      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
-      "nickname": "Nişw",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-1d7800000000",
       "date": "2024-11-05T12:15:15",
       "rating": 1,
       "title": "Uygulama açılmıyor",
       "body": "Maçların başladığı vakit uygulama nedense açılmıyor bir de her ay para öddüyoruz maç izleyememek için bu nasıl iştir",
       "nickname": "BabyVandal",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-1d6000000000",
+      "date": "2024-11-05T12:15:15",
+      "rating": 1,
+      "title": "Donuyor",
+      "body": "Aylık para veriyoruz ama uygulama çalışmıyor bu nasıl bir rezillik gerçekten şaka gibi",
+      "nickname": "Nişw",
       "territory": "TUR"
     },
     {
@@ -23788,21 +23788,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Rezillik ötesiiiii!!!",
       "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
       "nickname": "Abdulkerim şalış",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
@@ -34063,15 +34063,6 @@
       "title": "Gayet iyi",
       "body": "Ücretsiz bir uygulama için gayet güzel. Tabiiki eksikleri ve hataları mevcut ama zamanla düzeleceğini tahmin ediyorum.",
       "nickname": "alibeyc",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-693c-76d600000000",
-      "date": "2023-09-10T15:13:36",
-      "rating": 2,
-      "title": "Sıkıntı",
-      "body": "Her reklam sonrası uygulama dönüyor düzeltilmesi gerek",
-      "nickname": "Havzafatihi",
       "territory": "TUR"
     },
     {
