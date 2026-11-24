@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-11-23T17:29:48.815736Z",
-  "total": 4479,
+  "updated_at": "2026-11-24T17:01:38.859504Z",
+  "total": 4481,
   "appstore": {
-    "average": 4.4881,
-    "count": 68340,
-    "current_version_average": 4.4881,
-    "current_version_count": 68340,
+    "average": 4.48805,
+    "count": 68343,
+    "current_version_average": 4.48805,
+    "current_version_count": 68343,
     "version": "1.4.2"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-7364-745600000000",
+      "date": "2026-11-22T06:47:02",
+      "rating": 4,
+      "title": "Yorum yazma özelliği",
+      "body": "Öneri olarak yapımları izleynelerin yapım hakkındaki fikirlerini yazmısı hoş olabilir böylece izleyecek olan kişi yorumlardan onun seyir zevkine uygun olup olmadığını anlayabilir ya da benim gibi sipoler seven insanlar bundan faydalanabilir teşekkürler",
+      "nickname": "Mdldldldldldşsssğeıırmcöx",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-72f8-871800000000",
       "date": "2026-11-20T12:07:58",
@@ -2014,6 +2023,15 @@
       "title": "açılmıyor",
       "body": "hata veriyor girmiyor",
       "nickname": "abhabhababjsaja",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-54c8-83b100000000",
+      "date": "2026-07-15T12:12:10",
+      "rating": 1,
+      "title": "Açılmıyor",
+      "body": "Yav ağzımı bozacam dün donuyordu bugün açılmıyor para almayı biliyorsunuz ama",
+      "nickname": "Geblogeblo",
       "territory": "TUR"
     },
     {
@@ -9730,21 +9748,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a21200000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Boykot",
-      "body": "Boykot",
-      "nickname": "Ydlasaa",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a1fd00000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Kötü",
       "body": "Kötü",
       "nickname": "Kötüüüüp",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a21200000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Boykot",
+      "body": "Boykot",
+      "nickname": "Ydlasaa",
       "territory": "TUR"
     },
     {
@@ -23860,21 +23878,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d0e300000000",
-      "date": "2024-11-05T12:08:15",
-      "rating": 1,
-      "title": "Uygulama açılmıyor",
-      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
-      "nickname": "İmperial",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d0ee00000000",
       "date": "2024-11-05T12:08:15",
       "rating": 1,
       "title": "A",
       "body": "Para verdim üyelik aldım uygulama açılmıyor haram zıkkım olsun allah bin belanızı",
       "nickname": "18483837",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d0e300000000",
+      "date": "2024-11-05T12:08:15",
+      "rating": 1,
+      "title": "Uygulama açılmıyor",
+      "body": "Uygulama maç günlerinde çöküyor, para verip rezil olmak isteyen satın alsın",
+      "nickname": "İmperial",
       "territory": "TUR"
     },
     {
