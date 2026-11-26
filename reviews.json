@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-11-25T16:51:56.844885Z",
-  "total": 4480,
+  "updated_at": "2026-11-26T16:29:10.608301Z",
+  "total": 4483,
   "appstore": {
-    "average": 4.48815,
-    "count": 68341,
-    "current_version_average": 4.48815,
-    "current_version_count": 68341,
+    "average": 4.48776,
+    "count": 68351,
+    "current_version_average": 4.48776,
+    "current_version_count": 68351,
     "version": "1.4.2"
   },
   "reviews": [
+    {
+      "id": "00000063-7266-3903-73f1-487a00000000",
+      "date": "2026-11-24T12:56:54",
+      "rating": 1,
+      "title": "ÇÖP",
+      "body": "REZİL UYGULAMA!! BUNA 300tl istemek de …",
+      "nickname": "Jakslodo",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-73e9-f43800000000",
+      "date": "2026-11-24T10:23:06",
+      "rating": 1,
+      "title": "Şampiyonlar Ligi",
+      "body": "Her maç günü donan bir yayın",
+      "nickname": "SerSebastian",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-73e8-c25b00000000",
+      "date": "2026-11-24T09:59:19",
+      "rating": 1,
+      "title": "Boşa para vermeyin",
+      "body": "Maç izlerken donuyo",
+      "nickname": "Malamadi",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3903-73e8-5bd500000000",
+      "date": "2026-11-24T09:51:24",
+      "rating": 1,
+      "title": "Şampiyonlar ligi değilsiniz",
+      "body": "Bu uygulamaya bu kadar para veriyoruz canlı maçları neden izleyemiyoruz",
+      "nickname": "Yavuz selim acar",
+      "territory": "TUR"
+    },
     {
       "id": "00000063-7266-3903-7364-745600000000",
       "date": "2026-11-22T06:47:02",
@@ -9739,21 +9775,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-e6af-a1fd00000000",
-      "date": "2025-03-24T13:52:34",
-      "rating": 1,
-      "title": "Kötü",
-      "body": "Kötü",
-      "nickname": "Kötüüüüp",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-e6af-a21200000000",
       "date": "2025-03-24T13:52:34",
       "rating": 1,
       "title": "Boykot",
       "body": "Boykot",
       "nickname": "Ydlasaa",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-e6af-a1fd00000000",
+      "date": "2025-03-24T13:52:34",
+      "rating": 1,
+      "title": "Kötü",
+      "body": "Kötü",
+      "nickname": "Kötüüüüp",
       "territory": "TUR"
     },
     {
@@ -23302,21 +23338,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-2bb700000000",
-      "date": "2024-11-05T12:16:33",
-      "rating": 1,
-      "title": "Bağlantı sorunu",
-      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
-      "nickname": "aalidagg",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-2bbb00000000",
       "date": "2024-11-05T12:16:33",
       "rating": 1,
       "title": "A",
       "body": "BEN BÖYLE Bİ REZALET Bİ UYGULAMA GÖRMEDİM PARAYI YATIRDIM MAÇLARI İZLEYEMİYORUM ŞAKA GİBİ",
       "nickname": "Tabinin dolandırıcı",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-2bb700000000",
+      "date": "2024-11-05T12:16:33",
+      "rating": 1,
+      "title": "Bağlantı sorunu",
+      "body": "Bu kadar rezil bir uygulama görmedim. Maç saati yayın açılmıyor, vermiş olduğumuz paraya yazık günah!",
+      "nickname": "aalidagg",
       "territory": "TUR"
     },
     {
@@ -23626,21 +23662,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c648-001300000000",
-      "date": "2024-11-05T12:12:32",
-      "rating": 1,
-      "title": "REZİLLER",
-      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
-      "nickname": "chevfb1907₺",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c648-003600000000",
       "date": "2024-11-05T12:12:32",
       "rating": 1,
       "title": "Çöktü. Rezalet",
       "body": "Real madrid- milan maçı var diye uygulama çöktü inanılır gibi değil resmen rezalet. Aboneliği iptal edecem exxen daha iyi",
       "nickname": "Babapro.31",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c648-001300000000",
+      "date": "2024-11-05T12:12:32",
+      "rating": 1,
+      "title": "REZİLLER",
+      "body": "Ne telefondan ne bişgisyardan ne de tv den giriş yapamıyorum hata 400 kodu veriyor.",
+      "nickname": "chevfb1907₺",
       "territory": "TUR"
     },
     {
@@ -23662,21 +23698,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-fb6e00000000",
-      "date": "2024-11-05T12:12:07",
-      "rating": 1,
-      "title": "Abonelik aldım girmiyor",
-      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
-      "nickname": "Mutlu4545",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-fb6a00000000",
       "date": "2024-11-05T12:12:07",
       "rating": 1,
       "title": "çökme",
       "body": "ne zaman maç izlemem istersem çöküyor hiç bir şekilde giriş yapamıyorum altyapı eksik anca bu kadar olur zaten",
       "nickname": "+ lıyın",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-fb6e00000000",
+      "date": "2024-11-05T12:12:07",
+      "rating": 1,
+      "title": "Abonelik aldım girmiyor",
+      "body": "Abonelik aldım şampiyonlar ligi için ama girmiyor genelde sorun oluştu diyor boşuna para vermişim pişmanım",
+      "nickname": "Mutlu4545",
       "territory": "TUR"
     },
     {
@@ -23734,21 +23770,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-e72800000000",
-      "date": "2024-11-05T12:10:17",
-      "rating": 1,
-      "title": "Her zamanki gibi hata",
-      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
-      "nickname": "KSLDJJDNXJF",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-e74b00000000",
       "date": "2024-11-05T12:10:17",
       "rating": 1,
       "title": "Sürekli hata",
       "body": "Sürekli maç izlerken atıyor paranıza yazık indirmeyin",
       "nickname": "kadiriir",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-e72800000000",
+      "date": "2024-11-05T12:10:17",
+      "rating": 1,
+      "title": "Her zamanki gibi hata",
+      "body": "Bir kere düzgün bir şey yapılsın şu memlekette gerçekten başından sonuna aldığınız para haram olsun .",
+      "nickname": "KSLDJJDNXJF",
       "territory": "TUR"
     },
     {
@@ -23851,21 +23887,21 @@
       "territory": "TUR"
     },
     {
-      "id": "00000063-7266-3902-c647-d2e900000000",
-      "date": "2024-11-05T12:08:26",
-      "rating": 1,
-      "title": "Spor",
-      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
-      "nickname": "Championcl",
-      "territory": "TUR"
-    },
-    {
       "id": "00000063-7266-3902-c647-d2cd00000000",
       "date": "2024-11-05T12:08:26",
       "rating": 1,
       "title": "Rezillik ötesiiiii!!!",
       "body": "Her maç zamanı yayın gidiyor bilgisayardan giriş yapılmıyor telefondan çıkış yapınca tekrar girerken hata veriyor ama her ay zamanı gelince ödemesini aksatmadan alıyor zerre hakkım helal değil yazıklar olsun.",
       "nickname": "Abdulkerim şalış",
+      "territory": "TUR"
+    },
+    {
+      "id": "00000063-7266-3902-c647-d2e900000000",
+      "date": "2024-11-05T12:08:26",
+      "rating": 1,
+      "title": "Spor",
+      "body": "Şampiyonlar ligi maçlarını açmakta problem yaşıyorum",
+      "nickname": "Championcl",
       "territory": "TUR"
     },
     {
@@ -27033,7 +27069,7 @@
       "rating": 1,
       "title": "Bir işe yaramıyor",
       "body": "Daha çok ekmek yemesi lazım kasıyor donuyor hem ta de hem iPad te izleyemedim kafayı yiyecektim neredeyse berbat boşuna gitti para",
-      "nickname": "afra mc",
+      "nickname": "JONY CRİS İç Giyim",
       "territory": "TUR"
     },
     {
@@ -34639,15 +34675,6 @@
       "title": "Reklam",
       "body": "Uygulama çok güzel amma haddinden fazla reklam var aynı reklam üstüste verilmesin sizlerden ricam daha koşa ve daha az reklam youtubeden farkınız olsun",
       "nickname": "gozde efe",
-      "territory": "TUR"
-    },
-    {
-      "id": "00000063-7266-3902-6383-feef00000000",
-      "date": "2023-08-14T23:38:49",
-      "rating": 3,
-      "title": "🤦🏻‍♀️",
-      "body": "İçerikler çok güzel ona söylecek bir sözüm yok…tek şikayetçi olduğum konu dizinin orta yerinde bangır bangır bağıran didi reklam müziği😫 \nDiğer reklamlarda böyle bir sorun yok didi reklamı resmen kulaklarımı tırmalıyor…",
-      "nickname": "Magnolia5544",
       "territory": "TUR"
     },
     {
